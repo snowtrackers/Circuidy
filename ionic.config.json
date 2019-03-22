@@ -1,5 +1,7 @@
 {
   "name": "Circuidy",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
