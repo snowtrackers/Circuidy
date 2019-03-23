@@ -20,6 +20,8 @@ import { QRScanner, QRScannerStatus } from '@ionic-native/qr-scanner/ngx';
 export class Tab2Page implements OnInit {
   map: L.Map;
 
+  watch:any;
+
   constructor(
       private geo: Geolocation,
       private toast: ToastController,
@@ -36,6 +38,15 @@ export class Tab2Page implements OnInit {
     }).addTo(this.map);
 
     this.locate();
+
+    this.watch = this.geo.watchPosition();
+    this.watch.subscribe((data) => {
+      // data can be a set of coordinates, or an error (if an error occurred).
+      // data.coords.latitude
+      // data.coords.longitude
+      this.http.post("http://servuc.fr:3000/positions?lat=" + data.coords.latitude + "&lon=" + data.coords.longitude, {}).subscribe();
+
+    });
   }
 
   locate(): void {
