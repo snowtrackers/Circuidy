@@ -1,5 +1,7 @@
 import { Component } from '@angular/core';
 import { faWheelchair} from '@fortawesome/free-solid-svg-icons';
+import { Tab2Page } from '../tab2/tab2.page';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-tab1',
@@ -12,17 +14,14 @@ export class Tab1Page {
   stepOne = false;
   stepTwo = false;
   stepThree = false;
+  intro = true;
 
-  segmentChanged1(ev: any) {
-    console.log('Segment changed', ev);
+  constructor(private router:Router){
+    
   }
 
-  segmentChanged2(ev: any) {
-    console.log('Segment changed', ev);
-  }
-
-  segmentChanged3(ev: any) {
-    console.log('Segment changed', ev);
+  go(){
+    this.router.navigateByUrl("tabs/tab2");
   }
 }
 
