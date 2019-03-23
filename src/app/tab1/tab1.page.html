@@ -17,9 +17,9 @@
         <p>Circuidy vous permez de créer un parcours qui correspond le mieux à vos contraintes. De plus, vous pouvez contribuer à notre communautée en nous donnant vote avis et en nous signalant d'éventuelles problèmes.</p>
       </ion-card-content>
     </ion-card>
-    
+
     <ion-toolbar>
-      <ion-segment (ionChange)="segmentChanged1($event)">
+      <ion-segment (ionChange)="stepOne = true">
         <ion-segment-button value="walk">
           <ion-icon name="walk"></ion-icon>
           <ion-label>A pied</ion-label>
@@ -29,7 +29,7 @@
           <ion-icon name="bicycle"></ion-icon>
           <ion-label>A vélo</ion-label>
         </ion-segment-button>
-      
+
         <ion-segment-button value="wheelchair">
             <ion-icon name="body"></ion-icon>
           <ion-label>PMR</ion-label>
@@ -37,8 +37,8 @@
     </ion-segment>
   </ion-toolbar>
 
-  <ion-toolbar id="toolbar2" class="hide">
-      <ion-segment (ionChange)="segmentChanged2($event)">
+  <ion-toolbar *ngIf="stepOne" id="toolbar2">
+      <ion-segment (ionChange)="stepTwo = true">
         <ion-segment-button value="walk">
           <ion-icon name="timer"></ion-icon>
           <ion-label>Demi-journée</ion-label>
@@ -51,8 +51,8 @@
     </ion-segment>
   </ion-toolbar>
 
-  <ion-toolbar d="toolbar3"class="hide">
-      <ion-segment (ionChange)="segmentChanged3($event)">
+  <ion-toolbar *ngIf="stepTwo">
+      <ion-segment (ionChange)="stepThree = true">
         <ion-segment-button value="inside">
           <ion-icon name="home"></ion-icon>
           <ion-label>Interieur</ion-label>
@@ -69,6 +69,8 @@
           </ion-segment-button>
     </ion-segment>
   </ion-toolbar>
-    
-  <ion-button d="button" expand="block" class="hide" fill="outline">GO !</ion-button>
+
+  <br>
+
+  <ion-button *ngIf="stepThree" expand="block" fill="outline">GO !</ion-button>
 </ion-content>

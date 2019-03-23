@@ -9,6 +9,10 @@ import { faWheelchair} from '@fortawesome/free-solid-svg-icons';
 export class Tab1Page {
   wheelchair = faWheelchair;
 
+  stepOne = false;
+  stepTwo = false;
+  stepThree = false;
+
   segmentChanged1(ev: any) {
     console.log('Segment changed', ev);
   }
