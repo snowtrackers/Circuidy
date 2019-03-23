@@ -1,0 +1,1728 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="49.482663600129200" minlon="0.068541566149928" maxlat="90.000000000000000" maxlon="3.000000000000000"/></metadata>                    
+<wpt lat="49.509115398214803" lon="0.073239703480651">
+  <name>kml_2</name>
+  <extensions>
+    <ogr:OBJECTID>32</ogr:OBJECTID>
+    <ogr:TOPONYME>Point de vue</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Point de vue</ogr:ETIQUETTE>
+    <ogr:CODCOM>76552</ogr:CODCOM>
+    <ogr:COMMUNE>Sainte-Adresse</ogr:COMMUNE>
+    <ogr:Field_6></ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76552</ogr:Field_4>
+    <ogr:Field_5>Sainte-Adresse</ogr:Field_5>
+    <ogr:Field_2>Point de vue</ogr:Field_2>
+    <ogr:Field_3>Point de vue</ogr:Field_3>
+    <ogr:Field_1>32</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.497459827784098" lon="0.121807539673015">
+  <name>kml_3</name>
+  <extensions>
+    <ogr:OBJECTID>33</ogr:OBJECTID>
+    <ogr:TOPONYME>Eglise</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Eglise Sainte-Anne</ogr:ETIQUETTE>
+    <ogr:CODCOM>76351</ogr:CODCOM>
+    <ogr:COMMUNE>Le Havre</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>En 1879, le chanoine Robert du Havre, qui gérait jadis l’église Saint-Vincent, achète à la veuve Holker un terrain de 2700 m2 dans ce qui est aujourd’hui le quartier Danton.</ogr:DESCRIPTIF>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/EGLISE-SAINTEANNE LE HAVRE.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6>En 1879, le chanoine Robert du Havre, qui gérait jadis l’église Saint-Vincent, achète à la veuve Holker un terrain de 2700 m2 dans ce qui est aujourd’hui le quartier Danton.</ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/EGLISE-SAINTEANNE LE HAVRE.jpg</ogr:Field_7>
+    <ogr:Field_4>76351</ogr:Field_4>
+    <ogr:Field_5>Le Havre</ogr:Field_5>
+    <ogr:Field_2>Eglise</ogr:Field_2>
+    <ogr:Field_3>Eglise Sainte-Anne</ogr:Field_3>
+    <ogr:Field_1>33</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.502734462173301" lon="0.082220196785932">
+  <name>kml_4</name>
+  <extensions>
+    <ogr:OBJECTID>34</ogr:OBJECTID>
+    <ogr:TOPONYME>Curiosité</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Estacade</ogr:ETIQUETTE>
+    <ogr:CODCOM>76552</ogr:CODCOM>
+    <ogr:COMMUNE>Sainte-Adresse</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Les pieds dans l'eau, l'estacade est l'un des symboles de Sainte-Adresse. Peinte par Dufy et Marquet, elle est l'objet de nombreuses toiles exposées dans les plus grands musées du monde.</ogr:DESCRIPTIF>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/Estacade_Ste_Adresse.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6>Les pieds dans l'eau, l'estacade est l'un des symboles de Sainte-Adresse. Peinte par Dufy et Marquet, elle est l'objet de nombreuses toiles exposées dans les plus grands musées du monde.</ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/Estacade_Ste_Adresse.jpg</ogr:Field_7>
+    <ogr:Field_4>76552</ogr:Field_4>
+    <ogr:Field_5>Sainte-Adresse</ogr:Field_5>
+    <ogr:Field_2>Curiosité</ogr:Field_2>
+    <ogr:Field_3>Estacade</ogr:Field_3>
+    <ogr:Field_1>34</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.4901014185834" lon="0.129821428647489">
+  <name>kml_5</name>
+  <extensions>
+    <ogr:OBJECTID>35</ogr:OBJECTID>
+    <ogr:TOPONYME>Curiosité</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Docks Vauban</ogr:ETIQUETTE>
+    <ogr:CODCOM>76351</ogr:CODCOM>
+    <ogr:COMMUNE>Le Havre</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Les docks représentent un volume bâti important sur le territoire portuaire : leur présence identifie un pan significatif de l’histoire havraise, liée aux travaux d’agrandissement du port à partir du milieu du XIXème siècle, nécessitant la construction de hangar-entrepôts. La réhabilitation de l’agence Reichen et Robert a judicieusement préservé ce vocabulaire architecturale spécifique : briques, toiture-shed, rues intérieures éclairées de façon zénithale, magasins… L’ensemble accueille 52 000 m2 de commerces et d’espaces de loisirs : cinéma multiplexe, jardinerie, restaurants, enseignes locales et régionales.</ogr:DESCRIPTIF>
+    <ogr:Field_6>Les docks représentent un volume bâti important sur le territoire portuaire : leur présence identifie un pan significatif de l’histoire havraise, liée aux travaux d’agrandissement du port à partir du milieu du XIXème siècle, nécessitant la construction de hangar-entrepôts. La réhabilitation de l’agence Reichen et Robert a judicieusement préservé ce vocabulaire architecturale spécifique : briques, toiture-shed, rues intérieures éclairées de façon zénithale, magasins… L’ensemble accueille 52 000 m2 de commerces et d’espaces de loisirs : cinéma multiplexe, jardinerie, restaurants, enseignes locales et régionales.</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76351</ogr:Field_4>
+    <ogr:Field_5>Le Havre</ogr:Field_5>
+    <ogr:Field_2>Curiosité</ogr:Field_2>
+    <ogr:Field_3>Docks Vauban</ogr:Field_3>
+    <ogr:Field_1>35</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.582190707792599" lon="0.212197135170535">
+  <name>kml_6</name>
+  <extensions>
+    <ogr:OBJECTID>36</ogr:OBJECTID>
+    <ogr:TOPONYME>Eglise</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Eglise St Hilaire</ogr:ETIQUETTE>
+    <ogr:CODCOM>76534</ogr:CODCOM>
+    <ogr:COMMUNE>Rolleville</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>La première église de style roman ne gardera que son portail d'origine et son abside. Des agrandissements et l'effondrement  de la tour Romaine en 1646 bouleversent l'ordonnancement architectural de l'édifice. Le clocher est du 17éme siècle.La rénovation des façades au début du 21éme siècle fera apparaitre la belle maçonnerie de pierre et de silex d'origine.</ogr:DESCRIPTIF>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/Eglise_St_Hilaire_Rolleville.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6>La première église de style roman ne gardera que son portail d'origine et son abside. Des agrandissements et l'effondrement  de la tour Romaine en 1646 bouleversent l'ordonnancement architectural de l'édifice. Le clocher est du 17éme siècle.La rénovation des façades au début du 21éme siècle fera apparaitre la belle maçonnerie de pierre et de silex d'origine.</ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/Eglise_St_Hilaire_Rolleville.jpg</ogr:Field_7>
+    <ogr:Field_4>76534</ogr:Field_4>
+    <ogr:Field_5>Rolleville</ogr:Field_5>
+    <ogr:Field_2>Eglise</ogr:Field_2>
+    <ogr:Field_3>Eglise St Hilaire</ogr:Field_3>
+    <ogr:Field_1>36</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.503538864499198" lon="0.164950401624431">
+  <name>kml_8</name>
+  <extensions>
+    <ogr:OBJECTID>38</ogr:OBJECTID>
+    <ogr:TOPONYME>Eglise</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Prieuré de Graville</ogr:ETIQUETTE>
+    <ogr:CODCOM>76351</ogr:CODCOM>
+    <ogr:COMMUNE>Le Havre</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>L'Abbaye de Graville, située à flanc de coteau sur une falaise aujourd’hui morte, domine l’embouchure de la Seine jusqu’à la mer. Elle est constituée d’une église avec une nef romane et un choeur gothique, et de bâtiments conventuels dont le réfectoire et le cloître ont aujourd'hui disparu.</ogr:DESCRIPTIF>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/prieure graville le havre.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6>L'Abbaye de Graville, située à flanc de coteau sur une falaise aujourd’hui morte, domine l’embouchure de la Seine jusqu’à la mer. Elle est constituée d’une église avec une nef romane et un choeur gothique, et de bâtiments conventuels dont le réfectoire et le cloître ont aujourd'hui disparu.</ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/prieure graville le havre.jpg</ogr:Field_7>
+    <ogr:Field_4>76351</ogr:Field_4>
+    <ogr:Field_5>Le Havre</ogr:Field_5>
+    <ogr:Field_2>Eglise</ogr:Field_2>
+    <ogr:Field_3>Prieuré de Graville</ogr:Field_3>
+    <ogr:Field_1>38</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.491780220388499" lon="0.107540892168401">
+  <name>kml_9</name>
+  <extensions>
+    <ogr:OBJECTID>39</ogr:OBJECTID>
+    <ogr:TOPONYME>Conseil du randonneur</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Maison du patrimoine</ogr:ETIQUETTE>
+    <ogr:CODCOM>76351</ogr:CODCOM>
+    <ogr:COMMUNE>Le Havre</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Ce lieu d’accueil vous propose des clés de lecture pour mieux comprendre le centre reconstruit. Point d’information touristique, il vous permet de découvrir Le Havre et son agglomération.</ogr:DESCRIPTIF>
+    <ogr:Field_6>Ce lieu d’accueil vous propose des clés de lecture pour mieux comprendre le centre reconstruit. Point d’information touristique, il vous permet de découvrir Le Havre et son agglomération.</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76351</ogr:Field_4>
+    <ogr:Field_5>Le Havre</ogr:Field_5>
+    <ogr:Field_2>Conseil du randonneur</ogr:Field_2>
+    <ogr:Field_3>Maison du patrimoine</ogr:Field_3>
+    <ogr:Field_1>39</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.506269819833399" lon="0.085440115664638">
+  <name>kml_10</name>
+  <extensions>
+    <ogr:OBJECTID>40</ogr:OBJECTID>
+    <ogr:TOPONYME>Eglise</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Eglise St Denis</ogr:ETIQUETTE>
+    <ogr:CODCOM>76552</ogr:CODCOM>
+    <ogr:COMMUNE>Sainte-Adresse</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>La nouvelle église paroissiale Saint-Denis a été construite entre 1874 et 1877 sur des plans de l'abbé Robert sur un terrain donné par Emile Masquelier qui paya une partie de la construction. La flèche a été dessinée par Barthélémy père, architecte diocésain, et exécutée par Certain-Chauvel, entrepreneur. En 1880, l'église est donnée à la commune qui fait détruire l'ancienne église Notre-Dame. En 1880, Emile Masquelier fait construire à ses frais la rampe d'accès à l'imitation de celle de l'église de la Trinité à Paris sur des plans de l'architecte Eugène Barthélémy</ogr:DESCRIPTIF>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/Eglise_St_denis_Ste_Adresse.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6>La nouvelle église paroissiale Saint-Denis a été construite entre 1874 et 1877 sur des plans de l'abbé Robert sur un terrain donné par Emile Masquelier qui paya une partie de la construction. La flèche a été dessinée par Barthélémy père, architecte diocésain, et exécutée par Certain-Chauvel, entrepreneur. En 1880, l'église est donnée à la commune qui fait détruire l'ancienne église Notre-Dame. En 1880, Emile Masquelier fait construire à ses frais la rampe d'accès à l'imitation de celle de l'église de la Trinité à Paris sur des plans de l'architecte Eugène Barthélémy</ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/Eglise_St_denis_Ste_Adresse.jpg</ogr:Field_7>
+    <ogr:Field_4>76552</ogr:Field_4>
+    <ogr:Field_5>Sainte-Adresse</ogr:Field_5>
+    <ogr:Field_2>Eglise</ogr:Field_2>
+    <ogr:Field_3>Eglise St Denis</ogr:Field_3>
+    <ogr:Field_1>40</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.595262149989303" lon="0.17821586899999">
+  <name>kml_30</name>
+  <extensions>
+    <ogr:OBJECTID>16</ogr:OBJECTID>
+    <ogr:TOPONYME>Parking de la salle polyvalente de Mannevillette</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Parking de la salle polyvalente</ogr:ETIQUETTE>
+    <ogr:CODCOM>76409</ogr:CODCOM>
+    <ogr:COMMUNE>Mannevillette</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Circuit des Vallons</ogr:DESCRIPTIF>
+    <ogr:Field_6>Circuit des Vallons</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76409</ogr:Field_4>
+    <ogr:Field_5>Mannevillette</ogr:Field_5>
+    <ogr:Field_2>Parking de la salle polyvalente de Mannevillette</ogr:Field_2>
+    <ogr:Field_3>Parking de la salle polyvalente</ogr:Field_3>
+    <ogr:Field_1>16</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.543191999029403" lon="0.189039216339161">
+  <name>kml_31</name>
+  <extensions>
+    <ogr:OBJECTID>17</ogr:OBJECTID>
+    <ogr:TOPONYME>Parking du point d'information tourisme</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Parking du point d'information tourisme</ogr:ETIQUETTE>
+    <ogr:CODCOM>76447</ogr:CODCOM>
+    <ogr:COMMUNE>Montivilliers</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Circuit Rébultot - Lézarde</ogr:DESCRIPTIF>
+    <ogr:Field_6>Circuit Rébultot - Lézarde</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76447</ogr:Field_4>
+    <ogr:Field_5>Montivilliers</ogr:Field_5>
+    <ogr:Field_2>Parking du point d'information tourisme</ogr:Field_2>
+    <ogr:Field_3>Parking du point d'information tourisme</ogr:Field_3>
+    <ogr:Field_1>17</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.4888307260658" lon="0.110530087577373">
+  <name>kml_12</name>
+  <extensions>
+    <ogr:OBJECTID>42</ogr:OBJECTID>
+    <ogr:TOPONYME>Curiosité</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Bassin du Roy</ogr:ETIQUETTE>
+    <ogr:CODCOM>76351</ogr:CODCOM>
+    <ogr:COMMUNE>Le Havre</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>La Ville du Havre a été créée en 1517 par François 1er et le bassin du Roy fut le premier bassin à être construit</ogr:DESCRIPTIF>
+    <ogr:Field_6>La Ville du Havre a été créée en 1517 par François 1er et le bassin du Roy fut le premier bassin à être construit </ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76351</ogr:Field_4>
+    <ogr:Field_5>Le Havre</ogr:Field_5>
+    <ogr:Field_2>Curiosité</ogr:Field_2>
+    <ogr:Field_3>Bassin du Roy</ogr:Field_3>
+    <ogr:Field_1>42</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.490151686219797" lon="0.104517765049778">
+  <name>kml_13</name>
+  <extensions>
+    <ogr:OBJECTID>43</ogr:OBJECTID>
+    <ogr:TOPONYME>Conseil du randonneur</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Marché dominical des Halles centrales</ogr:ETIQUETTE>
+    <ogr:CODCOM>76351</ogr:CODCOM>
+    <ogr:COMMUNE>Le Havre</ogr:COMMUNE>
+    <ogr:Field_6></ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76351</ogr:Field_4>
+    <ogr:Field_5>Le Havre</ogr:Field_5>
+    <ogr:Field_2>Conseil du randonneur</ogr:Field_2>
+    <ogr:Field_3>Marché dominical des Halles centrales</ogr:Field_3>
+    <ogr:Field_1>43</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.501925604417202" lon="0.265732988151892">
+  <name>kml_15</name>
+  <extensions>
+    <ogr:OBJECTID>1</ogr:OBJECTID>
+    <ogr:TOPONYME>Eglise</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Eglise St Michel</ogr:ETIQUETTE>
+    <ogr:CODCOM>76533</ogr:CODCOM>
+    <ogr:COMMUNE>Rogerville</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Eglise datant du XIIème siècle – reconstruite au XIIIème siècle. Son clocher fut réédifié au XVIIème siècle. Deux fois foudroyéSon clocher s’effondre en 1924, s’écroulant sur la nef ; l’édifice fut entièrement reconstruit à l’exception du chœur.e au XIXème siècle, elle représente la fierté des Rogervillais.
+Son clocher fut réédifié au XVIIème siècle.
+</ogr:DESCRIPTIF>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/Eglise_Rogerville.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6>Eglise datant du XIIème siècle – reconstruite au XIIIème siècle. Son clocher fut réédifié au XVIIème siècle. Deux fois foudroyéSon clocher s’effondre en 1924, s’écroulant sur la nef ; l’édifice fut entièrement reconstruit à l’exception du chœur.e au XIXème siècle, elle représente la fierté des Rogervillais. Son clocher fut réédifié au XVIIème siècle. </ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/Eglise_Rogerville.jpg</ogr:Field_7>
+    <ogr:Field_4>76533</ogr:Field_4>
+    <ogr:Field_5>Rogerville</ogr:Field_5>
+    <ogr:Field_2>Eglise</ogr:Field_2>
+    <ogr:Field_3>Eglise St Michel</ogr:Field_3>
+    <ogr:Field_1>1</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.5553493296187" lon="0.116265994130062">
+  <name>kml_16</name>
+  <extensions>
+    <ogr:OBJECTID>2</ogr:OBJECTID>
+    <ogr:TOPONYME>Conseil du randonneur</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Marché</ogr:ETIQUETTE>
+    <ogr:CODCOM>76481</ogr:CODCOM>
+    <ogr:COMMUNE>Octeville-sur-Mer</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Marché dominical d’Octeville-sur-Mer</ogr:DESCRIPTIF>
+    <ogr:Field_6>Marché dominical d’Octeville-sur-Mer</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76481</ogr:Field_4>
+    <ogr:Field_5>Octeville-sur-Mer</ogr:Field_5>
+    <ogr:Field_2>Conseil du randonneur</ogr:Field_2>
+    <ogr:Field_3>Marché</ogr:Field_3>
+    <ogr:Field_1>2</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.504291954872201" lon="0.180938217521528">
+  <name>kml_32</name>
+  <extensions>
+    <ogr:OBJECTID>18</ogr:OBJECTID>
+    <ogr:TOPONYME>Point de vue</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Point de vue</ogr:ETIQUETTE>
+    <ogr:CODCOM>76351</ogr:CODCOM>
+    <ogr:COMMUNE>Le Havre</ogr:COMMUNE>
+    <ogr:Field_6></ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76351</ogr:Field_4>
+    <ogr:Field_5>Le Havre</ogr:Field_5>
+    <ogr:Field_2>Point de vue</ogr:Field_2>
+    <ogr:Field_3>Point de vue</ogr:Field_3>
+    <ogr:Field_1>18</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.564952018894601" lon="0.221501893203228">
+  <name>kml_18</name>
+  <extensions>
+    <ogr:OBJECTID>4</ogr:OBJECTID>
+    <ogr:TOPONYME>Eglise</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Eglise St Denis</ogr:ETIQUETTE>
+    <ogr:CODCOM>76238</ogr:CODCOM>
+    <ogr:COMMUNE>Epouville</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>L'église d'Epouville, dédiée à Saint Denis, plusieurs fois remaniée, date des XIème et XIIème siècles.</ogr:DESCRIPTIF>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/Eglise Saint-Denis - Epouville.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6>L'église d'Epouville, dédiée à Saint Denis, plusieurs fois remaniée, date des XIème et XIIème siècles.</ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/Eglise Saint-Denis - Epouville.jpg</ogr:Field_7>
+    <ogr:Field_4>76238</ogr:Field_4>
+    <ogr:Field_5>Epouville</ogr:Field_5>
+    <ogr:Field_2>Eglise</ogr:Field_2>
+    <ogr:Field_3>Eglise St Denis</ogr:Field_3>
+    <ogr:Field_1>4</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.542255638262802" lon="0.202618528665009">
+  <name>kml_19</name>
+  <extensions>
+    <ogr:OBJECTID>5</ogr:OBJECTID>
+    <ogr:TOPONYME>Point de vue</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Point de vue</ogr:ETIQUETTE>
+    <ogr:CODCOM>76447</ogr:CODCOM>
+    <ogr:COMMUNE>Montivilliers</ogr:COMMUNE>
+    <ogr:Field_6></ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76447</ogr:Field_4>
+    <ogr:Field_5>Montivilliers</ogr:Field_5>
+    <ogr:Field_2>Point de vue</ogr:Field_2>
+    <ogr:Field_3>Point de vue</ogr:Field_3>
+    <ogr:Field_1>5</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.494198986396498" lon="0.107823760259522">
+  <name>kml_20</name>
+  <extensions>
+    <ogr:OBJECTID>6</ogr:OBJECTID>
+    <ogr:TOPONYME>Curiosité</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Hôtel de Ville</ogr:ETIQUETTE>
+    <ogr:CODCOM>76351</ogr:CODCOM>
+    <ogr:COMMUNE>Le Havre</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Inauguré en 1958, l’Hôtel de Ville comprend un bâtiment central, souligné par une colonnade s’étirant sur 92 mètres au-devant des grands-salons et une tour-building de dix-huit étages, intégrant des bureaux administratifs. L’extension nord a été réalisée en 1987.Hall visitable du lundi au samedi de 8 h à 19 h - Possibilité de visiter le 17e étage de la tour avec Ville d’art et d’histoire.</ogr:DESCRIPTIF>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/hotel de ville le havre.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6>Inauguré en 1958, l’Hôtel de Ville comprend un bâtiment central, souligné par une colonnade s’étirant sur 92 mètres au-devant des grands-salons et une tour-building de dix-huit étages, intégrant des bureaux administratifs. L’extension nord a été réalisée en 1987.Hall visitable du lundi au samedi de 8 h à 19 h - Possibilité de visiter le 17e étage de la tour avec Ville d’art et d’histoire. </ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/hotel de ville le havre.jpg</ogr:Field_7>
+    <ogr:Field_4>76351</ogr:Field_4>
+    <ogr:Field_5>Le Havre</ogr:Field_5>
+    <ogr:Field_2>Curiosité</ogr:Field_2>
+    <ogr:Field_3>Hôtel de Ville</ogr:Field_3>
+    <ogr:Field_1>6</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.593247106441403" lon="0.212833534756697">
+  <name>kml_21</name>
+  <extensions>
+    <ogr:OBJECTID>7</ogr:OBJECTID>
+    <ogr:TOPONYME>Eglise</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Eglise</ogr:ETIQUETTE>
+    <ogr:CODCOM>76477</ogr:CODCOM>
+    <ogr:COMMUNE>Notre-Dame-du-Bec</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>L'église de Notre-Dame-du-Bec, dont la construction date du XVIe siècle, abrite des dalles tumulaires.
+Une motte féodale se dresse près de l'église.
+L'église de Notre-Dame-du-Bec, dont la construction date du XVIe siècle, abrite des dalles tumulaires.
+Une motte féodale se dresse près de l'église.
+</ogr:DESCRIPTIF>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/Eglise_Notre_Dame.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6>L'église de Notre-Dame-du-Bec, dont la construction date du XVIe siècle, abrite des dalles tumulaires. Une motte féodale se dresse près de l'église. L'église de Notre-Dame-du-Bec, dont la construction date du XVIe siècle, abrite des dalles tumulaires. Une motte féodale se dresse près de l'église. </ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/Eglise_Notre_Dame.jpg</ogr:Field_7>
+    <ogr:Field_4>76477</ogr:Field_4>
+    <ogr:Field_5>Notre-Dame-du-Bec</ogr:Field_5>
+    <ogr:Field_2>Eglise</ogr:Field_2>
+    <ogr:Field_3>Eglise</ogr:Field_3>
+    <ogr:Field_1>7</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.541307564156298" lon="0.159184276985398">
+  <name>kml_22</name>
+  <extensions>
+    <ogr:OBJECTID>8</ogr:OBJECTID>
+    <ogr:TOPONYME>Point de vue</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Point de vue</ogr:ETIQUETTE>
+    <ogr:CODCOM>76270</ogr:CODCOM>
+    <ogr:COMMUNE>Fontaine-la-Mallet</ogr:COMMUNE>
+    <ogr:Field_6></ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76270</ogr:Field_4>
+    <ogr:Field_5>Fontaine-la-Mallet</ogr:Field_5>
+    <ogr:Field_2>Point de vue</ogr:Field_2>
+    <ogr:Field_3>Point de vue</ogr:Field_3>
+    <ogr:Field_1>8</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.489828913418499" lon="0.123412783312886">
+  <name>kml_23</name>
+  <extensions>
+    <ogr:OBJECTID>9</ogr:OBJECTID>
+    <ogr:TOPONYME>Curiosité</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Bassin Vauban</ogr:ETIQUETTE>
+    <ogr:CODCOM>76351</ogr:CODCOM>
+    <ogr:COMMUNE>Le Havre</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Les docks représentent un volume bâti important sur le territoire portuaire : leur présence identifie un pan significatif de l’histoire havraise, liée aux travaux d’agrandissement du port à partir du milieu du XIXème siècle, nécessitant la construction de hangar-entrepôts. La réhabilitation de l’agence Reichen et Robert a judicieusement préservé ce vocabulaire architecturale spécifique : briques, toiture-shed, rues intérieures éclairées de façon zénithale, magasins… L’ensemble accueille 52 000 m2 de commerces et d’espaces de loisirs : cinéma multiplexe, jardinerie, restaurants, enseignes locales et régionales.</ogr:DESCRIPTIF>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/DOCKS VAUBAN 3.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6>Les docks représentent un volume bâti important sur le territoire portuaire : leur présence identifie un pan significatif de l’histoire havraise, liée aux travaux d’agrandissement du port à partir du milieu du XIXème siècle, nécessitant la construction de hangar-entrepôts. La réhabilitation de l’agence Reichen et Robert a judicieusement préservé ce vocabulaire architecturale spécifique : briques, toiture-shed, rues intérieures éclairées de façon zénithale, magasins… L’ensemble accueille 52 000 m2 de commerces et d’espaces de loisirs : cinéma multiplexe, jardinerie, restaurants, enseignes locales et régionales.</ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/DOCKS VAUBAN 3.jpg</ogr:Field_7>
+    <ogr:Field_4>76351</ogr:Field_4>
+    <ogr:Field_5>Le Havre</ogr:Field_5>
+    <ogr:Field_2>Curiosité</ogr:Field_2>
+    <ogr:Field_3>Bassin Vauban</ogr:Field_3>
+    <ogr:Field_1>9</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.487770168046602" lon="0.109078368010089">
+  <name>kml_25</name>
+  <extensions>
+    <ogr:OBJECTID>11</ogr:OBJECTID>
+    <ogr:TOPONYME>Curiosité</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Museum d'Histoire Naturelle</ogr:ETIQUETTE>
+    <ogr:CODCOM>76351</ogr:CODCOM>
+    <ogr:COMMUNE>Le Havre</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Installé dans l’ancien prétoire du XVIIIème siècle, il présente des collections de paléontologie, zoologie ainsi que 8 000 dessins et manuscrits du naturaliste Charles-Alexandre Lesueur, collection mondiale unique.</ogr:DESCRIPTIF>
+    <ogr:Field_6>Installé dans l’ancien prétoire du XVIIIème siècle, il présente des collections de paléontologie, zoologie ainsi que 8 000 dessins et manuscrits du naturaliste Charles-Alexandre Lesueur, collection mondiale unique.</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76351</ogr:Field_4>
+    <ogr:Field_5>Le Havre</ogr:Field_5>
+    <ogr:Field_2>Curiosité</ogr:Field_2>
+    <ogr:Field_3>Museum d'Histoire Naturelle</ogr:Field_3>
+    <ogr:Field_1>11</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.533965520118102" lon="0.238833572213363">
+  <name>kml_26</name>
+  <extensions>
+    <ogr:OBJECTID>12</ogr:OBJECTID>
+    <ogr:TOPONYME>Parking de la salle polyvalente de Saint-Martin</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Parking de la salle polyvalente</ogr:ETIQUETTE>
+    <ogr:CODCOM>76616</ogr:CODCOM>
+    <ogr:COMMUNE>Saint-Martin-du-Manoir</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Circuit &quot;Sur les traces de Saint-Martin&quot;</ogr:DESCRIPTIF>
+    <ogr:Field_6>Circuit &quot;Sur les traces de Saint-Martin&quot;</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76616</ogr:Field_4>
+    <ogr:Field_5>Saint-Martin-du-Manoir</ogr:Field_5>
+    <ogr:Field_2>Parking de la salle polyvalente de Saint-Martin</ogr:Field_2>
+    <ogr:Field_3>Parking de la salle polyvalente</ogr:Field_3>
+    <ogr:Field_1>12</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.520960400695202" lon="0.20425264210545">
+  <name>kml_27</name>
+  <extensions>
+    <ogr:OBJECTID>13</ogr:OBJECTID>
+    <ogr:TOPONYME>Curiosité</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Domaine de Colmoulins</ogr:ETIQUETTE>
+    <ogr:CODCOM>76351</ogr:CODCOM>
+    <ogr:COMMUNE>Le Havre</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Espace naturel de découverte des arbres remarquables.Sur l’emplacement de ces bois se trouvaient les jardins et le château de Colmoulins conçus et réalisés à la fin du XVIIIème siècle par l’architecte Pierre-Adrien Pâris pour le riche négociant havrais Stanislas Foache qui avait acheté la propriété en 1782.On peut retrouver dans le bois actuel quelques alignements et de beaux specimens de haute futaie.</ogr:DESCRIPTIF>
+    <ogr:Field_6>Espace naturel de découverte des arbres remarquables.Sur l’emplacement de ces bois se trouvaient les jardins et le château de Colmoulins conçus et réalisés à la fin du XVIIIème siècle par l’architecte Pierre-Adrien Pâris pour le riche négociant havrais Stanislas Foache qui avait acheté la propriété en 1782.On peut retrouver dans le bois actuel quelques alignements et de beaux specimens de haute futaie.</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76351</ogr:Field_4>
+    <ogr:Field_5>Le Havre</ogr:Field_5>
+    <ogr:Field_2>Curiosité</ogr:Field_2>
+    <ogr:Field_3>Domaine de Colmoulins</ogr:Field_3>
+    <ogr:Field_1>13</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.507414950623698" lon="0.201449292256978">
+  <name>kml_28</name>
+  <extensions>
+    <ogr:OBJECTID>14</ogr:OBJECTID>
+    <ogr:TOPONYME>Musée</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Musée du Prieuré</ogr:ETIQUETTE>
+    <ogr:CODCOM>76341</ogr:CODCOM>
+    <ogr:COMMUNE>Harfleur</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Installé dans une ancienne auberge du 15ème siècle, le musée expose des collections archéologiques illustrant l’histoire de la ville de la préhistoire à nos jours. Belles verreries et céramiques d’époque romaine. Le musée, récemment restauré, est aussi rendu célèbre grâce à son vase contenant un liquide mystérieux.</ogr:DESCRIPTIF>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/MUSEEPRIEUREHARFLEUR.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6>Installé dans une ancienne auberge du 15ème siècle, le musée expose des collections archéologiques illustrant l’histoire de la ville de la préhistoire à nos jours. Belles verreries et céramiques d’époque romaine. Le musée, récemment restauré, est aussi rendu célèbre grâce à son vase contenant un liquide mystérieux.</ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/MUSEEPRIEUREHARFLEUR.jpg</ogr:Field_7>
+    <ogr:Field_4>76341</ogr:Field_4>
+    <ogr:Field_5>Harfleur</ogr:Field_5>
+    <ogr:Field_2>Musée</ogr:Field_2>
+    <ogr:Field_3>Musée du Prieuré</ogr:Field_3>
+    <ogr:Field_1>14</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.56588172024" lon="0.25588795536594">
+  <name>kml_29</name>
+  <extensions>
+    <ogr:OBJECTID>15</ogr:OBJECTID>
+    <ogr:TOPONYME>Parking de la salle polyvalente de Manéglise</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Parking de la salle polyvalente</ogr:ETIQUETTE>
+    <ogr:CODCOM>76404</ogr:CODCOM>
+    <ogr:COMMUNE>Manéglise</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Circuit de Branmaze</ogr:DESCRIPTIF>
+    <ogr:Field_6>Circuit de Branmaze</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76404</ogr:Field_4>
+    <ogr:Field_5>Manéglise</ogr:Field_5>
+    <ogr:Field_2>Parking de la salle polyvalente de Manéglise</ogr:Field_2>
+    <ogr:Field_3>Parking de la salle polyvalente</ogr:Field_3>
+    <ogr:Field_1>15</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.5051461156256" lon="0.082397368572348">
+  <name>kml_34</name>
+  <extensions>
+    <ogr:OBJECTID>20</ogr:OBJECTID>
+    <ogr:TOPONYME>Eglise</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Chapelle Notre Dame des Flots</ogr:ETIQUETTE>
+    <ogr:CODCOM>76552</ogr:CODCOM>
+    <ogr:COMMUNE>Sainte-Adresse</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Construite en 1857, et dédiée à la vierge protectrice des marins, elle était déjà un lieu de pèlerinage.Durant toute la &quot;Belle Epoque&quot;, la promenade à la chapelle et au Pain de sucre était très prisée, ainsi que la promenade au Cap de la Hève</ogr:DESCRIPTIF>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/Notre_dame_flots_Ste_Adresse.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6>Construite en 1857, et dédiée à la vierge protectrice des marins, elle était déjà un lieu de pèlerinage.Durant toute la &quot;Belle Epoque&quot;, la promenade à la chapelle et au Pain de sucre était très prisée, ainsi que la promenade au Cap de la Hève</ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/Notre_dame_flots_Ste_Adresse.jpg</ogr:Field_7>
+    <ogr:Field_4>76552</ogr:Field_4>
+    <ogr:Field_5>Sainte-Adresse</ogr:Field_5>
+    <ogr:Field_2>Eglise</ogr:Field_2>
+    <ogr:Field_3>Chapelle Notre Dame des Flots</ogr:Field_3>
+    <ogr:Field_1>20</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.5021947824035" lon="0.092476516091069">
+  <name>kml_36</name>
+  <extensions>
+    <ogr:OBJECTID>22</ogr:OBJECTID>
+    <ogr:TOPONYME>Point de vue</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Point de vue</ogr:ETIQUETTE>
+    <ogr:CODCOM>76351</ogr:CODCOM>
+    <ogr:COMMUNE>Le Havre</ogr:COMMUNE>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/point de vue le havre.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6></ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/point de vue le havre.jpg</ogr:Field_7>
+    <ogr:Field_4>76351</ogr:Field_4>
+    <ogr:Field_5>Le Havre</ogr:Field_5>
+    <ogr:Field_2>Point de vue</ogr:Field_2>
+    <ogr:Field_3>Point de vue</ogr:Field_3>
+    <ogr:Field_1>22</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.595446012993499" lon="0.117489403859744">
+  <name>kml_37</name>
+  <extensions>
+    <ogr:OBJECTID>23</ogr:OBJECTID>
+    <ogr:TOPONYME>Point de vue</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Point de vue</ogr:ETIQUETTE>
+    <ogr:CODCOM>76167</ogr:CODCOM>
+    <ogr:COMMUNE>Cauville-sur-Mer</ogr:COMMUNE>
+    <ogr:Field_6></ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76167</ogr:Field_4>
+    <ogr:Field_5>Cauville-sur-Mer</ogr:Field_5>
+    <ogr:Field_2>Point de vue</ogr:Field_2>
+    <ogr:Field_3>Point de vue</ogr:Field_3>
+    <ogr:Field_1>23</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.485004728697" lon="0.102689562918224">
+  <name>kml_38</name>
+  <extensions>
+    <ogr:OBJECTID>24</ogr:OBJECTID>
+    <ogr:TOPONYME>Musée</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Musée Malraux</ogr:ETIQUETTE>
+    <ogr:CODCOM>76351</ogr:CODCOM>
+    <ogr:COMMUNE>Le Havre</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>L’identité du MuMa, autour de l’impressionnisme et du fauvisme, s’est construite au XXème siècle, grâce à des donateurs successifs dont la plus récente est l’extraordinaire collection d’Olivier Senn. Doté de nombreuses œuvres d’Eugène boudin, Raoul Dufy, Othon Friez mais et de George Braque, Camille Pissaro, Augsute Renoir ou Claude Monet, le Muma réunit l’une des collections impressionnistes et post-impressionnistes, les plus incontournables en France.</ogr:DESCRIPTIF>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/MUMA LE HAVRE.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6>L’identité du MuMa, autour de l’impressionnisme et du fauvisme, s’est construite au XXème siècle, grâce à des donateurs successifs dont la plus récente est l’extraordinaire collection d’Olivier Senn. Doté de nombreuses œuvres d’Eugène boudin, Raoul Dufy, Othon Friez mais et de George Braque, Camille Pissaro, Augsute Renoir ou Claude Monet, le Muma réunit l’une des collections impressionnistes et post-impressionnistes, les plus incontournables en France.</ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/MUMA LE HAVRE.jpg</ogr:Field_7>
+    <ogr:Field_4>76351</ogr:Field_4>
+    <ogr:Field_5>Le Havre</ogr:Field_5>
+    <ogr:Field_2>Musée</ogr:Field_2>
+    <ogr:Field_3>Musée Malraux</ogr:Field_3>
+    <ogr:Field_1>24</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.534214979289303" lon="0.152034832633796">
+  <name>kml_39</name>
+  <extensions>
+    <ogr:OBJECTID>25</ogr:OBJECTID>
+    <ogr:TOPONYME>Parking rue du Mougnan</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Parking rue du Mougnan</ogr:ETIQUETTE>
+    <ogr:CODCOM>76270</ogr:CODCOM>
+    <ogr:COMMUNE>Fontaine-la-Mallet</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Les bassins des vallées</ogr:DESCRIPTIF>
+    <ogr:Field_6>Les bassins des vallées</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76270</ogr:Field_4>
+    <ogr:Field_5>Fontaine-la-Mallet</ogr:Field_5>
+    <ogr:Field_2>Parking rue du Mougnan</ogr:Field_2>
+    <ogr:Field_3>Parking rue du Mougnan</ogr:Field_3>
+    <ogr:Field_1>25</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.563257238945802" lon="0.183034411108071">
+  <name>kml_40</name>
+  <extensions>
+    <ogr:OBJECTID>26</ogr:OBJECTID>
+    <ogr:TOPONYME>Eglise</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Eglise St Michel</ogr:ETIQUETTE>
+    <ogr:CODCOM>76275</ogr:CODCOM>
+    <ogr:COMMUNE>Fontenay</ogr:COMMUNE>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/Eglise Saint-Michel_fontenay.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6></ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/Eglise Saint-Michel_fontenay.jpg</ogr:Field_7>
+    <ogr:Field_4>76275</ogr:Field_4>
+    <ogr:Field_5>Fontenay</ogr:Field_5>
+    <ogr:Field_2>Eglise</ogr:Field_2>
+    <ogr:Field_3>Eglise St Michel</ogr:Field_3>
+    <ogr:Field_1>26</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.592757348042497" lon="0.125007578777397">
+  <name>kml_41</name>
+  <extensions>
+    <ogr:OBJECTID>27</ogr:OBJECTID>
+    <ogr:TOPONYME>Point de vue</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Point de vue</ogr:ETIQUETTE>
+    <ogr:CODCOM>76167</ogr:CODCOM>
+    <ogr:COMMUNE>Cauville-sur-Mer</ogr:COMMUNE>
+    <ogr:Field_6></ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76167</ogr:Field_4>
+    <ogr:Field_5>Cauville-sur-Mer</ogr:Field_5>
+    <ogr:Field_2>Point de vue</ogr:Field_2>
+    <ogr:Field_3>Point de vue</ogr:Field_3>
+    <ogr:Field_1>27</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.4913629601906" lon="0.10723554397835">
+  <name>kml_42</name>
+  <extensions>
+    <ogr:OBJECTID>28</ogr:OBJECTID>
+    <ogr:TOPONYME>Place Auguste Perret</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Place Auguste Perret</ogr:ETIQUETTE>
+    <ogr:CODCOM>76351</ogr:CODCOM>
+    <ogr:COMMUNE>Le Havre</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Circuit de la Porte Océane</ogr:DESCRIPTIF>
+    <ogr:Field_6>Circuit de la Porte Océane</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76351</ogr:Field_4>
+    <ogr:Field_5>Le Havre</ogr:Field_5>
+    <ogr:Field_2>Place Auguste Perret</ogr:Field_2>
+    <ogr:Field_3>Place Auguste Perret</ogr:Field_3>
+    <ogr:Field_1>28</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.580305105237599" lon="0.125427930505451">
+  <name>kml_43</name>
+  <extensions>
+    <ogr:OBJECTID>29</ogr:OBJECTID>
+    <ogr:TOPONYME>Conseil du randonneur</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Vente à la ferme</ogr:ETIQUETTE>
+    <ogr:CODCOM>76481</ogr:CODCOM>
+    <ogr:COMMUNE>Octeville-sur-Mer</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>« Le panier de Léonie » - Dégustation à la ferme – selon jours d’ouverture Située à Cauville sur Mer, cette ferme s’est spécialisée dans la production et la transformation du lait : fabrication de crème, beurre, fromage blanc...</ogr:DESCRIPTIF>
+    <ogr:Field_6>« Le panier de Léonie » - Dégustation à la ferme – selon jours d’ouverture Située à Cauville sur Mer, cette ferme s’est spécialisée dans la production et la transformation du lait : fabrication de crème, beurre, fromage blanc...</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76481</ogr:Field_4>
+    <ogr:Field_5>Octeville-sur-Mer</ogr:Field_5>
+    <ogr:Field_2>Conseil du randonneur</ogr:Field_2>
+    <ogr:Field_3>Vente à la ferme</ogr:Field_3>
+    <ogr:Field_1>29</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.488878277417903" lon="0.117279811904939">
+  <name>kml_44</name>
+  <extensions>
+    <ogr:OBJECTID>30</ogr:OBJECTID>
+    <ogr:TOPONYME>Curiosité</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Bassin de la Barre</ogr:ETIQUETTE>
+    <ogr:CODCOM>76351</ogr:CODCOM>
+    <ogr:COMMUNE>Le Havre</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Intégré au plan d’agrandissement de la ville à la fin du XVIIIème siècle, il communiquait initialement avec le bassin du Commerce. Utilisé pour la réparation navale, le bassin comprend un dock flottant jusqu’à la seconde guerre mondiale. Sur l’un des terre-pleins, est positionné le siège du Grand Port maritime du Havre.</ogr:DESCRIPTIF>
+    <ogr:Field_6>Intégré au plan d’agrandissement de la ville à la fin du XVIIIème siècle, il communiquait initialement avec le bassin du Commerce. Utilisé pour la réparation navale, le bassin comprend un dock flottant jusqu’à la seconde guerre mondiale. Sur l’un des terre-pleins, est positionné le siège du Grand Port maritime du Havre.</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76351</ogr:Field_4>
+    <ogr:Field_5>Le Havre</ogr:Field_5>
+    <ogr:Field_2>Curiosité</ogr:Field_2>
+    <ogr:Field_3>Bassin de la Barre</ogr:Field_3>
+    <ogr:Field_1>30</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.555607549749197" lon="0.116304159281864">
+  <name>kml_46</name>
+  <extensions>
+    <ogr:OBJECTID>61</ogr:OBJECTID>
+    <ogr:TOPONYME>Eglise</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Eglise St Martin</ogr:ETIQUETTE>
+    <ogr:CODCOM>76481</ogr:CODCOM>
+    <ogr:COMMUNE>Octeville-sur-Mer</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>L’église au clocher élancé en ardoise, domine le bourg animé de commerces. L’appareillage en brique, silex blanc et noir a été rénové récemment. À l’intérieur, piliers et arcs brisés sont en pierre. Bel ensemble de statues du XVIIe siècle dont saint Jean-Baptiste, la Vierge à l’Enfant, une Piétà, saint Martin à cheval… Les vitraux du choeur, avec notamment la présence de saint Supplix et de saint Barthélémy, symbolisent les anciennes paroisses aujourd’hui disparues, rattachées au village</ogr:DESCRIPTIF>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/Eglise_St_Martin_Octeville.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6>L’église au clocher élancé en ardoise, domine le bourg animé de commerces. L’appareillage en brique, silex blanc et noir a été rénové récemment. À l’intérieur, piliers et arcs brisés sont en pierre. Bel ensemble de statues du XVIIe siècle dont saint Jean-Baptiste, la Vierge à l’Enfant, une Piétà, saint Martin à cheval… Les vitraux du choeur, avec notamment la présence de saint Supplix et de saint Barthélémy, symbolisent les anciennes paroisses aujourd’hui disparues, rattachées au village</ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/Eglise_St_Martin_Octeville.jpg</ogr:Field_7>
+    <ogr:Field_4>76481</ogr:Field_4>
+    <ogr:Field_5>Octeville-sur-Mer</ogr:Field_5>
+    <ogr:Field_2>Eglise</ogr:Field_2>
+    <ogr:Field_3>Eglise St Martin</ogr:Field_3>
+    <ogr:Field_1>61</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.607620357266697" lon="0.173152645171695">
+  <name>kml_48</name>
+  <extensions>
+    <ogr:OBJECTID>63</ogr:OBJECTID>
+    <ogr:TOPONYME>Conseil du randonneur</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Golf et cynodrome de Mannevillette</ogr:ETIQUETTE>
+    <ogr:CODCOM>76409</ogr:CODCOM>
+    <ogr:COMMUNE>Mannevillette</ogr:COMMUNE>
+    <ogr:Field_6></ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76409</ogr:Field_4>
+    <ogr:Field_5>Mannevillette</ogr:Field_5>
+    <ogr:Field_2>Conseil du randonneur</ogr:Field_2>
+    <ogr:Field_3>Golf et cynodrome de Mannevillette</ogr:Field_3>
+    <ogr:Field_1>63</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.5230658590432" lon="0.219751004099204">
+  <name>kml_49</name>
+  <extensions>
+    <ogr:OBJECTID>64</ogr:OBJECTID>
+    <ogr:TOPONYME>Eglise</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Eglise ND de la Consolation</ogr:ETIQUETTE>
+    <ogr:CODCOM>76305</ogr:CODCOM>
+    <ogr:COMMUNE>Gonfreville-l'Orcher</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>L’actuel édifice, du XVIIème siècle avait été précédé d’un autre. En 1203, une bulle pontificale précisait l’existence de l’église Notre Dame de la Consolation qui devint pour longtemps un lieu de pèlerinage. Elle pouvait recevoir de nombreux pénitents pour des confesseurs  qui dépendaient directement du pape. Les prêtres étaient nombreux, sous l’autorité de l’abbaye de Montivilliers jusqu‘à 1789 (ils couchaient alternativement à côté de l’église pendant une semaine pour recevoir les pénitents 24h sur 24). A la différence d’autres constructions, elle se présente en croix grecque et non pas latine.</ogr:DESCRIPTIF>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/EGLISENOTRE_DAME_CONSOLATION_gonfreville.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6>L’actuel édifice, du XVIIème siècle avait été précédé d’un autre. En 1203, une bulle pontificale précisait l’existence de l’église Notre Dame de la Consolation qui devint pour longtemps un lieu de pèlerinage. Elle pouvait recevoir de nombreux pénitents pour des confesseurs  qui dépendaient directement du pape. Les prêtres étaient nombreux, sous l’autorité de l’abbaye de Montivilliers jusqu‘à 1789 (ils couchaient alternativement à côté de l’église pendant une semaine pour recevoir les pénitents 24h sur 24). A la différence d’autres constructions, elle se présente en croix grecque et non pas latine.</ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/EGLISENOTRE_DAME_CONSOLATION_gonfreville.jpg</ogr:Field_7>
+    <ogr:Field_4>76305</ogr:Field_4>
+    <ogr:Field_5>Gonfreville-l'Orcher</ogr:Field_5>
+    <ogr:Field_2>Eglise</ogr:Field_2>
+    <ogr:Field_3>Eglise ND de la Consolation</ogr:Field_3>
+    <ogr:Field_1>64</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.490508238620301" lon="0.106475970250649">
+  <name>kml_50</name>
+  <extensions>
+    <ogr:OBJECTID>65</ogr:OBJECTID>
+    <ogr:TOPONYME>Curiosité</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Espace Niemeyer</ogr:ETIQUETTE>
+    <ogr:CODCOM>76351</ogr:CODCOM>
+    <ogr:COMMUNE>Le Havre</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Achevée en 1982, cette œuvre majeure de l’architecte brésilien Oscar Niemeyer comprend deux volumes organisés autour d’une plate-forme en contrebas. La réhabilitation du Volcan, scène nationale du Havre, la réalisation d’une bibliothèque et le traitement des abords sont réalisés par Dominique Deshoulières (ouverture fin 2014).</ogr:DESCRIPTIF>
+    <ogr:Field_6>Achevée en 1982, cette œuvre majeure de l’architecte brésilien Oscar Niemeyer comprend deux volumes organisés autour d’une plate-forme en contrebas. La réhabilitation du Volcan, scène nationale du Havre, la réalisation d’une bibliothèque et le traitement des abords sont réalisés par Dominique Deshoulières (ouverture fin 2014).</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76351</ogr:Field_4>
+    <ogr:Field_5>Le Havre</ogr:Field_5>
+    <ogr:Field_2>Curiosité</ogr:Field_2>
+    <ogr:Field_3>Espace Niemeyer</ogr:Field_3>
+    <ogr:Field_1>65</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.570767642361602" lon="0.13497563308577">
+  <name>kml_51</name>
+  <extensions>
+    <ogr:OBJECTID>78</ogr:OBJECTID>
+    <ogr:TOPONYME>Conseil du randonneur</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Golf d'Octeville-sur-Mer</ogr:ETIQUETTE>
+    <ogr:CODCOM>76481</ogr:CODCOM>
+    <ogr:COMMUNE>Octeville-sur-Mer</ogr:COMMUNE>
+    <ogr:Field_6></ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76481</ogr:Field_4>
+    <ogr:Field_5>Octeville-sur-Mer</ogr:Field_5>
+    <ogr:Field_2>Conseil du randonneur</ogr:Field_2>
+    <ogr:Field_3>Golf d'Octeville-sur-Mer</ogr:Field_3>
+    <ogr:Field_1>78</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.597399584887199" lon="0.175644665720127">
+  <name>kml_52</name>
+  <extensions>
+    <ogr:OBJECTID>79</ogr:OBJECTID>
+    <ogr:TOPONYME>Eglise</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Eglise Notre Dame</ogr:ETIQUETTE>
+    <ogr:CODCOM>76409</ogr:CODCOM>
+    <ogr:COMMUNE>Mannevillette</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Modifiée au 18éme, l'église a surtout été entièrement reconstruite en briques en 1888. Et comme son axe a été tourné vers le nord, la base de la tour ne se trouve plus située comme autrefois entre la nef et le choeur, mais elle sert désromais de porche.</ogr:DESCRIPTIF>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/Eglise Notre Dame manevillette.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6>Modifiée au 18éme, l'église a surtout été entièrement reconstruite en briques en 1888. Et comme son axe a été tourné vers le nord, la base de la tour ne se trouve plus située comme autrefois entre la nef et le choeur, mais elle sert désromais de porche.</ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/Eglise Notre Dame manevillette.jpg</ogr:Field_7>
+    <ogr:Field_4>76409</ogr:Field_4>
+    <ogr:Field_5>Mannevillette</ogr:Field_5>
+    <ogr:Field_2>Eglise</ogr:Field_2>
+    <ogr:Field_3>Eglise Notre Dame</ogr:Field_3>
+    <ogr:Field_1>79</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.554641969152698" lon="0.204050893930368">
+  <name>kml_53</name>
+  <extensions>
+    <ogr:OBJECTID>80</ogr:OBJECTID>
+    <ogr:TOPONYME>Point de vue</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Point de vue</ogr:ETIQUETTE>
+    <ogr:CODCOM>76447</ogr:CODCOM>
+    <ogr:COMMUNE>Montivilliers</ogr:COMMUNE>
+    <ogr:Field_6></ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76447</ogr:Field_4>
+    <ogr:Field_5>Montivilliers</ogr:Field_5>
+    <ogr:Field_2>Point de vue</ogr:Field_2>
+    <ogr:Field_3>Point de vue</ogr:Field_3>
+    <ogr:Field_1>80</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.506811215981202" lon="0.199093393671228">
+  <name>kml_54</name>
+  <extensions>
+    <ogr:OBJECTID>81</ogr:OBJECTID>
+    <ogr:TOPONYME>Point de vue</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Berge</ogr:ETIQUETTE>
+    <ogr:CODCOM>76341</ogr:CODCOM>
+    <ogr:COMMUNE>Harfleur</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Port militaire de haute mer au Moyen-Age, le site offre aujourd’hui avec ses berges rénovées et son sentier balisé, le cadre d’une promenade de qualité et sécurisée au bord de l’eau.</ogr:DESCRIPTIF>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/berge harfleur.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6>Port militaire de haute mer au Moyen-Age, le site offre aujourd’hui avec ses berges rénovées et son sentier balisé, le cadre d’une promenade de qualité et sécurisée au bord de l’eau.</ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/berge harfleur.jpg</ogr:Field_7>
+    <ogr:Field_4>76341</ogr:Field_4>
+    <ogr:Field_5>Harfleur</ogr:Field_5>
+    <ogr:Field_2>Point de vue</ogr:Field_2>
+    <ogr:Field_3>Berge</ogr:Field_3>
+    <ogr:Field_1>81</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.5072963208926" lon="0.200228157248029">
+  <name>kml_55</name>
+  <extensions>
+    <ogr:OBJECTID>82</ogr:OBJECTID>
+    <ogr:TOPONYME>Curiosité</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Maisons à pan de bois</ogr:ETIQUETTE>
+    <ogr:CODCOM>76341</ogr:CODCOM>
+    <ogr:COMMUNE>Harfleur</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Les maisons à pan de bois sont les témoins de la construction traditionnelle du XVème au XVIIème siècle ; vous les découvrirez au détour des ruelles.</ogr:DESCRIPTIF>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/maisons_bois_harfleur.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6>Les maisons à pan de bois sont les témoins de la construction traditionnelle du XVème au XVIIème siècle ; vous les découvrirez au détour des ruelles.</ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/maisons_bois_harfleur.jpg</ogr:Field_7>
+    <ogr:Field_4>76341</ogr:Field_4>
+    <ogr:Field_5>Harfleur</ogr:Field_5>
+    <ogr:Field_2>Curiosité</ogr:Field_2>
+    <ogr:Field_3>Maisons à pan de bois</ogr:Field_3>
+    <ogr:Field_1>82</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.585904942222697" lon="0.148908382501416">
+  <name>kml_57</name>
+  <extensions>
+    <ogr:OBJECTID>84</ogr:OBJECTID>
+    <ogr:TOPONYME>Curiosité</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Manoir</ogr:ETIQUETTE>
+    <ogr:CODCOM>76167</ogr:CODCOM>
+    <ogr:COMMUNE>Cauville-sur-Mer</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Belle demeure du XVI ème siècle dont le rez-de-chaussée en pierre et bandes de silex noirs est surmonté d’un étage à pan de bois.</ogr:DESCRIPTIF>
+    <ogr:Field_6>Belle demeure du XVI ème siècle dont le rez-de-chaussée en pierre et bandes de silex noirs est surmonté d’un étage à pan de bois.</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76167</ogr:Field_4>
+    <ogr:Field_5>Cauville-sur-Mer</ogr:Field_5>
+    <ogr:Field_2>Curiosité</ogr:Field_2>
+    <ogr:Field_3>Manoir</ogr:Field_3>
+    <ogr:Field_1>84</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.4826636001292" lon="0.134877059536841">
+  <name>kml_58</name>
+  <extensions>
+    <ogr:OBJECTID>85</ogr:OBJECTID>
+    <ogr:TOPONYME>Curiosité</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Bassin Fluvial</ogr:ETIQUETTE>
+    <ogr:CODCOM>76351</ogr:CODCOM>
+    <ogr:COMMUNE>Le Havre</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>D’une surface de plus de 2 hectares, ce jardin s’étend sur plus de 700 mètres, quai de la Saône et quai de la Marne, le long du bassin fluvial. D’inspiration contemporaine, il évoque aussi bien les paysages du littoral que le passé industriel et maritime du lieu. La succession d’espaces verts agrémentées de boulodromes et de pistes cyclables donne un charme convivial à ce lieu. Friche portuaire réinventée, il séduit les sportifs et les familles qui peuvent y pique-niquer en toute tranquillité.</ogr:DESCRIPTIF>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/BASSINFLUVIAL_ LE HAVRE.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6>D’une surface de plus de 2 hectares, ce jardin s’étend sur plus de 700 mètres, quai de la Saône et quai de la Marne, le long du bassin fluvial. D’inspiration contemporaine, il évoque aussi bien les paysages du littoral que le passé industriel et maritime du lieu. La succession d’espaces verts agrémentées de boulodromes et de pistes cyclables donne un charme convivial à ce lieu. Friche portuaire réinventée, il séduit les sportifs et les familles qui peuvent y pique-niquer en toute tranquillité.</ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/BASSINFLUVIAL_ LE HAVRE.jpg</ogr:Field_7>
+    <ogr:Field_4>76351</ogr:Field_4>
+    <ogr:Field_5>Le Havre</ogr:Field_5>
+    <ogr:Field_2>Curiosité</ogr:Field_2>
+    <ogr:Field_3>Bassin Fluvial</ogr:Field_3>
+    <ogr:Field_1>85</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.556919619863699" lon="0.208449208281604">
+  <name>kml_60</name>
+  <extensions>
+    <ogr:OBJECTID>87</ogr:OBJECTID>
+    <ogr:TOPONYME>Point de vue</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Point de vue</ogr:ETIQUETTE>
+    <ogr:CODCOM>76447</ogr:CODCOM>
+    <ogr:COMMUNE>Montivilliers</ogr:COMMUNE>
+    <ogr:Field_6></ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76447</ogr:Field_4>
+    <ogr:Field_5>Montivilliers</ogr:Field_5>
+    <ogr:Field_2>Point de vue</ogr:Field_2>
+    <ogr:Field_3>Point de vue</ogr:Field_3>
+    <ogr:Field_1>87</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.510460518667003" lon="0.199533589112779">
+  <name>kml_61</name>
+  <extensions>
+    <ogr:OBJECTID>88</ogr:OBJECTID>
+    <ogr:TOPONYME>Point d'information tourisme</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Parking du point d'information tourisme</ogr:ETIQUETTE>
+    <ogr:CODCOM>76341</ogr:CODCOM>
+    <ogr:COMMUNE>Harfleur</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Au fil de la lézarde</ogr:DESCRIPTIF>
+    <ogr:Field_6>Au fil de la lézarde</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76341</ogr:Field_4>
+    <ogr:Field_5>Harfleur</ogr:Field_5>
+    <ogr:Field_2>Point d'information tourisme</ogr:Field_2>
+    <ogr:Field_3>Parking du point d'information tourisme</ogr:Field_3>
+    <ogr:Field_1>88</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.511268178139503" lon="0.083716601868747">
+  <name>kml_63</name>
+  <extensions>
+    <ogr:OBJECTID>90</ogr:OBJECTID>
+    <ogr:TOPONYME>Curiosité</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Manoir de Vitanval</ogr:ETIQUETTE>
+    <ogr:CODCOM>76552</ogr:CODCOM>
+    <ogr:COMMUNE>Sainte-Adresse</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Le château fort de Vitanval est attesté au 12e siècle tenu par la famille de Noirpel. En 1785, Lestorey de Boulogne vend le domaine à l’architecte Paul-Michel Thibaut qui fait construire au nord une fabrique de jardin dite le Pavillon de Montebello avec rotonde (détruite), un mur d’enceinte le long de la rue des Phares, terminé à l’ouest par une autre fabrique de jardin dite le Pavillon de la Solitude.Le domaine est morcelé en 1884 avec la construction dans le parc de maisons modèles. En 1920, la famille Toussaint restaure le logis et fait construire une tour octogonale.</ogr:DESCRIPTIF>
+    <ogr:Field_6>Le château fort de Vitanval est attesté au 12e siècle tenu par la famille de Noirpel. En 1785, Lestorey de Boulogne vend le domaine à l’architecte Paul-Michel Thibaut qui fait construire au nord une fabrique de jardin dite le Pavillon de Montebello avec rotonde (détruite), un mur d’enceinte le long de la rue des Phares, terminé à l’ouest par une autre fabrique de jardin dite le Pavillon de la Solitude.Le domaine est morcelé en 1884 avec la construction dans le parc de maisons modèles. En 1920, la famille Toussaint restaure le logis et fait construire une tour octogonale.</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76552</ogr:Field_4>
+    <ogr:Field_5>Sainte-Adresse</ogr:Field_5>
+    <ogr:Field_2>Curiosité</ogr:Field_2>
+    <ogr:Field_3>Manoir de Vitanval</ogr:Field_3>
+    <ogr:Field_1>90</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.5207595616031" lon="0.200535057364461">
+  <name>kml_64</name>
+  <extensions>
+    <ogr:OBJECTID>91</ogr:OBJECTID>
+    <ogr:TOPONYME>Point de vue</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Point de vue</ogr:ETIQUETTE>
+    <ogr:CODCOM>76447</ogr:CODCOM>
+    <ogr:COMMUNE>Montivilliers</ogr:COMMUNE>
+    <ogr:Field_6></ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76447</ogr:Field_4>
+    <ogr:Field_5>Montivilliers</ogr:Field_5>
+    <ogr:Field_2>Point de vue</ogr:Field_2>
+    <ogr:Field_3>Point de vue</ogr:Field_3>
+    <ogr:Field_1>91</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.507774617869899" lon="0.200006662227887">
+  <name>kml_65</name>
+  <extensions>
+    <ogr:OBJECTID>92</ogr:OBJECTID>
+    <ogr:TOPONYME>Curiosité</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Parc et Château de la Mairie</ogr:ETIQUETTE>
+    <ogr:CODCOM>76341</ogr:CODCOM>
+    <ogr:COMMUNE>Harfleur</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Régnant sur les deux hectares de son parc à l’anglaise, ce château brique et pierre du 17ème siècle, inscrit à l’inventaire des monuments historiques en 1926, est aujourd’hui l’Hôtel de Ville.</ogr:DESCRIPTIF>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/Hotel de Ville vue du parc harlfeur.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6>Régnant sur les deux hectares de son parc à l’anglaise, ce château brique et pierre du 17ème siècle, inscrit à l’inventaire des monuments historiques en 1926, est aujourd’hui l’Hôtel de Ville.</ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/Hotel de Ville vue du parc harlfeur.jpg</ogr:Field_7>
+    <ogr:Field_4>76341</ogr:Field_4>
+    <ogr:Field_5>Harfleur</ogr:Field_5>
+    <ogr:Field_2>Curiosité</ogr:Field_2>
+    <ogr:Field_3>Parc et Château de la Mairie</ogr:Field_3>
+    <ogr:Field_1>92</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.514800168138798" lon="0.068541566149928">
+  <name>kml_66</name>
+  <extensions>
+    <ogr:OBJECTID>93</ogr:OBJECTID>
+    <ogr:TOPONYME>Point de vue</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Point de vue</ogr:ETIQUETTE>
+    <ogr:CODCOM>76552</ogr:CODCOM>
+    <ogr:COMMUNE>Sainte-Adresse</ogr:COMMUNE>
+    <ogr:Field_6></ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76552</ogr:Field_4>
+    <ogr:Field_5>Sainte-Adresse</ogr:Field_5>
+    <ogr:Field_2>Point de vue</ogr:Field_2>
+    <ogr:Field_3>Point de vue</ogr:Field_3>
+    <ogr:Field_1>93</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.540618439055102" lon="0.186412495694215">
+  <name>kml_67</name>
+  <extensions>
+    <ogr:OBJECTID>94</ogr:OBJECTID>
+    <ogr:TOPONYME>Point de vue</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Point de vue</ogr:ETIQUETTE>
+    <ogr:CODCOM>76447</ogr:CODCOM>
+    <ogr:COMMUNE>Montivilliers</ogr:COMMUNE>
+    <ogr:Field_6></ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76447</ogr:Field_4>
+    <ogr:Field_5>Montivilliers</ogr:Field_5>
+    <ogr:Field_2>Point de vue</ogr:Field_2>
+    <ogr:Field_3>Point de vue</ogr:Field_3>
+    <ogr:Field_1>94</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.564333202105601" lon="0.223395298331526">
+  <name>kml_68</name>
+  <extensions>
+    <ogr:OBJECTID>66</ogr:OBJECTID>
+    <ogr:TOPONYME>Parking de la LER</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Parking de la LER</ogr:ETIQUETTE>
+    <ogr:CODCOM>76238</ogr:CODCOM>
+    <ogr:COMMUNE>Epouville</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Circuit des Crêtes</ogr:DESCRIPTIF>
+    <ogr:Field_6>Circuit des Crêtes</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76238</ogr:Field_4>
+    <ogr:Field_5>Epouville</ogr:Field_5>
+    <ogr:Field_2>Parking de la LER</ogr:Field_2>
+    <ogr:Field_3>Parking de la LER</ogr:Field_3>
+    <ogr:Field_1>66</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.497218810848999" lon="0.259874790976549">
+  <name>kml_69</name>
+  <extensions>
+    <ogr:OBJECTID>67</ogr:OBJECTID>
+    <ogr:TOPONYME>Point de vue</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Point de vue</ogr:ETIQUETTE>
+    <ogr:CODCOM>76533</ogr:CODCOM>
+    <ogr:COMMUNE>Rogerville</ogr:COMMUNE>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/Point_de_vue_Rogerville.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6></ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/Point_de_vue_Rogerville.jpg</ogr:Field_7>
+    <ogr:Field_4>76533</ogr:Field_4>
+    <ogr:Field_5>Rogerville</ogr:Field_5>
+    <ogr:Field_2>Point de vue</ogr:Field_2>
+    <ogr:Field_3>Point de vue</ogr:Field_3>
+    <ogr:Field_1>67</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.5823511082897" lon="0.212750822889737">
+  <name>kml_70</name>
+  <extensions>
+    <ogr:OBJECTID>68</ogr:OBJECTID>
+    <ogr:TOPONYME>Eglise</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Chapelle Ste Clothilde</ogr:ETIQUETTE>
+    <ogr:CODCOM>76534</ogr:CODCOM>
+    <ogr:COMMUNE>Rolleville</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>La chapelle Sainte Clothilde, lieu de pèlerinage très fréquenté pour les vertus curatives de la source.Culte et processions jusqu'à la moitié du 20ème siècle. Chapelle du 19ème siècle. Statue de Saint Clothilde</ogr:DESCRIPTIF>
+    <ogr:Field_6>La chapelle Sainte Clothilde, lieu de pèlerinage très fréquenté pour les vertus curatives de la source.Culte et processions jusqu'à la moitié du 20ème siècle. Chapelle du 19ème siècle. Statue de Saint Clothilde</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76534</ogr:Field_4>
+    <ogr:Field_5>Rolleville</ogr:Field_5>
+    <ogr:Field_2>Eglise</ogr:Field_2>
+    <ogr:Field_3>Chapelle Ste Clothilde</ogr:Field_3>
+    <ogr:Field_1>68</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.5804453275707" lon="0.212106630511436">
+  <name>kml_71</name>
+  <extensions>
+    <ogr:OBJECTID>69</ogr:OBJECTID>
+    <ogr:TOPONYME>Curiosité</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Pigeonnier</ogr:ETIQUETTE>
+    <ogr:CODCOM>76534</ogr:CODCOM>
+    <ogr:COMMUNE>Rolleville</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Pigeonnier du Manoir de Rolleville. Il représente une partie historique du village. Il est illustré sur le blason de la commune</ogr:DESCRIPTIF>
+    <ogr:Field_6>Pigeonnier du Manoir de Rolleville. Il représente une partie historique du village. Il est illustré sur le blason de la commune</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76534</ogr:Field_4>
+    <ogr:Field_5>Rolleville</ogr:Field_5>
+    <ogr:Field_2>Curiosité</ogr:Field_2>
+    <ogr:Field_3>Pigeonnier</ogr:Field_3>
+    <ogr:Field_1>69</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.505565051267801" lon="0.129900301822826">
+  <name>kml_72</name>
+  <extensions>
+    <ogr:OBJECTID>70</ogr:OBJECTID>
+    <ogr:TOPONYME>Curiosité</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Cimetière Sainte-Marie</ogr:ETIQUETTE>
+    <ogr:CODCOM>76351</ogr:CODCOM>
+    <ogr:COMMUNE>Le Havre</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Créé sur des terres agricoles en 1851, sa création avait pour objectif de remplacer et d’accueillir les sépultures du cimetière Saint-Roch, fermé lors de l’arasement des remparts sous Napoléon III.</ogr:DESCRIPTIF>
+    <ogr:Field_6>Créé sur des terres agricoles en 1851, sa création avait pour objectif de remplacer et d’accueillir les sépultures du cimetière Saint-Roch, fermé lors de l’arasement des remparts sous Napoléon III.</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76351</ogr:Field_4>
+    <ogr:Field_5>Le Havre</ogr:Field_5>
+    <ogr:Field_2>Curiosité</ogr:Field_2>
+    <ogr:Field_3>Cimetière Sainte-Marie</ogr:Field_3>
+    <ogr:Field_1>70</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.487060109124499" lon="0.108303484413296">
+  <name>kml_73</name>
+  <extensions>
+    <ogr:OBJECTID>71</ogr:OBJECTID>
+    <ogr:TOPONYME>Eglise</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Cathédrale Notre Dame</ogr:ETIQUETTE>
+    <ogr:CODCOM>76351</ogr:CODCOM>
+    <ogr:COMMUNE>Le Havre</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>L’un des rares vestiges de la ville d’avant-guerre : la façade occidentale (XVIème siècle), les retables du XVIIème siècle et l’orgue offert par Richelieu, restauré aux XIX et XXème siècles sont particulièrement remarquables.</ogr:DESCRIPTIF>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/CathedraleNotreDame_LH.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6>L’un des rares vestiges de la ville d’avant-guerre : la façade occidentale (XVIème siècle), les retables du XVIIème siècle et l’orgue offert par Richelieu, restauré aux XIX et XXème siècles sont particulièrement remarquables.</ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/CathedraleNotreDame_LH.jpg</ogr:Field_7>
+    <ogr:Field_4>76351</ogr:Field_4>
+    <ogr:Field_5>Le Havre</ogr:Field_5>
+    <ogr:Field_2>Eglise</ogr:Field_2>
+    <ogr:Field_3>Cathédrale Notre Dame</ogr:Field_3>
+    <ogr:Field_1>71</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="90.0" lon="3.0">
+  <name>kml_74</name>
+  <extensions>
+    <ogr:OBJECTID>72</ogr:OBJECTID>
+    <ogr:TOPONYME>Conseil du randonneur</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Appartement témoin</ogr:ETIQUETTE>
+    <ogr:CODCOM>76351</ogr:CODCOM>
+    <ogr:COMMUNE>Le Havre</ogr:COMMUNE>
+    <ogr:Field_6></ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76351</ogr:Field_4>
+    <ogr:Field_5>Le Havre</ogr:Field_5>
+    <ogr:Field_2>Conseil du randonneur</ogr:Field_2>
+    <ogr:Field_3>Appartement témoin</ogr:Field_3>
+    <ogr:Field_1>72</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.555590897650802" lon="0.118675535700008">
+  <name>kml_88</name>
+  <extensions>
+    <ogr:OBJECTID>53</ogr:OBJECTID>
+    <ogr:TOPONYME>Curiosité</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Manoir d'Octeville</ogr:ETIQUETTE>
+    <ogr:CODCOM>76481</ogr:CODCOM>
+    <ogr:COMMUNE>Octeville-sur-Mer</ogr:COMMUNE>
+    <ogr:Field_6></ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76481</ogr:Field_4>
+    <ogr:Field_5>Octeville-sur-Mer</ogr:Field_5>
+    <ogr:Field_2>Curiosité</ogr:Field_2>
+    <ogr:Field_3>Manoir d'Octeville</ogr:Field_3>
+    <ogr:Field_1>53</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.506154152478899" lon="0.079801497392037">
+  <name>kml_76</name>
+  <extensions>
+    <ogr:OBJECTID>74</ogr:OBJECTID>
+    <ogr:TOPONYME>Point de vue</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Point de vue</ogr:ETIQUETTE>
+    <ogr:CODCOM>76552</ogr:CODCOM>
+    <ogr:COMMUNE>Sainte-Adresse</ogr:COMMUNE>
+    <ogr:Field_6></ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76552</ogr:Field_4>
+    <ogr:Field_5>Sainte-Adresse</ogr:Field_5>
+    <ogr:Field_2>Point de vue</ogr:Field_2>
+    <ogr:Field_3>Point de vue</ogr:Field_3>
+    <ogr:Field_1>74</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.504204094401501" lon="0.156840132628053">
+  <name>kml_78</name>
+  <extensions>
+    <ogr:OBJECTID>76</ogr:OBJECTID>
+    <ogr:TOPONYME>Point de vue</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Point de vue</ogr:ETIQUETTE>
+    <ogr:CODCOM>76351</ogr:CODCOM>
+    <ogr:COMMUNE>Le Havre</ogr:COMMUNE>
+    <ogr:Field_6></ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76351</ogr:Field_4>
+    <ogr:Field_5>Le Havre</ogr:Field_5>
+    <ogr:Field_2>Point de vue</ogr:Field_2>
+    <ogr:Field_3>Point de vue</ogr:Field_3>
+    <ogr:Field_1>76</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.541872095880599" lon="0.130851707037456">
+  <name>kml_79</name>
+  <extensions>
+    <ogr:OBJECTID>77</ogr:OBJECTID>
+    <ogr:TOPONYME>Curiosité</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Batterie de la 2nde Guerre Mondiale</ogr:ETIQUETTE>
+    <ogr:CODCOM>76270</ogr:CODCOM>
+    <ogr:COMMUNE>Fontaine-la-Mallet</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Batterie d'Artillerie  des Monts-Trottins : Batterie appartenant au dispositif de défense de la Forteresse du Havre et du Mur de l'Atlantique, située à 1 km en arrière de la ligne de défense Octeville-Montivilliers, construite en 1942 (encuvements, abri à munitions type R 607 modifié) et en 1943 (abri-puits type R 646, casemate d'artillerie type R 669). Elle a été prise le 11 septembre 1944 par la 51e Division Ecossaise.</ogr:DESCRIPTIF>
+    <ogr:Field_6>Batterie d'Artillerie  des Monts-Trottins : Batterie appartenant au dispositif de défense de la Forteresse du Havre et du Mur de l'Atlantique, située à 1 km en arrière de la ligne de défense Octeville-Montivilliers, construite en 1942 (encuvements, abri à munitions type R 607 modifié) et en 1943 (abri-puits type R 646, casemate d'artillerie type R 669). Elle a été prise le 11 septembre 1944 par la 51e Division Ecossaise.</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76270</ogr:Field_4>
+    <ogr:Field_5>Fontaine-la-Mallet</ogr:Field_5>
+    <ogr:Field_2>Curiosité</ogr:Field_2>
+    <ogr:Field_3>Batterie de la 2nde Guerre Mondiale</ogr:Field_3>
+    <ogr:Field_1>77</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.596566996133099" lon="0.130494260482113">
+  <name>kml_80</name>
+  <extensions>
+    <ogr:OBJECTID>45</ogr:OBJECTID>
+    <ogr:TOPONYME>Curiosité</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Pigeonnier</ogr:ETIQUETTE>
+    <ogr:CODCOM>76167</ogr:CODCOM>
+    <ogr:COMMUNE>Cauville-sur-Mer</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Magnifique colombier circulaire émergeant au centre d’une cour de ferme. On peut y distinguer à proximité les vestiges de l’ancien château de Cauville (il ne subsiste que les parties de plain-pied)</ogr:DESCRIPTIF>
+    <ogr:Field_6>Magnifique colombier circulaire émergeant au centre d’une cour de ferme. On peut y distinguer à proximité les vestiges de l’ancien château de Cauville (il ne subsiste que les parties de plain-pied)</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76167</ogr:Field_4>
+    <ogr:Field_5>Cauville-sur-Mer</ogr:Field_5>
+    <ogr:Field_2>Curiosité</ogr:Field_2>
+    <ogr:Field_3>Pigeonnier</ogr:Field_3>
+    <ogr:Field_1>45</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.541888599510202" lon="0.196660869774924">
+  <name>kml_89</name>
+  <extensions>
+    <ogr:OBJECTID>54</ogr:OBJECTID>
+    <ogr:TOPONYME>Point de vue</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Point de vue</ogr:ETIQUETTE>
+    <ogr:CODCOM>76447</ogr:CODCOM>
+    <ogr:COMMUNE>Montivilliers</ogr:COMMUNE>
+    <ogr:Field_6></ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76447</ogr:Field_4>
+    <ogr:Field_5>Montivilliers</ogr:Field_5>
+    <ogr:Field_2>Point de vue</ogr:Field_2>
+    <ogr:Field_3>Point de vue</ogr:Field_3>
+    <ogr:Field_1>54</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.4903162500257" lon="0.112300657054907">
+  <name>kml_82</name>
+  <extensions>
+    <ogr:OBJECTID>47</ogr:OBJECTID>
+    <ogr:TOPONYME>Curiosité</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Bassin du commerce</ogr:ETIQUETTE>
+    <ogr:CODCOM>76351</ogr:CODCOM>
+    <ogr:COMMUNE>Le Havre</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Conservé dans la ville reconstruite, les origines de ce bassin remontent au XVIIIe siècle, époque de l’extension urbaine liée au plan de l’ingénieur François-Laurent Lamandé. Reliant initialement le quartier Saint-François au centre des affaires, la passerelle est remplacée par un pont à hauts-bans réalisée par Guillaume Gillet en 1969.</ogr:DESCRIPTIF>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/Bassin_commerce le havre.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6>Conservé dans la ville reconstruite, les origines de ce bassin remontent au XVIIIe siècle, époque de l’extension urbaine liée au plan de l’ingénieur François-Laurent Lamandé. Reliant initialement le quartier Saint-François au centre des affaires, la passerelle est remplacée par un pont à hauts-bans réalisée par Guillaume Gillet en 1969. </ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/Bassin_commerce le havre.jpg</ogr:Field_7>
+    <ogr:Field_4>76351</ogr:Field_4>
+    <ogr:Field_5>Le Havre</ogr:Field_5>
+    <ogr:Field_2>Curiosité</ogr:Field_2>
+    <ogr:Field_3>Bassin du commerce</ogr:Field_3>
+    <ogr:Field_1>47</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.503071063945498" lon="0.233217720327679">
+  <name>kml_83</name>
+  <extensions>
+    <ogr:OBJECTID>48</ogr:OBJECTID>
+    <ogr:TOPONYME>Parking de la Mairie</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Parking de la Mairie de Gonfreville-l'Orcher</ogr:ETIQUETTE>
+    <ogr:CODCOM>76305</ogr:CODCOM>
+    <ogr:COMMUNE>Gonfreville-l'Orcher</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Circuit de la Pointe de Caux</ogr:DESCRIPTIF>
+    <ogr:Field_6>Circuit de la Pointe de Caux</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76305</ogr:Field_4>
+    <ogr:Field_5>Gonfreville-l'Orcher</ogr:Field_5>
+    <ogr:Field_2>Parking de la Mairie</ogr:Field_2>
+    <ogr:Field_3>Parking de la Mairie de Gonfreville-l'Orcher</ogr:Field_3>
+    <ogr:Field_1>48</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.516076225783401" lon="0.250874071121788">
+  <name>kml_84</name>
+  <extensions>
+    <ogr:OBJECTID>49</ogr:OBJECTID>
+    <ogr:TOPONYME>Eglise</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Eglise St Pierre</ogr:ETIQUETTE>
+    <ogr:CODCOM>76296</ogr:CODCOM>
+    <ogr:COMMUNE>Gainneville</ogr:COMMUNE>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/Eglise-SaintPierre - Gainneville.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6></ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/Eglise-SaintPierre - Gainneville.jpg</ogr:Field_7>
+    <ogr:Field_4>76296</ogr:Field_4>
+    <ogr:Field_5>Gainneville</ogr:Field_5>
+    <ogr:Field_2>Eglise</ogr:Field_2>
+    <ogr:Field_3>Eglise St Pierre</ogr:Field_3>
+    <ogr:Field_1>49</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.507226244979101" lon="0.073973648139297">
+  <name>kml_85</name>
+  <extensions>
+    <ogr:OBJECTID>50</ogr:OBJECTID>
+    <ogr:TOPONYME>Point de vue</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Point de vue</ogr:ETIQUETTE>
+    <ogr:CODCOM>76552</ogr:CODCOM>
+    <ogr:COMMUNE>Sainte-Adresse</ogr:COMMUNE>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/Balcon_estuaire_Ste_Adresse.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6></ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/Balcon_estuaire_Ste_Adresse.jpg</ogr:Field_7>
+    <ogr:Field_4>76552</ogr:Field_4>
+    <ogr:Field_5>Sainte-Adresse</ogr:Field_5>
+    <ogr:Field_2>Point de vue</ogr:Field_2>
+    <ogr:Field_3>Point de vue</ogr:Field_3>
+    <ogr:Field_1>50</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.512366940352599" lon="0.069312782449595">
+  <name>kml_86</name>
+  <extensions>
+    <ogr:OBJECTID>51</ogr:OBJECTID>
+    <ogr:TOPONYME>Curiosité</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Le phare de la Hève</ogr:ETIQUETTE>
+    <ogr:CODCOM>76552</ogr:CODCOM>
+    <ogr:COMMUNE>Sainte-Adresse</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Le chemin du littoral présente un intérêt pédagogique pour l'éducation à l'environnement. Il provoque le goût pour les sciences naturelles surtout chez les jeunes enfants. C'est un itinéraire de découvertes de faunes et flores à l'image d'un sentier de la biodiversité</ogr:DESCRIPTIF>
+    <ogr:Field_6>Le chemin du littoral présente un intérêt pédagogique pour l'éducation à l'environnement. Il provoque le goût pour les sciences naturelles surtout chez les jeunes enfants. C'est un itinéraire de découvertes de faunes et flores à l'image d'un sentier de la biodiversité</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76552</ogr:Field_4>
+    <ogr:Field_5>Sainte-Adresse</ogr:Field_5>
+    <ogr:Field_2>Curiosité</ogr:Field_2>
+    <ogr:Field_3>Le phare de la Hève</ogr:Field_3>
+    <ogr:Field_1>51</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.595251794140999" lon="0.131107280960088">
+  <name>kml_87</name>
+  <extensions>
+    <ogr:OBJECTID>52</ogr:OBJECTID>
+    <ogr:TOPONYME>Parking de la Mairie de Cauville-sur-Mer</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Parking de la Mairie de Cauville-sur-Mer</ogr:ETIQUETTE>
+    <ogr:CODCOM>76167</ogr:CODCOM>
+    <ogr:COMMUNE>Cauville-sur-Mer</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>A la découverte du littoral Cauvillais</ogr:DESCRIPTIF>
+    <ogr:Field_6>A la découverte du littoral Cauvillais</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76167</ogr:Field_4>
+    <ogr:Field_5>Cauville-sur-Mer</ogr:Field_5>
+    <ogr:Field_2>Parking de la Mairie de Cauville-sur-Mer</ogr:Field_2>
+    <ogr:Field_3>Parking de la Mairie de Cauville-sur-Mer</ogr:Field_3>
+    <ogr:Field_1>52</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.507072274393899" lon="0.199888568553945">
+  <name>kml_1</name>
+  <extensions>
+    <ogr:OBJECTID>31</ogr:OBJECTID>
+    <ogr:TOPONYME>Eglise</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Eglise St Martin</ogr:ETIQUETTE>
+    <ogr:CODCOM>76341</ogr:CODCOM>
+    <ogr:COMMUNE>Harfleur</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Érigée entre le 14ème et le 16ème siècle, son clocher de 83 m est un des fleurons de l’architecture gothique en Normandie. La récente restauration de sa façade ouest et de ses vitraux et de sa mise en lumière, lui confèrent une nouvelle jeunesse.L’Eglise paroissiale d’Harfleur, dédiée à Saint-Martin, est de fondation très ancienne. En 1035, le duc Robert de Normandie en fait don à l’abbaye de Montivilliers. Profitant de l’essor économique croissant des XIIIème et XIVème siècles, une nouvelle église est édifiée et bénie en 1411, mais durant l’occupation anglaise de la guerre de Cent Ans, l’édifice souffre des combats et saccages. La mise en lumière des façades et le projet de création de vitraux contemporains consacrent désormais l’entrée de l’édifice dans le troisième millénaire.</ogr:DESCRIPTIF>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/eglise harfleur.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6>Érigée entre le 14ème et le 16ème siècle, son clocher de 83 m est un des fleurons de l’architecture gothique en Normandie. La récente restauration de sa façade ouest et de ses vitraux et de sa mise en lumière, lui confèrent une nouvelle jeunesse.L’Eglise paroissiale d’Harfleur, dédiée à Saint-Martin, est de fondation très ancienne. En 1035, le duc Robert de Normandie en fait don à l’abbaye de Montivilliers. Profitant de l’essor économique croissant des XIIIème et XIVème siècles, une nouvelle église est édifiée et bénie en 1411, mais durant l’occupation anglaise de la guerre de Cent Ans, l’édifice souffre des combats et saccages. La mise en lumière des façades et le projet de création de vitraux contemporains consacrent désormais l’entrée de l’édifice dans le troisième millénaire.</ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/eglise harfleur.jpg</ogr:Field_7>
+    <ogr:Field_4>76341</ogr:Field_4>
+    <ogr:Field_5>Harfleur</ogr:Field_5>
+    <ogr:Field_2>Eglise</ogr:Field_2>
+    <ogr:Field_3>Eglise St Martin</ogr:Field_3>
+    <ogr:Field_1>31</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.548115427329897" lon="0.083103406626622">
+  <name>kml_7</name>
+  <extensions>
+    <ogr:OBJECTID>37</ogr:OBJECTID>
+    <ogr:TOPONYME>Curiosité</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Aquacaux</ogr:ETIQUETTE>
+    <ogr:CODCOM>76481</ogr:CODCOM>
+    <ogr:COMMUNE>Octeville-sur-Mer</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>L’association Aquacaux a développé une ferme marine au sein de laquelle sont élevées différentes espèces de poissons et crustacés.Dans un lieu insolite, une ancienne station de pompage de carburant de l'OTAN, vous découvrirez, autour de l'élevage de turbot, les espèces de plancton animales et végétales impliquées dans la chaîne alimentaire.
+Dans un lieu insolite, une ancienne station de pompage de carburant de l'OTAN, vous découvrirez, autour de l'élevage de turbot, les espèces de plancton animales et végétales impliquées dans la chaîne alimentaire.
+</ogr:DESCRIPTIF>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/aquacaux_Octeville.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6>L’association Aquacaux a développé une ferme marine au sein de laquelle sont élevées différentes espèces de poissons et crustacés.Dans un lieu insolite, une ancienne station de pompage de carburant de l'OTAN, vous découvrirez, autour de l'élevage de turbot, les espèces de plancton animales et végétales impliquées dans la chaîne alimentaire. Dans un lieu insolite, une ancienne station de pompage de carburant de l'OTAN, vous découvrirez, autour de l'élevage de turbot, les espèces de plancton animales et végétales impliquées dans la chaîne alimentaire. </ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/aquacaux_Octeville.jpg</ogr:Field_7>
+    <ogr:Field_4>76481</ogr:Field_4>
+    <ogr:Field_5>Octeville-sur-Mer</ogr:Field_5>
+    <ogr:Field_2>Curiosité</ogr:Field_2>
+    <ogr:Field_3>Aquacaux</ogr:Field_3>
+    <ogr:Field_1>37</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.536814290174199" lon="0.184739815660457">
+  <name>kml_90</name>
+  <extensions>
+    <ogr:OBJECTID>55</ogr:OBJECTID>
+    <ogr:TOPONYME>Point de vue</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Point de vue</ogr:ETIQUETTE>
+    <ogr:CODCOM>76447</ogr:CODCOM>
+    <ogr:COMMUNE>Montivilliers</ogr:COMMUNE>
+    <ogr:Field_6></ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76447</ogr:Field_4>
+    <ogr:Field_5>Montivilliers</ogr:Field_5>
+    <ogr:Field_2>Point de vue</ogr:Field_2>
+    <ogr:Field_3>Point de vue</ogr:Field_3>
+    <ogr:Field_1>55</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.508711629704301" lon="0.068809152945963">
+  <name>kml_91</name>
+  <extensions>
+    <ogr:OBJECTID>56</ogr:OBJECTID>
+    <ogr:TOPONYME>Parking place Maréchal Joffre</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Parking place Maréchal Joffre</ogr:ETIQUETTE>
+    <ogr:CODCOM>76552</ogr:CODCOM>
+    <ogr:COMMUNE>Sainte-Adresse</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Circuit &quot;Autour du Cap&quot;</ogr:DESCRIPTIF>
+    <ogr:Field_6>Circuit &quot;Autour du Cap&quot;</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76552</ogr:Field_4>
+    <ogr:Field_5>Sainte-Adresse</ogr:Field_5>
+    <ogr:Field_2>Parking place Maréchal Joffre</ogr:Field_2>
+    <ogr:Field_3>Parking place Maréchal Joffre</ogr:Field_3>
+    <ogr:Field_1>56</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.496968027568997" lon="0.109132540947478">
+  <name>kml_92</name>
+  <extensions>
+    <ogr:OBJECTID>57</ogr:OBJECTID>
+    <ogr:TOPONYME>Eglise</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Eglise Saint-Michel</ogr:ETIQUETTE>
+    <ogr:CODCOM>76351</ogr:CODCOM>
+    <ogr:COMMUNE>Le Havre</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Réalisé en 1964 par Henri Colboc, grand prix de Rome, l’édifice retient l’attention par son étonnant clocher hors-œuvre et sa toiture en forme de livre ouvert surmontant des vitraux colorés.</ogr:DESCRIPTIF>
+    <ogr:Field_6>Réalisé en 1964 par Henri Colboc, grand prix de Rome, l’édifice retient l’attention par son étonnant clocher hors-œuvre et sa toiture en forme de livre ouvert surmontant des vitraux colorés.</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76351</ogr:Field_4>
+    <ogr:Field_5>Le Havre</ogr:Field_5>
+    <ogr:Field_2>Eglise</ogr:Field_2>
+    <ogr:Field_3>Eglise Saint-Michel</ogr:Field_3>
+    <ogr:Field_1>57</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.551557632035802" lon="0.204586273223269">
+  <name>kml_93</name>
+  <extensions>
+    <ogr:OBJECTID>58</ogr:OBJECTID>
+    <ogr:TOPONYME>Conseil du randonneur</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Promenade</ogr:ETIQUETTE>
+    <ogr:CODCOM>76447</ogr:CODCOM>
+    <ogr:COMMUNE>Montivilliers</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Promenade le long de La Lézarde</ogr:DESCRIPTIF>
+    <ogr:Field_6>Promenade le long de La Lézarde </ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76447</ogr:Field_4>
+    <ogr:Field_5>Montivilliers</ogr:Field_5>
+    <ogr:Field_2>Conseil du randonneur</ogr:Field_2>
+    <ogr:Field_3>Promenade</ogr:Field_3>
+    <ogr:Field_1>58</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.604917201236802" lon="0.15688847538703">
+  <name>kml_94</name>
+  <extensions>
+    <ogr:OBJECTID>59</ogr:OBJECTID>
+    <ogr:TOPONYME>Eglise</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Eglise Saint Pierre de Buglise</ogr:ETIQUETTE>
+    <ogr:CODCOM>76167</ogr:CODCOM>
+    <ogr:COMMUNE>Cauville-sur-Mer</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Un édifice important au cœur du hameau…</ogr:DESCRIPTIF>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/EGLISEBUGLISE_CAUVILLE_SUR_MER.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6>Un édifice important au cœur du hameau…</ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/EGLISEBUGLISE_CAUVILLE_SUR_MER.jpg</ogr:Field_7>
+    <ogr:Field_4>76167</ogr:Field_4>
+    <ogr:Field_5>Cauville-sur-Mer</ogr:Field_5>
+    <ogr:Field_2>Eglise</ogr:Field_2>
+    <ogr:Field_3>Eglise Saint Pierre de Buglise</ogr:Field_3>
+    <ogr:Field_1>59</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.502790569341201" lon="0.234576661695409">
+  <name>kml_11</name>
+  <extensions>
+    <ogr:OBJECTID>41</ogr:OBJECTID>
+    <ogr:TOPONYME>Eglise</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Eglise St Erkonwald</ogr:ETIQUETTE>
+    <ogr:CODCOM>76305</ogr:CODCOM>
+    <ogr:COMMUNE>Gonfreville-l'Orcher</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Fondée au XIe siècle, elle doit son nom à un évêque de Londres du VIIe siècle après J.-C. L’église actuelle a été construite sur des plans dressés en 1858 et fut sacralisée en 1865. De style roman, elle fut endommagée par un incendie entre 1865 et 1870, puis reconstruite dans un style gothique.La construction de la première église date du 10ème siècle, une époque où le duché de Normandie et l’Angleterre avaient des rapports très étroits. Cela explique peut-être que Saint-Erkonwald fut nommé à Gonfreville l’Orcher. (Saint-Erkonwald était le quatrième évêque des Saxons à Londres. Il fonda les abbayes de Barking et de Chertsey. Quand il meurt vers 693, des miracles lui ont été attribués).La construction de la première église date du 10ème siècle, une époque où le duché de Normandie et l’Angleterre avaient des rapports très étroits. Cela explique peut-être que Saint-Erkonwald fut nommé à Gonfreville l’Orcher. 
+</ogr:DESCRIPTIF>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/EGLISE SAINT ERKONWALD gonfreville.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6>Fondée au XIe siècle, elle doit son nom à un évêque de Londres du VIIe siècle après J.-C. L’église actuelle a été construite sur des plans dressés en 1858 et fut sacralisée en 1865. De style roman, elle fut endommagée par un incendie entre 1865 et 1870, puis reconstruite dans un style gothique.La construction de la première église date du 10ème siècle, une époque où le duché de Normandie et l’Angleterre avaient des rapports très étroits. Cela explique peut-être que Saint-Erkonwald fut nommé à Gonfreville l’Orcher. (Saint-Erkonwald était le quatrième évêque des Saxons à Londres. Il fonda les abbayes de Barking et de Chertsey. Quand il meurt vers 693, des miracles lui ont été attribués).La construction de la première église date du 10ème siècle, une époque où le duché de Normandie et l’Angleterre avaient des rapports très étroits. Cela explique peut-être que Saint-Erkonwald fut nommé à Gonfreville l’Orcher.  </ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/EGLISE SAINT ERKONWALD gonfreville.jpg</ogr:Field_7>
+    <ogr:Field_4>76305</ogr:Field_4>
+    <ogr:Field_5>Gonfreville-l'Orcher</ogr:Field_5>
+    <ogr:Field_2>Eglise</ogr:Field_2>
+    <ogr:Field_3>Eglise St Erkonwald</ogr:Field_3>
+    <ogr:Field_1>41</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.567502422104198" lon="0.255176576028402">
+  <name>kml_14</name>
+  <extensions>
+    <ogr:OBJECTID>44</ogr:OBJECTID>
+    <ogr:TOPONYME>Eglise</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Eglise St Germain</ogr:ETIQUETTE>
+    <ogr:CODCOM>76404</ogr:CODCOM>
+    <ogr:COMMUNE>Manéglise</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Le plus beau monument visible est l'église Saint-Germain-l'Auxerrois classée monument historique depuis 1885, qui a bénéficié d'une restauration complète. Au cours de cette restauration, une fresque millénaire fut découverte au niveau du plafond du chœur. Cette église prend la place d'une chapelle déjà existante ainsi qu'un ancien temple dont aucune trace n'est visible à l'heure actuelle. Au XIIe siècle a lieu la reconstruction d'une nef plus longue et plus haute avec son décor très particulier de chapiteaux caractéristiques de la sculpture romane normande. Au XVIe siècle a lieu l'adjonction d'une grande chapelle de style gothique construite sous l'ordre de Jehan Leroux. Sa restauration contemporaine commença en 1988 pour en faire un joyau de l'art roman reconnu par de nombreux historiens.</ogr:DESCRIPTIF>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/eglisemaneglise.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6>Le plus beau monument visible est l'église Saint-Germain-l'Auxerrois classée monument historique depuis 1885, qui a bénéficié d'une restauration complète. Au cours de cette restauration, une fresque millénaire fut découverte au niveau du plafond du chœur. Cette église prend la place d'une chapelle déjà existante ainsi qu'un ancien temple dont aucune trace n'est visible à l'heure actuelle. Au XIIe siècle a lieu la reconstruction d'une nef plus longue et plus haute avec son décor très particulier de chapiteaux caractéristiques de la sculpture romane normande. Au XVIe siècle a lieu l'adjonction d'une grande chapelle de style gothique construite sous l'ordre de Jehan Leroux. Sa restauration contemporaine commença en 1988 pour en faire un joyau de l'art roman reconnu par de nombreux historiens.</ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/eglisemaneglise.jpg</ogr:Field_7>
+    <ogr:Field_4>76404</ogr:Field_4>
+    <ogr:Field_5>Manéglise</ogr:Field_5>
+    <ogr:Field_2>Eglise</ogr:Field_2>
+    <ogr:Field_3>Eglise St Germain</ogr:Field_3>
+    <ogr:Field_1>44</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.596476503974898" lon="0.129519265605041">
+  <name>kml_17</name>
+  <extensions>
+    <ogr:OBJECTID>3</ogr:OBJECTID>
+    <ogr:TOPONYME>Eglise</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Eglise St Nicolas</ogr:ETIQUETTE>
+    <ogr:CODCOM>76167</ogr:CODCOM>
+    <ogr:COMMUNE>Cauville-sur-Mer</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>L’église au clocher élancé en ardoise, domine le bourg animé de commerces. L’appareillage en brique, silex blanc et noir a été rénové récemment. À l’intérieur, piliers et arcs brisés sont en pierre. Bel ensemble de statues du XVIIe siècle dont saint Jean-Baptiste, la Vierge à l’Enfant, une Piétà, saint Martin à cheval… Les vitraux du chœur, avec notamment la présence de Saint-Supplix et de Saint-Barthélémy, symbolisent les anciennes paroisses aujourd’hui disparues, rattachées au village.</ogr:DESCRIPTIF>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/Eglise Saint-Nicolas Cauville.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6>L’église au clocher élancé en ardoise, domine le bourg animé de commerces. L’appareillage en brique, silex blanc et noir a été rénové récemment. À l’intérieur, piliers et arcs brisés sont en pierre. Bel ensemble de statues du XVIIe siècle dont saint Jean-Baptiste, la Vierge à l’Enfant, une Piétà, saint Martin à cheval… Les vitraux du chœur, avec notamment la présence de Saint-Supplix et de Saint-Barthélémy, symbolisent les anciennes paroisses aujourd’hui disparues, rattachées au village.</ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/Eglise Saint-Nicolas Cauville.jpg</ogr:Field_7>
+    <ogr:Field_4>76167</ogr:Field_4>
+    <ogr:Field_5>Cauville-sur-Mer</ogr:Field_5>
+    <ogr:Field_2>Eglise</ogr:Field_2>
+    <ogr:Field_3>Eglise St Nicolas</ogr:Field_3>
+    <ogr:Field_1>3</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.496801589226799" lon="0.246713872227854">
+  <name>kml_24</name>
+  <extensions>
+    <ogr:OBJECTID>10</ogr:OBJECTID>
+    <ogr:TOPONYME>Curiosité</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Château d'Orcher</ogr:ETIQUETTE>
+    <ogr:CODCOM>76305</ogr:CODCOM>
+    <ogr:COMMUNE>Gonfreville-l'Orcher</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Le château a été construit sur une falaise de 90 mètres au 11ème (une tour) et au 12ème siècle (par un ensemble avec donjon carré et muraille renforcée de tours ainsi  qu’un fossé vers le nord (actuelle orangerie), puis modifiée au 17ème et 18ème  siècle.Autrefois le château fort servait de poste militaire destiné à la défense de l’embouchure de la Seine Il constituait un fief accordé par Rollon (chef viking devenu maître de la Normandie en 911) au seigneur Guillaume d’Auricher. Actuellement, ce château est la propriété de la famille d’Harcourt..A voir dans le parc, un colombier octogonal du XVIème siècle.
+Autrefois le château fort servait de poste militaire destiné à la défense de l’embouchure de la Seine.
+Il constituait un fief accordé par Rollon (chef viking devenu maître de la Normandie en 911) au seigneur Guillaume d’Auricher. Actuellement, ce château est la propriété de la famille d’Harcourt.
+A voir dans le parc, un colombier octogonal du XVIème siècle.
+</ogr:DESCRIPTIF>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/Orcher_gonfreville.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6>Le château a été construit sur une falaise de 90 mètres au 11ème (une tour) et au 12ème siècle (par un ensemble avec donjon carré et muraille renforcée de tours ainsi  qu’un fossé vers le nord (actuelle orangerie), puis modifiée au 17ème et 18ème  siècle.Autrefois le château fort servait de poste militaire destiné à la défense de l’embouchure de la Seine Il constituait un fief accordé par Rollon (chef viking devenu maître de la Normandie en 911) au seigneur Guillaume d’Auricher. Actuellement, ce château est la propriété de la famille d’Harcourt..A voir dans le parc, un colombier octogonal du XVIème siècle. Autrefois le château fort servait de poste militaire destiné à la défense de l’embouchure de la Seine. Il constituait un fief accordé par Rollon (chef viking devenu maître de la Normandie en 911) au seigneur Guillaume d’Auricher. Actuellement, ce château est la propriété de la famille d’Harcourt. A voir dans le parc, un colombier octogonal du XVIème siècle. </ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/Orcher_gonfreville.jpg</ogr:Field_7>
+    <ogr:Field_4>76305</ogr:Field_4>
+    <ogr:Field_5>Gonfreville-l'Orcher</ogr:Field_5>
+    <ogr:Field_2>Curiosité</ogr:Field_2>
+    <ogr:Field_3>Château d'Orcher</ogr:Field_3>
+    <ogr:Field_1>10</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.533808361563302" lon="0.098727790346157">
+  <name>kml_33</name>
+  <extensions>
+    <ogr:OBJECTID>19</ogr:OBJECTID>
+    <ogr:TOPONYME>Curiosité</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Cueillette d'Octeville-sur-Mer</ogr:ETIQUETTE>
+    <ogr:CODCOM>76481</ogr:CODCOM>
+    <ogr:COMMUNE>Octeville-sur-Mer</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Venez garnir votre panier de fruits, légumes et fleurs de saison : fraises, tomates, radis, salades concombre, aubergines, dahlias, glaïeuls…</ogr:DESCRIPTIF>
+    <ogr:Field_6>Venez garnir votre panier de fruits, légumes et fleurs de saison : fraises, tomates, radis, salades concombre, aubergines, dahlias, glaïeuls…</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76481</ogr:Field_4>
+    <ogr:Field_5>Octeville-sur-Mer</ogr:Field_5>
+    <ogr:Field_2>Curiosité</ogr:Field_2>
+    <ogr:Field_3>Cueillette d'Octeville-sur-Mer</ogr:Field_3>
+    <ogr:Field_1>19</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.535111098552498" lon="0.146061486461529">
+  <name>kml_35</name>
+  <extensions>
+    <ogr:OBJECTID>21</ogr:OBJECTID>
+    <ogr:TOPONYME>Eglise</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Eglise St Valéry</ogr:ETIQUETTE>
+    <ogr:CODCOM>76270</ogr:CODCOM>
+    <ogr:COMMUNE>Fontaine-la-Mallet</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>1944, le village de Fontaine la Mallet est détruit à 99 %, sous les bombardements. L’église Saint Valéry ne résiste pas plus que les autres bâtiments alentours. Seul le clocher campanile, datant du XIIème siècle subsiste, mais son état nécessite sa destruction.La reconstruction de l’église fut décidée et la pose de sa première pierre eut lieu le 25 octobre 1954. Les travaux furent menés par l’entreprise Robert selon les plans de l’architecte Serge Zoppi, contemporain d’Auguste Perret. Le presbytère est d’un style identique, c’est-à-dire composé de briques rouges, silex et béton. Le dessin de sa flèche en béton représente des épis de blés rappelant la ruralité de la paroisse.</ogr:DESCRIPTIF>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/Eglise Saint-Valery_fontaine.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6>1944, le village de Fontaine la Mallet est détruit à 99 %, sous les bombardements. L’église Saint Valéry ne résiste pas plus que les autres bâtiments alentours. Seul le clocher campanile, datant du XIIème siècle subsiste, mais son état nécessite sa destruction.La reconstruction de l’église fut décidée et la pose de sa première pierre eut lieu le 25 octobre 1954. Les travaux furent menés par l’entreprise Robert selon les plans de l’architecte Serge Zoppi, contemporain d’Auguste Perret. Le presbytère est d’un style identique, c’est-à-dire composé de briques rouges, silex et béton. Le dessin de sa flèche en béton représente des épis de blés rappelant la ruralité de la paroisse. </ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/Eglise Saint-Valery_fontaine.jpg</ogr:Field_7>
+    <ogr:Field_4>76270</ogr:Field_4>
+    <ogr:Field_5>Fontaine-la-Mallet</ogr:Field_5>
+    <ogr:Field_2>Eglise</ogr:Field_2>
+    <ogr:Field_3>Eglise St Valéry</ogr:Field_3>
+    <ogr:Field_1>21</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.564109811743997" lon="0.147750238644668">
+  <name>kml_45</name>
+  <extensions>
+    <ogr:OBJECTID>60</ogr:OBJECTID>
+    <ogr:TOPONYME>Eglise</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Eglise St Barthélémy</ogr:ETIQUETTE>
+    <ogr:CODCOM>76481</ogr:CODCOM>
+    <ogr:COMMUNE>Octeville-sur-Mer</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Sur la commune d’Octeville-sur-Mer, au lieu-dit de Saint Barthélemy, l’église aux allures de chapelle recèle quelques joyaux.Passé le porche en bois, on découvre un grand retable surmonté d’une peinture d’un Christ au Calvaire signée Chateauvieux et  deux statues polychromes du XVIIème, saint Barthélémy à gauche et saint Clair à droite. Du XVIIème encore, la petite chapelle de la  Vierge avec son magnifique retable  portant en son centre la Vierge Marie en bois doré entourée d’angelots la couronnant.
+Passé le porche en bois, on découvre un grand retable surmonté d’une peinture d’un Christ au Calvaire signée Chateauvieux et  deux statues polychromes du XVIIème, saint Barthélémy à gauche et saint Clair à droite. 
+Du XVIIème encore, la petite chapelle de la  Vierge avec son magnifique retable  portant en son centre la Vierge Marie en bois doré entourée d’angelots la couronnant.
+</ogr:DESCRIPTIF>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/Eglise saint-barthelemy - Octeville sur Mer.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6>Sur la commune d’Octeville-sur-Mer, au lieu-dit de Saint Barthélemy, l’église aux allures de chapelle recèle quelques joyaux.Passé le porche en bois, on découvre un grand retable surmonté d’une peinture d’un Christ au Calvaire signée Chateauvieux et  deux statues polychromes du XVIIème, saint Barthélémy à gauche et saint Clair à droite. Du XVIIème encore, la petite chapelle de la  Vierge avec son magnifique retable  portant en son centre la Vierge Marie en bois doré entourée d’angelots la couronnant. Passé le porche en bois, on découvre un grand retable surmonté d’une peinture d’un Christ au Calvaire signée Chateauvieux et  deux statues polychromes du XVIIème, saint Barthélémy à gauche et saint Clair à droite.  Du XVIIème encore, la petite chapelle de la  Vierge avec son magnifique retable  portant en son centre la Vierge Marie en bois doré entourée d’angelots la couronnant. </ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/Eglise saint-barthelemy - Octeville sur Mer.jpg</ogr:Field_7>
+    <ogr:Field_4>76481</ogr:Field_4>
+    <ogr:Field_5>Octeville-sur-Mer</ogr:Field_5>
+    <ogr:Field_2>Eglise</ogr:Field_2>
+    <ogr:Field_3>Eglise St Barthélémy</ogr:Field_3>
+    <ogr:Field_1>60</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.514700960683101" lon="0.217881951760956">
+  <name>kml_47</name>
+  <extensions>
+    <ogr:OBJECTID>62</ogr:OBJECTID>
+    <ogr:TOPONYME>Curiosité</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Manoir de Bévilliers</ogr:ETIQUETTE>
+    <ogr:CODCOM>76305</ogr:CODCOM>
+    <ogr:COMMUNE>Gonfreville-l'Orcher</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Joyau de la renaissance, ce manoir témoigne de la rencontre entre l’art italien et le style cauchois.Situé RD 6015, c’est actuellement une propriété privée, classée monument historique en 1924.Le manoir fut un haut lieu des cultes protestants à la fin du XVIème siècle.Intéressant tant par son architecture que par sa décoration intérieure et extérieure, le manoir est classé Monument historique en 1924.
+Situé RD 6015, c’est actuellement une propriété privée, classée monument historique en 1924.
+Le manoir fut un haut lieu des cultes protestants à la fin du XVIème siècle.
+Intéressant tant par son architecture que par sa décoration intérieure et extérieure, le manoir est classé Monument historique en 1924.
+</ogr:DESCRIPTIF>
+    <ogr:Field_6>Joyau de la renaissance, ce manoir témoigne de la rencontre entre l’art italien et le style cauchois.Situé RD 6015, c’est actuellement une propriété privée, classée monument historique en 1924.Le manoir fut un haut lieu des cultes protestants à la fin du XVIème siècle.Intéressant tant par son architecture que par sa décoration intérieure et extérieure, le manoir est classé Monument historique en 1924. Situé RD 6015, c’est actuellement une propriété privée, classée monument historique en 1924. Le manoir fut un haut lieu des cultes protestants à la fin du XVIème siècle. Intéressant tant par son architecture que par sa décoration intérieure et extérieure, le manoir est classé Monument historique en 1924. </ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76305</ogr:Field_4>
+    <ogr:Field_5>Gonfreville-l'Orcher</ogr:Field_5>
+    <ogr:Field_2>Curiosité</ogr:Field_2>
+    <ogr:Field_3>Manoir de Bévilliers</ogr:Field_3>
+    <ogr:Field_1>62</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.541626858167703" lon="0.159318965633244">
+  <name>kml_56</name>
+  <extensions>
+    <ogr:OBJECTID>83</ogr:OBJECTID>
+    <ogr:TOPONYME>Curiosité</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Char de la 2nde Guerre Mondiale</ogr:ETIQUETTE>
+    <ogr:CODCOM>76270</ogr:CODCOM>
+    <ogr:COMMUNE>Fontaine-la-Mallet</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>La commune de Fontaine la Mallet reste marquée par les évènements qui ont conduit à la libération du Havre. Le 8 septembre 1944, le village, bien que situé en dehors de la zone à bombarder, reçoit des projectiles.De nombreuses personnes sont tuées ou blessées. La mairie-école est anéantie à 8h30. Toutes les archives sont détruites. Le 10 septembre, c ‘est l’opération ASTONIA : nom de code de l’assaut final du Havre. Un mémorial a été inauguré le 10 septembre 2000. Sa pièce maîtresse est un char Churchill MK VII offert par le musée des blindés de Bovington et les vétérans. Un fossé anti-char et une passerelle d’assaut de moindre importance permettent d’imaginer les différents obstacles et leur franchissement.</ogr:DESCRIPTIF>
+    <ogr:Field_6>La commune de Fontaine la Mallet reste marquée par les évènements qui ont conduit à la libération du Havre. Le 8 septembre 1944, le village, bien que situé en dehors de la zone à bombarder, reçoit des projectiles.De nombreuses personnes sont tuées ou blessées. La mairie-école est anéantie à 8h30. Toutes les archives sont détruites. Le 10 septembre, c ‘est l’opération ASTONIA : nom de code de l’assaut final du Havre. Un mémorial a été inauguré le 10 septembre 2000. Sa pièce maîtresse est un char Churchill MK VII offert par le musée des blindés de Bovington et les vétérans. Un fossé anti-char et une passerelle d’assaut de moindre importance permettent d’imaginer les différents obstacles et leur franchissement.</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76270</ogr:Field_4>
+    <ogr:Field_5>Fontaine-la-Mallet</ogr:Field_5>
+    <ogr:Field_2>Curiosité</ogr:Field_2>
+    <ogr:Field_3>Char de la 2nde Guerre Mondiale</ogr:Field_3>
+    <ogr:Field_1>83</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.504297248741601" lon="0.083222802157821">
+  <name>kml_59</name>
+  <extensions>
+    <ogr:OBJECTID>86</ogr:OBJECTID>
+    <ogr:TOPONYME>Point de vue</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Point de vue</ogr:ETIQUETTE>
+    <ogr:CODCOM>76552</ogr:CODCOM>
+    <ogr:COMMUNE>Sainte-Adresse</ogr:COMMUNE>
+    <ogr:Field_6></ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76552</ogr:Field_4>
+    <ogr:Field_5>Sainte-Adresse</ogr:Field_5>
+    <ogr:Field_2>Point de vue</ogr:Field_2>
+    <ogr:Field_3>Point de vue</ogr:Field_3>
+    <ogr:Field_1>86</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.490938955330599" lon="0.101209834675892">
+  <name>kml_62</name>
+  <extensions>
+    <ogr:OBJECTID>89</ogr:OBJECTID>
+    <ogr:TOPONYME>Eglise</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Eglise Saint-Joseph</ogr:ETIQUETTE>
+    <ogr:CODCOM>76351</ogr:CODCOM>
+    <ogr:COMMUNE>Le Havre</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Mémorial élevé à la mémoire des victimes des bombardements, l’église Saint-Joseph s’impose en tant que phare spirituel, visible depuis la mer. L’intérieur de l’église surprend par l’évidement de sa tour octogonale culminant à 107 mètres de haut et sa « lumière dorée » due aux verres colorés de Marguerite Huré.</ogr:DESCRIPTIF>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/Intérieur_St-Joseph le havre.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6>Mémorial élevé à la mémoire des victimes des bombardements, l’église Saint-Joseph s’impose en tant que phare spirituel, visible depuis la mer. L’intérieur de l’église surprend par l’évidement de sa tour octogonale culminant à 107 mètres de haut et sa « lumière dorée » due aux verres colorés de Marguerite Huré.</ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/Intérieur_St-Joseph le havre.jpg</ogr:Field_7>
+    <ogr:Field_4>76351</ogr:Field_4>
+    <ogr:Field_5>Le Havre</ogr:Field_5>
+    <ogr:Field_2>Eglise</ogr:Field_2>
+    <ogr:Field_3>Eglise Saint-Joseph</ogr:Field_3>
+    <ogr:Field_1>89</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.486919555122398" lon="0.112818057646983">
+  <name>kml_75</name>
+  <extensions>
+    <ogr:OBJECTID>73</ogr:OBJECTID>
+    <ogr:TOPONYME>Curiosité</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Maison de l'Armateur</ogr:ETIQUETTE>
+    <ogr:CODCOM>76351</ogr:CODCOM>
+    <ogr:COMMUNE>Le Havre</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Réalisée par l’architecte de la ville Paul-Michel Thibault qui  l’avait faite construire vers 1790, cette demeure est devenue la propriété du riche négociant-armateur Martin Foäche au début du XIXème siècle. Miraculeusement sauvée des bombardements de 1944, classée monument historique et achetée par la ville du Havre en 1954, elle abrite un musée emblématique de l’histoire havraise.</ogr:DESCRIPTIF>
+    <ogr:Field_6>Réalisée par l’architecte de la ville Paul-Michel Thibault qui  l’avait faite construire vers 1790, cette demeure est devenue la propriété du riche négociant-armateur Martin Foäche au début du XIXème siècle. Miraculeusement sauvée des bombardements de 1944, classée monument historique et achetée par la ville du Havre en 1954, elle abrite un musée emblématique de l’histoire havraise.</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76351</ogr:Field_4>
+    <ogr:Field_5>Le Havre</ogr:Field_5>
+    <ogr:Field_2>Curiosité</ogr:Field_2>
+    <ogr:Field_3>Maison de l'Armateur</ogr:Field_3>
+    <ogr:Field_1>73</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.531370532257903" lon="0.238225391745158">
+  <name>kml_77</name>
+  <extensions>
+    <ogr:OBJECTID>75</ogr:OBJECTID>
+    <ogr:TOPONYME>Eglise</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Eglise St Martin</ogr:ETIQUETTE>
+    <ogr:CODCOM>76616</ogr:CODCOM>
+    <ogr:COMMUNE>Saint-Martin-du-Manoir</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>La commune tire son nom de l'église dédiée à Saint Martin et du manoir seigneurial du village mentionné dès 1035 dans la charte de fondation de l'abbaye de Montivilliers. Saint Martin du Manoir et son église dépendent au début du XIe siècle des Giffard, Comtes de Montivilliers; l'église leur fut retirée dès 1025 au profit de l'abbaye de Fécamp et en 1035 au profit de l'abbaye de Montivilliers, qui possède également des biens (terres, moulins) à Saint Martin. La seigneurie a appartenu par la suite à différentes familles dont, aux XVIe et XVIIe siècles, la famille de la Rue, et surtout à partir de 1660, la famille très ancienne des Toustain qui comptait plusieurs branches, et notamment celles des Toustain de Frontebosc de Limésy et des Toustain de Richebourg de Saint Martin du Manoir.. Les derniers seigneurs de Saint Martin furent Gaspard-François (1716-1799) et Charles-Gaspard (1746-1836).</ogr:DESCRIPTIF>
+    <ogr:URL_PHOTO>http://cartorandonnee.agglo-lehavre.fr/photos/EGLISE_SAINTMARTIN.jpg</ogr:URL_PHOTO>
+    <ogr:Field_6>La commune tire son nom de l'église dédiée à Saint Martin et du manoir seigneurial du village mentionné dès 1035 dans la charte de fondation de l'abbaye de Montivilliers. Saint Martin du Manoir et son église dépendent au début du XIe siècle des Giffard, Comtes de Montivilliers; l'église leur fut retirée dès 1025 au profit de l'abbaye de Fécamp et en 1035 au profit de l'abbaye de Montivilliers, qui possède également des biens (terres, moulins) à Saint Martin. La seigneurie a appartenu par la suite à différentes familles dont, aux XVIe et XVIIe siècles, la famille de la Rue, et surtout à partir de 1660, la famille très ancienne des Toustain qui comptait plusieurs branches, et notamment celles des Toustain de Frontebosc de Limésy et des Toustain de Richebourg de Saint Martin du Manoir.. Les derniers seigneurs de Saint Martin furent Gaspard-François (1716-1799) et Charles-Gaspard (1746-1836).</ogr:Field_6>
+    <ogr:Field_7>http://cartorandonnee.agglo-lehavre.fr/photos/EGLISE_SAINTMARTIN.jpg</ogr:Field_7>
+    <ogr:Field_4>76616</ogr:Field_4>
+    <ogr:Field_5>Saint-Martin-du-Manoir</ogr:Field_5>
+    <ogr:Field_2>Eglise</ogr:Field_2>
+    <ogr:Field_3>Eglise St Martin</ogr:Field_3>
+    <ogr:Field_1>75</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.517144225912297" lon="0.144284795999">
+  <name>kml_81</name>
+  <extensions>
+    <ogr:OBJECTID>46</ogr:OBJECTID>
+    <ogr:TOPONYME>Curiosité</ogr:TOPONYME>
+    <ogr:ETIQUETTE>Forêt de Montgeon</ogr:ETIQUETTE>
+    <ogr:CODCOM>76351</ogr:CODCOM>
+    <ogr:COMMUNE>Le Havre</ogr:COMMUNE>
+    <ogr:DESCRIPTIF>Ancien site préhistorique, ce parc de 270 hectares est une véritable base de loisirs. Equipé de terrains de football, d’aires de jeux, d’un parc animalier, ainsi que d’une zone cavalière, la forêt de Montgeon est l’endroit idéal pour se détendre et profiter de la nature.Randonneurs et sportifs pourront profiter du  plaisir des grands espaces, avec des kilomètres de bois et de sentiers qui permettent d’approcher au plus près la faune et la flore. Parcours santé, cross, course d’orientation, grande randonnée, cyclo-cross, VTT : plusieurs parcours sportifs sont organisés au cœur du parc, dont certains sont accessibles aux personnes à mobilité réduite. Pour tous ceux qui préfèrent le farniente, 30 hectares de pelouses et de prairies devraient rassasier leur envie de calme.</ogr:DESCRIPTIF>
+    <ogr:Field_6>Ancien site préhistorique, ce parc de 270 hectares est une véritable base de loisirs. Equipé de terrains de football, d’aires de jeux, d’un parc animalier, ainsi que d’une zone cavalière, la forêt de Montgeon est l’endroit idéal pour se détendre et profiter de la nature.Randonneurs et sportifs pourront profiter du  plaisir des grands espaces, avec des kilomètres de bois et de sentiers qui permettent d’approcher au plus près la faune et la flore. Parcours santé, cross, course d’orientation, grande randonnée, cyclo-cross, VTT : plusieurs parcours sportifs sont organisés au cœur du parc, dont certains sont accessibles aux personnes à mobilité réduite. Pour tous ceux qui préfèrent le farniente, 30 hectares de pelouses et de prairies devraient rassasier leur envie de calme.</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>76351</ogr:Field_4>
+    <ogr:Field_5>Le Havre</ogr:Field_5>
+    <ogr:Field_2>Curiosité</ogr:Field_2>
+    <ogr:Field_3>Forêt de Montgeon</ogr:Field_3>
+    <ogr:Field_1>46</ogr:Field_1>
+  </extensions>
+</wpt>
+</gpx>

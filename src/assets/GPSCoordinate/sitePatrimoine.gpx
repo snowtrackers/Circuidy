@@ -1,0 +1,1862 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="49.458656645641803" minlon="0.068689465799178" maxlat="49.511879893071701" maxlon="0.181435325368865"/></metadata>                    
+<wpt lat="49.489292983485299" lon="0.113559349648204">
+  <name>kml_1</name>
+  <extensions>
+    <ogr:OBJECTID>1</ogr:OBJECTID>
+    <ogr:ID_SITE>2-07</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>2</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Découverte de la cité maritime</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>07</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Eglise Saint-François</ogr:NOM_SITE>
+    <ogr:Field_6>Eglise Saint-François</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Découverte de la cité maritime</ogr:Field_4>
+    <ogr:Field_5>07</ogr:Field_5>
+    <ogr:Field_2>2-07</ogr:Field_2>
+    <ogr:Field_3>2</ogr:Field_3>
+    <ogr:Field_1>1</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.488728804499303" lon="0.11425728770784">
+  <name>kml_2</name>
+  <extensions>
+    <ogr:OBJECTID>2</ogr:OBJECTID>
+    <ogr:ID_SITE>2-06</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>2</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Découverte de la cité maritime</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>06</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Maison Dubocage de Bléville</ogr:NOM_SITE>
+    <ogr:Field_6>Maison Dubocage de Bléville</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Découverte de la cité maritime</ogr:Field_4>
+    <ogr:Field_5>06</ogr:Field_5>
+    <ogr:Field_2>2-06</ogr:Field_2>
+    <ogr:Field_3>2</ogr:Field_3>
+    <ogr:Field_1>2</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.492121830140398" lon="0.124074851459455">
+  <name>kml_3</name>
+  <extensions>
+    <ogr:OBJECTID>3</ogr:OBJECTID>
+    <ogr:ID_SITE>2-20</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>2</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Découverte de la cité maritime</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>20</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Triangle des Gares</ogr:NOM_SITE>
+    <ogr:Field_6>Triangle des Gares</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Découverte de la cité maritime</ogr:Field_4>
+    <ogr:Field_5>20</ogr:Field_5>
+    <ogr:Field_2>2-20</ogr:Field_2>
+    <ogr:Field_3>2</ogr:Field_3>
+    <ogr:Field_1>3</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.492390238867003" lon="0.118788714690517">
+  <name>kml_4</name>
+  <extensions>
+    <ogr:OBJECTID>4</ogr:OBJECTID>
+    <ogr:ID_SITE>2-19</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>2</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Découverte de la cité maritime</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>19</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Franklin Building</ogr:NOM_SITE>
+    <ogr:Field_6>Franklin Building</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Découverte de la cité maritime</ogr:Field_4>
+    <ogr:Field_5>19</ogr:Field_5>
+    <ogr:Field_2>2-19</ogr:Field_2>
+    <ogr:Field_3>2</ogr:Field_3>
+    <ogr:Field_1>4</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.490798885141302" lon="0.10401336035471">
+  <name>kml_5</name>
+  <extensions>
+    <ogr:OBJECTID>5</ogr:OBJECTID>
+    <ogr:ID_SITE>1-09</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>1</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Circuit du Patrimoine mondial</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>09</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Halles Centrales</ogr:NOM_SITE>
+    <ogr:Field_6>Halles Centrales</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Circuit du Patrimoine mondial</ogr:Field_4>
+    <ogr:Field_5>09</ogr:Field_5>
+    <ogr:Field_2>1-09</ogr:Field_2>
+    <ogr:Field_3>1</ogr:Field_3>
+    <ogr:Field_1>5</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.503722988349999" lon="0.121946607933078">
+  <name>kml_6</name>
+  <extensions>
+    <ogr:OBJECTID>6</ogr:OBJECTID>
+    <ogr:ID_SITE>6-06</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>6</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade des escaliers, côté est</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>06</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Archives municipales</ogr:NOM_SITE>
+    <ogr:ID_TO_SIGU>BA00554</ogr:ID_TO_SIGU>
+    <ogr:Field_6>Archives municipales</ogr:Field_6>
+    <ogr:Field_7>BA00554</ogr:Field_7>
+    <ogr:Field_4>Balade des escaliers, côté est</ogr:Field_4>
+    <ogr:Field_5>06</ogr:Field_5>
+    <ogr:Field_2>6-06</ogr:Field_2>
+    <ogr:Field_3>6</ogr:Field_3>
+    <ogr:Field_1>6</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.503190352179601" lon="0.120881370442323">
+  <name>kml_7</name>
+  <extensions>
+    <ogr:OBJECTID>7</ogr:OBJECTID>
+    <ogr:ID_SITE>6-05</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>6</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade des escaliers, côté est</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>05</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Ceinture des Forts</ogr:NOM_SITE>
+    <ogr:ID_TO_SIGU>BA00554</ogr:ID_TO_SIGU>
+    <ogr:Field_6>Ceinture des Forts</ogr:Field_6>
+    <ogr:Field_7>BA00554</ogr:Field_7>
+    <ogr:Field_4>Balade des escaliers, côté est</ogr:Field_4>
+    <ogr:Field_5>05</ogr:Field_5>
+    <ogr:Field_2>6-05</ogr:Field_2>
+    <ogr:Field_3>6</ogr:Field_3>
+    <ogr:Field_1>7</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.505912503347197" lon="0.117116927509469">
+  <name>kml_8</name>
+  <extensions>
+    <ogr:OBJECTID>8</ogr:OBJECTID>
+    <ogr:ID_SITE>6-07</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>6</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade des escaliers, côté est</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>07</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Quartier de Sanvic, église Sainte-Jeanne d'Arc</ogr:NOM_SITE>
+    <ogr:Field_6>Quartier de Sanvic, église Sainte-Jeanne d'Arc</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade des escaliers, côté est</ogr:Field_4>
+    <ogr:Field_5>07</ogr:Field_5>
+    <ogr:Field_2>6-07</ogr:Field_2>
+    <ogr:Field_3>6</ogr:Field_3>
+    <ogr:Field_1>8</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.5111474864404" lon="0.139585528136">
+  <name>kml_9</name>
+  <extensions>
+    <ogr:OBJECTID>9</ogr:OBJECTID>
+    <ogr:ID_SITE>6-14</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>6</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade des escaliers, côté est</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>14</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Parc de Montgeon</ogr:NOM_SITE>
+    <ogr:Field_6>Parc de Montgeon</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade des escaliers, côté est</ogr:Field_4>
+    <ogr:Field_5>14</ogr:Field_5>
+    <ogr:Field_2>6-14</ogr:Field_2>
+    <ogr:Field_3>6</ogr:Field_3>
+    <ogr:Field_1>9</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.502271114762401" lon="0.131705631988944">
+  <name>kml_10</name>
+  <extensions>
+    <ogr:OBJECTID>10</ogr:OBJECTID>
+    <ogr:ID_SITE>6-13</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>6</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade des escaliers, côté est</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>13</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Tunnel Jenner</ogr:NOM_SITE>
+    <ogr:Field_6>Tunnel Jenner</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade des escaliers, côté est</ogr:Field_4>
+    <ogr:Field_5>13</ogr:Field_5>
+    <ogr:Field_2>6-13</ogr:Field_2>
+    <ogr:Field_3>6</ogr:Field_3>
+    <ogr:Field_1>10</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.501354118331598" lon="0.132526867892484">
+  <name>kml_11</name>
+  <extensions>
+    <ogr:OBJECTID>11</ogr:OBJECTID>
+    <ogr:ID_SITE>6-12</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>6</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade des escaliers, côté est</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>12</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Cité havraise</ogr:NOM_SITE>
+    <ogr:Field_6>Cité havraise</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade des escaliers, côté est</ogr:Field_4>
+    <ogr:Field_5>12</ogr:Field_5>
+    <ogr:Field_2>6-12</ogr:Field_2>
+    <ogr:Field_3>6</ogr:Field_3>
+    <ogr:Field_1>11</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.497844489466999" lon="0.127720987852117">
+  <name>kml_12</name>
+  <extensions>
+    <ogr:OBJECTID>12</ogr:OBJECTID>
+    <ogr:ID_SITE>6-11</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>6</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade des escaliers, côté est</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>11</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Maison des syndicats</ogr:NOM_SITE>
+    <ogr:ID_TO_SIGU>BA03094</ogr:ID_TO_SIGU>
+    <ogr:Field_6>Maison des syndicats</ogr:Field_6>
+    <ogr:Field_7>BA03094</ogr:Field_7>
+    <ogr:Field_4>Balade des escaliers, côté est</ogr:Field_4>
+    <ogr:Field_5>11</ogr:Field_5>
+    <ogr:Field_2>6-11</ogr:Field_2>
+    <ogr:Field_3>6</ogr:Field_3>
+    <ogr:Field_1>12</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.503842208656998" lon="0.164793208862952">
+  <name>kml_13</name>
+  <extensions>
+    <ogr:OBJECTID>13</ogr:OBJECTID>
+    <ogr:ID_SITE>6-15</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>6</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade des escaliers, côté est</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>15</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Un peu plus loin - L'abbaye de Graville</ogr:NOM_SITE>
+    <ogr:ID_TO_SIGU>BA00184</ogr:ID_TO_SIGU>
+    <ogr:Field_6>Un peu plus loin - L'abbaye de Graville</ogr:Field_6>
+    <ogr:Field_7>BA00184</ogr:Field_7>
+    <ogr:Field_4>Balade des escaliers, côté est</ogr:Field_4>
+    <ogr:Field_5>15</ogr:Field_5>
+    <ogr:Field_2>6-15</ogr:Field_2>
+    <ogr:Field_3>6</ogr:Field_3>
+    <ogr:Field_1>13</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.501837765964702" lon="0.129263714643771">
+  <name>kml_14</name>
+  <extensions>
+    <ogr:OBJECTID>14</ogr:OBJECTID>
+    <ogr:ID_SITE>6-10</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>6</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade des escaliers, côté est</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>10</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Rue Flore : Pavillon Grosos</ogr:NOM_SITE>
+    <ogr:Field_6>Rue Flore : Pavillon Grosos</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade des escaliers, côté est</ogr:Field_4>
+    <ogr:Field_5>10</ogr:Field_5>
+    <ogr:Field_2>6-10</ogr:Field_2>
+    <ogr:Field_3>6</ogr:Field_3>
+    <ogr:Field_1>14</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.493967169368503" lon="0.111267512980026">
+  <name>kml_15</name>
+  <extensions>
+    <ogr:OBJECTID>15</ogr:OBJECTID>
+    <ogr:ID_SITE>2-14</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>2</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Découverte de la cité maritime</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>14</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Bibliothèque municipale</ogr:NOM_SITE>
+    <ogr:Field_6>Bibliothèque municipale</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Découverte de la cité maritime</ogr:Field_4>
+    <ogr:Field_5>14</ogr:Field_5>
+    <ogr:Field_2>2-14</ogr:Field_2>
+    <ogr:Field_3>2</ogr:Field_3>
+    <ogr:Field_1>15</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.499447339963503" lon="0.100024039199213">
+  <name>kml_16</name>
+  <extensions>
+    <ogr:OBJECTID>16</ogr:OBJECTID>
+    <ogr:ID_SITE>5-04</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>5</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade des escaliers, côté ouest</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>04</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Villa le Bosphore et rue Félix Faure</ogr:NOM_SITE>
+    <ogr:Field_6>Villa le Bosphore et rue Félix Faure</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade des escaliers, côté ouest</ogr:Field_4>
+    <ogr:Field_5>04</ogr:Field_5>
+    <ogr:Field_2>5-04</ogr:Field_2>
+    <ogr:Field_3>5</ogr:Field_3>
+    <ogr:Field_1>16</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.493561950923699" lon="0.115267392406884">
+  <name>kml_17</name>
+  <extensions>
+    <ogr:OBJECTID>17</ogr:OBJECTID>
+    <ogr:ID_SITE>2-15</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>2</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Découverte de la cité maritime</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>15</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Conservatoire - Ecole de danse</ogr:NOM_SITE>
+    <ogr:Field_6>Conservatoire - Ecole de danse</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Découverte de la cité maritime</ogr:Field_4>
+    <ogr:Field_5>15</ogr:Field_5>
+    <ogr:Field_2>2-15</ogr:Field_2>
+    <ogr:Field_3>2</ogr:Field_3>
+    <ogr:Field_1>17</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.503556407013299" lon="0.125398132391089">
+  <name>kml_18</name>
+  <extensions>
+    <ogr:OBJECTID>18</ogr:OBJECTID>
+    <ogr:ID_SITE>6-09</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>6</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade des escaliers, côté est</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>09</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Rue de Tourneville : Parc Hauser</ogr:NOM_SITE>
+    <ogr:Field_6>Rue de Tourneville : Parc Hauser</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade des escaliers, côté est</ogr:Field_4>
+    <ogr:Field_5>09</ogr:Field_5>
+    <ogr:Field_2>6-09</ogr:Field_2>
+    <ogr:Field_3>6</ogr:Field_3>
+    <ogr:Field_1>18</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.493181052958498" lon="0.11376525274905">
+  <name>kml_19</name>
+  <extensions>
+    <ogr:OBJECTID>19</ogr:OBJECTID>
+    <ogr:ID_SITE>2-16</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>2</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Découverte de la cité maritime</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>16</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Chargeurs Réunis</ogr:NOM_SITE>
+    <ogr:Field_6>Chargeurs Réunis</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Découverte de la cité maritime</ogr:Field_4>
+    <ogr:Field_5>16</ogr:Field_5>
+    <ogr:Field_2>2-16</ogr:Field_2>
+    <ogr:Field_3>2</ogr:Field_3>
+    <ogr:Field_1>19</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.500611953906599" lon="0.115520295570773">
+  <name>kml_20</name>
+  <extensions>
+    <ogr:OBJECTID>20</ogr:OBJECTID>
+    <ogr:ID_SITE>6-04</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>6</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade des escaliers, côté est</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>04</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Escalier Lechiblier</ogr:NOM_SITE>
+    <ogr:ID_TO_SIGU>BA00554</ogr:ID_TO_SIGU>
+    <ogr:Field_6>Escalier Lechiblier</ogr:Field_6>
+    <ogr:Field_7>BA00554</ogr:Field_7>
+    <ogr:Field_4>Balade des escaliers, côté est</ogr:Field_4>
+    <ogr:Field_5>04</ogr:Field_5>
+    <ogr:Field_2>6-04</ogr:Field_2>
+    <ogr:Field_3>6</ogr:Field_3>
+    <ogr:Field_1>20</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.496208892105003" lon="0.092165328449242">
+  <name>kml_21</name>
+  <extensions>
+    <ogr:OBJECTID>21</ogr:OBJECTID>
+    <ogr:ID_SITE>3-09</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>3</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade de front de mer</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>09</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Plages du Havre et de Sainte-Adresse</ogr:NOM_SITE>
+    <ogr:Field_6>Plages du Havre et de Sainte-Adresse</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade de front de mer</ogr:Field_4>
+    <ogr:Field_5>09</ogr:Field_5>
+    <ogr:Field_2>3-09</ogr:Field_2>
+    <ogr:Field_3>3</ogr:Field_3>
+    <ogr:Field_1>21</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.484842414723502" lon="0.105669979207751">
+  <name>kml_22</name>
+  <extensions>
+    <ogr:OBJECTID>22</ogr:OBJECTID>
+    <ogr:ID_SITE>1-11</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>1</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Circuit du Patrimoine mondial</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>11</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Front de mer sud</ogr:NOM_SITE>
+    <ogr:Field_6>Front de mer sud</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Circuit du Patrimoine mondial</ogr:Field_4>
+    <ogr:Field_5>11</ogr:Field_5>
+    <ogr:Field_2>1-11</ogr:Field_2>
+    <ogr:Field_3>1</ogr:Field_3>
+    <ogr:Field_1>22</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.492668239124697" lon="0.11727227386857">
+  <name>kml_24</name>
+  <extensions>
+    <ogr:OBJECTID>24</ogr:OBJECTID>
+    <ogr:ID_SITE>2-18</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>2</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Découverte de la cité maritime</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>18</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Palais de Justice</ogr:NOM_SITE>
+    <ogr:Field_6>Palais de Justice</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Découverte de la cité maritime</ogr:Field_4>
+    <ogr:Field_5>18</ogr:Field_5>
+    <ogr:Field_2>2-18</ogr:Field_2>
+    <ogr:Field_3>2</ogr:Field_3>
+    <ogr:Field_1>24</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.493294121036698" lon="0.107822514080788">
+  <name>kml_25</name>
+  <extensions>
+    <ogr:OBJECTID>25</ogr:OBJECTID>
+    <ogr:ID_SITE>1-02</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>1</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Circuit du Patrimoine mondial</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>02</ogr:NUM_SITE>
+    <ogr:NOM_SITE>L'esplanade J. Tournant - Les logements reconstruits</ogr:NOM_SITE>
+    <ogr:Field_6>L'esplanade J. Tournant - Les logements reconstruits</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Circuit du Patrimoine mondial</ogr:Field_4>
+    <ogr:Field_5>02</ogr:Field_5>
+    <ogr:Field_2>1-02</ogr:Field_2>
+    <ogr:Field_3>1</ogr:Field_3>
+    <ogr:Field_1>25</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.493551913061602" lon="0.102012608383976">
+  <name>kml_26</name>
+  <extensions>
+    <ogr:OBJECTID>26</ogr:OBJECTID>
+    <ogr:ID_SITE>1-04</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>1</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Circuit du Patrimoine mondial</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>04</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Square Saint-Roch</ogr:NOM_SITE>
+    <ogr:Field_6>Square Saint-Roch</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Circuit du Patrimoine mondial</ogr:Field_4>
+    <ogr:Field_5>04</ogr:Field_5>
+    <ogr:Field_2>1-04</ogr:Field_2>
+    <ogr:Field_3>1</ogr:Field_3>
+    <ogr:Field_1>26</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.502434218988697" lon="0.086400948429687">
+  <name>kml_27</name>
+  <extensions>
+    <ogr:OBJECTID>27</ogr:OBJECTID>
+    <ogr:ID_SITE>5-12</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>5</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade des escaliers, côté ouest</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>12</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Place Clemenceau : Statue d'Albert Ier</ogr:NOM_SITE>
+    <ogr:Field_6>Place Clemenceau : Statue d'Albert Ier</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade des escaliers, côté ouest</ogr:Field_4>
+    <ogr:Field_5>12</ogr:Field_5>
+    <ogr:Field_2>5-12</ogr:Field_2>
+    <ogr:Field_3>5</ogr:Field_3>
+    <ogr:Field_1>27</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.493133057223702" lon="0.116696101140634">
+  <name>kml_28</name>
+  <extensions>
+    <ogr:OBJECTID>28</ogr:OBJECTID>
+    <ogr:ID_SITE>2-17</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>2</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Découverte de la cité maritime</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>17</ogr:NUM_SITE>
+    <ogr:NOM_SITE>rue J.B. Eyriès Maison, Agence Cargill / Fort Chabrol</ogr:NOM_SITE>
+    <ogr:Field_6>rue J.B. Eyriès Maison, Agence Cargill / Fort Chabrol</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Découverte de la cité maritime</ogr:Field_4>
+    <ogr:Field_5>17</ogr:Field_5>
+    <ogr:Field_2>2-17</ogr:Field_2>
+    <ogr:Field_3>2</ogr:Field_3>
+    <ogr:Field_1>28</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.504703213160099" lon="0.083041691187447">
+  <name>kml_29</name>
+  <extensions>
+    <ogr:OBJECTID>29</ogr:OBJECTID>
+    <ogr:ID_SITE>5-13</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>5</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade des escaliers, côté ouest</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>13</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Le Pain de Sucre</ogr:NOM_SITE>
+    <ogr:Field_6>Le Pain de Sucre</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade des escaliers, côté ouest</ogr:Field_4>
+    <ogr:Field_5>13</ogr:Field_5>
+    <ogr:Field_2>5-13</ogr:Field_2>
+    <ogr:Field_3>5</ogr:Field_3>
+    <ogr:Field_1>29</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.504552828257999" lon="0.082695457437394">
+  <name>kml_30</name>
+  <extensions>
+    <ogr:OBJECTID>30</ogr:OBJECTID>
+    <ogr:ID_SITE>5-14</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>5</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade des escaliers, côté ouest</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>14</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Villa nordique</ogr:NOM_SITE>
+    <ogr:Field_6>Villa nordique</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade des escaliers, côté ouest</ogr:Field_4>
+    <ogr:Field_5>14</ogr:Field_5>
+    <ogr:Field_2>5-14</ogr:Field_2>
+    <ogr:Field_3>5</ogr:Field_3>
+    <ogr:Field_1>30</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.499067982835498" lon="0.096262478832955">
+  <name>kml_31</name>
+  <extensions>
+    <ogr:OBJECTID>31</ogr:OBJECTID>
+    <ogr:ID_SITE>5-07</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>5</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade des escaliers, côté ouest</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>07</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Rue d'Albion</ogr:NOM_SITE>
+    <ogr:Field_6>Rue d'Albion</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade des escaliers, côté ouest</ogr:Field_4>
+    <ogr:Field_5>07</ogr:Field_5>
+    <ogr:Field_2>5-07</ogr:Field_2>
+    <ogr:Field_3>5</ogr:Field_3>
+    <ogr:Field_1>31</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.500990185470599" lon="0.092180012262415">
+  <name>kml_32</name>
+  <extensions>
+    <ogr:OBJECTID>32</ogr:OBJECTID>
+    <ogr:ID_SITE>5-09</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>5</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade des escaliers, côté ouest</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>09</ogr:NUM_SITE>
+    <ogr:NOM_SITE>« Château » des Gadelles</ogr:NOM_SITE>
+    <ogr:Field_6>« Château » des Gadelles</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade des escaliers, côté ouest</ogr:Field_4>
+    <ogr:Field_5>09</ogr:Field_5>
+    <ogr:Field_2>5-09</ogr:Field_2>
+    <ogr:Field_3>5</ogr:Field_3>
+    <ogr:Field_1>32</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.485058936571498" lon="0.116645389923769">
+  <name>kml_33</name>
+  <extensions>
+    <ogr:OBJECTID>33</ogr:OBJECTID>
+    <ogr:ID_SITE>4-02</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>4</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Au fil des quais</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>02</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Terminal Brittany Ferries</ogr:NOM_SITE>
+    <ogr:Field_6>Terminal Brittany Ferries</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Au fil des quais</ogr:Field_4>
+    <ogr:Field_5>02</ogr:Field_5>
+    <ogr:Field_2>4-02</ogr:Field_2>
+    <ogr:Field_3>4</ogr:Field_3>
+    <ogr:Field_1>33</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.505291640839701" lon="0.081832220005141">
+  <name>kml_34</name>
+  <extensions>
+    <ogr:OBJECTID>34</ogr:OBJECTID>
+    <ogr:ID_SITE>5-15</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>5</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade des escaliers, côté ouest</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>15</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Notre-Dame-des-Flots</ogr:NOM_SITE>
+    <ogr:Field_6>Notre-Dame-des-Flots</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade des escaliers, côté ouest</ogr:Field_4>
+    <ogr:Field_5>15</ogr:Field_5>
+    <ogr:Field_2>5-15</ogr:Field_2>
+    <ogr:Field_3>5</ogr:Field_3>
+    <ogr:Field_1>34</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.486865845856897" lon="0.107298221821971">
+  <name>kml_35</name>
+  <extensions>
+    <ogr:OBJECTID>35</ogr:OBJECTID>
+    <ogr:ID_SITE>1-12</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>1</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Circuit du Patrimoine mondial</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>12</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Rue de Paris</ogr:NOM_SITE>
+    <ogr:Field_6>Rue de Paris</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Circuit du Patrimoine mondial</ogr:Field_4>
+    <ogr:Field_5>12</ogr:Field_5>
+    <ogr:Field_2>1-12</ogr:Field_2>
+    <ogr:Field_3>1</ogr:Field_3>
+    <ogr:Field_1>35</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.490106210795602" lon="0.107640455397486">
+  <name>kml_36</name>
+  <extensions>
+    <ogr:OBJECTID>36</ogr:OBJECTID>
+    <ogr:ID_SITE>1-13</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>1</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Circuit du Patrimoine mondial</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>13</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Place Gambetta - Saint-François reconstruit</ogr:NOM_SITE>
+    <ogr:Field_6>Place Gambetta - Saint-François reconstruit</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Circuit du Patrimoine mondial</ogr:Field_4>
+    <ogr:Field_5>13</ogr:Field_5>
+    <ogr:Field_2>1-13</ogr:Field_2>
+    <ogr:Field_3>1</ogr:Field_3>
+    <ogr:Field_1>36</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.4872691925137" lon="0.107483485347211">
+  <name>kml_37</name>
+  <extensions>
+    <ogr:OBJECTID>37</ogr:OBJECTID>
+    <ogr:ID_SITE>2-01</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>2</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Découverte de la cité maritime</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>01</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Cathédrale Notre-Dame - La ville Françoise de Grâce</ogr:NOM_SITE>
+    <ogr:Field_6>Cathédrale Notre-Dame - La ville Françoise de Grâce</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Découverte de la cité maritime</ogr:Field_4>
+    <ogr:Field_5>01</ogr:Field_5>
+    <ogr:Field_2>2-01</ogr:Field_2>
+    <ogr:Field_3>2</ogr:Field_3>
+    <ogr:Field_1>37</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.5113395842546" lon="0.083547964996368">
+  <name>kml_38</name>
+  <extensions>
+    <ogr:OBJECTID>38</ogr:OBJECTID>
+    <ogr:ID_SITE>5-16</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>5</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade des escaliers, côté ouest</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>16</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Un peu plus loin - Villas du fond d'Ignauval</ogr:NOM_SITE>
+    <ogr:Field_6>Un peu plus loin - Villas du fond d'Ignauval</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade des escaliers, côté ouest</ogr:Field_4>
+    <ogr:Field_5>16</ogr:Field_5>
+    <ogr:Field_2>5-16</ogr:Field_2>
+    <ogr:Field_3>5</ogr:Field_3>
+    <ogr:Field_1>38</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.487915116280902" lon="0.114700201240529">
+  <name>kml_39</name>
+  <extensions>
+    <ogr:OBJECTID>39</ogr:OBJECTID>
+    <ogr:ID_SITE>2-05</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>2</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Découverte de la cité maritime</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>05</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Maison Sénéchal</ogr:NOM_SITE>
+    <ogr:Field_6>Maison Sénéchal</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Découverte de la cité maritime</ogr:Field_4>
+    <ogr:Field_5>05</ogr:Field_5>
+    <ogr:Field_2>2-05</ogr:Field_2>
+    <ogr:Field_3>2</ogr:Field_3>
+    <ogr:Field_1>39</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.490805068455401" lon="0.112569296491258">
+  <name>kml_40</name>
+  <extensions>
+    <ogr:OBJECTID>40</ogr:OBJECTID>
+    <ogr:ID_SITE>2-08</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>2</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Découverte de la cité maritime</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>08</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Bassin du commerce/ Passerelle de la Bourse</ogr:NOM_SITE>
+    <ogr:Field_6>Bassin du commerce/ Passerelle de la Bourse</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Découverte de la cité maritime</ogr:Field_4>
+    <ogr:Field_5>08</ogr:Field_5>
+    <ogr:Field_2>2-08</ogr:Field_2>
+    <ogr:Field_3>2</ogr:Field_3>
+    <ogr:Field_1>40</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.491316684681799" lon="0.111278621390473">
+  <name>kml_41</name>
+  <extensions>
+    <ogr:OBJECTID>41</ogr:OBJECTID>
+    <ogr:ID_SITE>2-09</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>2</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Découverte de la cité maritime</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>09</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Casino</ogr:NOM_SITE>
+    <ogr:Field_6>Casino</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Découverte de la cité maritime</ogr:Field_4>
+    <ogr:Field_5>09</ogr:Field_5>
+    <ogr:Field_2>2-09</ogr:Field_2>
+    <ogr:Field_3>2</ogr:Field_3>
+    <ogr:Field_1>41</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.484164051412499" lon="0.102273205001936">
+  <name>kml_42</name>
+  <extensions>
+    <ogr:OBJECTID>42</ogr:OBJECTID>
+    <ogr:ID_SITE>3-01</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>3</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade de front de mer</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>01</ogr:NUM_SITE>
+    <ogr:NOM_SITE>L'avant-port</ogr:NOM_SITE>
+    <ogr:Field_6>L'avant-port</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade de front de mer</ogr:Field_4>
+    <ogr:Field_5>01</ogr:Field_5>
+    <ogr:Field_2>3-01</ogr:Field_2>
+    <ogr:Field_3>3</ogr:Field_3>
+    <ogr:Field_1>42</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.4896204600077" lon="0.096218468902923">
+  <name>kml_43</name>
+  <extensions>
+    <ogr:OBJECTID>43</ogr:OBJECTID>
+    <ogr:ID_SITE>3-04</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>3</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade de front de mer</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>04</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Port de plaisance, Anse des Régates</ogr:NOM_SITE>
+    <ogr:Field_6>Port de plaisance, Anse des Régates</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade de front de mer</ogr:Field_4>
+    <ogr:Field_5>04</ogr:Field_5>
+    <ogr:Field_2>3-04</ogr:Field_2>
+    <ogr:Field_3>3</ogr:Field_3>
+    <ogr:Field_1>43</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.5023306099229" lon="0.086671746968003">
+  <name>kml_44</name>
+  <extensions>
+    <ogr:OBJECTID>44</ogr:OBJECTID>
+    <ogr:ID_SITE>5-11</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>5</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade des escaliers, côté ouest</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>11</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Entrée de Sainte-Adresse</ogr:NOM_SITE>
+    <ogr:Field_6>Entrée de Sainte-Adresse</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade des escaliers, côté ouest</ogr:Field_4>
+    <ogr:Field_5>11</ogr:Field_5>
+    <ogr:Field_2>5-11</ogr:Field_2>
+    <ogr:Field_3>5</ogr:Field_3>
+    <ogr:Field_1>44</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.511879893071701" lon="0.069606015952632">
+  <name>kml_45</name>
+  <extensions>
+    <ogr:OBJECTID>45</ogr:OBJECTID>
+    <ogr:ID_SITE>5-17</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>5</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade des escaliers, côté ouest</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>17</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Un peu plus loin - Phares de la Hève</ogr:NOM_SITE>
+    <ogr:Field_6>Un peu plus loin - Phares de la Hève</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade des escaliers, côté ouest</ogr:Field_4>
+    <ogr:Field_5>17</ogr:Field_5>
+    <ogr:Field_2>5-17</ogr:Field_2>
+    <ogr:Field_3>5</ogr:Field_3>
+    <ogr:Field_1>45</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.492734829102801" lon="0.09631774307471">
+  <name>kml_46</name>
+  <extensions>
+    <ogr:OBJECTID>46</ogr:OBJECTID>
+    <ogr:ID_SITE>3-06</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>3</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade de front de mer</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>06</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Office de Tourisme, Ville d'art et d'histoire</ogr:NOM_SITE>
+    <ogr:Field_6>Office de Tourisme, Ville d'art et d'histoire</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade de front de mer</ogr:Field_4>
+    <ogr:Field_5>06</ogr:Field_5>
+    <ogr:Field_2>3-06</ogr:Field_2>
+    <ogr:Field_3>3</ogr:Field_3>
+    <ogr:Field_1>46</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.504733283520501" lon="0.080761322563883">
+  <name>kml_47</name>
+  <extensions>
+    <ogr:OBJECTID>47</ogr:OBJECTID>
+    <ogr:ID_SITE>3-13</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>3</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade de front de mer</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>13</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Immeuble du Nice Havrais</ogr:NOM_SITE>
+    <ogr:Field_6>Immeuble du Nice Havrais</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade de front de mer</ogr:Field_4>
+    <ogr:Field_5>13</ogr:Field_5>
+    <ogr:Field_2>3-13</ogr:Field_2>
+    <ogr:Field_3>3</ogr:Field_3>
+    <ogr:Field_1>47</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.488564011539303" lon="0.118234655394923">
+  <name>kml_48</name>
+  <extensions>
+    <ogr:OBJECTID>48</ogr:OBJECTID>
+    <ogr:ID_SITE>4-03</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>4</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Au fil des quais</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>03</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Jardin japonais</ogr:NOM_SITE>
+    <ogr:Field_6>Jardin japonais</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Au fil des quais</ogr:Field_4>
+    <ogr:Field_5>03</ogr:Field_5>
+    <ogr:Field_2>4-03</ogr:Field_2>
+    <ogr:Field_3>4</ogr:Field_3>
+    <ogr:Field_1>48</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.483946252762898" lon="0.130921835414385">
+  <name>kml_49</name>
+  <extensions>
+    <ogr:OBJECTID>49</ogr:OBJECTID>
+    <ogr:ID_SITE>4-07</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>4</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Au fil des quais</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>07</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Place Léon Carlier</ogr:NOM_SITE>
+    <ogr:Field_6>Place Léon Carlier</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Au fil des quais</ogr:Field_4>
+    <ogr:Field_5>07</ogr:Field_5>
+    <ogr:Field_2>4-07</ogr:Field_2>
+    <ogr:Field_3>4</ogr:Field_3>
+    <ogr:Field_1>49</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.482211405126002" lon="0.166179173597247">
+  <name>kml_50</name>
+  <extensions>
+    <ogr:OBJECTID>50</ogr:OBJECTID>
+    <ogr:ID_SITE>4-16</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>4</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Au fil des quais</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>16</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Avenue Amiral du Chillou</ogr:NOM_SITE>
+    <ogr:Field_6>Avenue Amiral du Chillou</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Au fil des quais</ogr:Field_4>
+    <ogr:Field_5>16</ogr:Field_5>
+    <ogr:Field_2>4-16</ogr:Field_2>
+    <ogr:Field_3>4</ogr:Field_3>
+    <ogr:Field_1>50</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.480948854713802" lon="0.146575400247992">
+  <name>kml_51</name>
+  <extensions>
+    <ogr:OBJECTID>51</ogr:OBJECTID>
+    <ogr:ID_SITE>4-17</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>4</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Au fil des quais</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>17</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Hangar aux cotons</ogr:NOM_SITE>
+    <ogr:Field_6>Hangar aux cotons</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Au fil des quais</ogr:Field_4>
+    <ogr:Field_5>17</ogr:Field_5>
+    <ogr:Field_2>4-17</ogr:Field_2>
+    <ogr:Field_3>4</ogr:Field_3>
+    <ogr:Field_1>51</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.4764704365668" lon="0.175174892655122">
+  <name>kml_52</name>
+  <extensions>
+    <ogr:OBJECTID>52</ogr:OBJECTID>
+    <ogr:ID_SITE>4-18</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>4</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Au fil des quais</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>18</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Ecluse François Ier</ogr:NOM_SITE>
+    <ogr:ID_TO_SIGU>HY00584</ogr:ID_TO_SIGU>
+    <ogr:Field_6>Ecluse François Ier</ogr:Field_6>
+    <ogr:Field_7>HY00584</ogr:Field_7>
+    <ogr:Field_4>Au fil des quais</ogr:Field_4>
+    <ogr:Field_5>18</ogr:Field_5>
+    <ogr:Field_2>4-18</ogr:Field_2>
+    <ogr:Field_3>4</ogr:Field_3>
+    <ogr:Field_1>52</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.487753272628602" lon="0.118479857676024">
+  <name>kml_53</name>
+  <extensions>
+    <ogr:OBJECTID>53</ogr:OBJECTID>
+    <ogr:ID_SITE>2-03</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>2</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Découverte de la cité maritime</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>03</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Citadelle</ogr:NOM_SITE>
+    <ogr:Field_6>Citadelle</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Découverte de la cité maritime</ogr:Field_4>
+    <ogr:Field_5>03</ogr:Field_5>
+    <ogr:Field_2>2-03</ogr:Field_2>
+    <ogr:Field_3>2</ogr:Field_3>
+    <ogr:Field_1>53</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.485324029990601" lon="0.127007064287451">
+  <name>kml_54</name>
+  <extensions>
+    <ogr:OBJECTID>54</ogr:OBJECTID>
+    <ogr:ID_SITE>4-06</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>4</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Au fil des quais</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>06</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Formes de Radoub</ogr:NOM_SITE>
+    <ogr:Field_6>Formes de Radoub</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Au fil des quais</ogr:Field_4>
+    <ogr:Field_5>06</ogr:Field_5>
+    <ogr:Field_2>4-06</ogr:Field_2>
+    <ogr:Field_3>4</ogr:Field_3>
+    <ogr:Field_1>54</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.493064095714999" lon="0.11216906813855">
+  <name>kml_55</name>
+  <extensions>
+    <ogr:OBJECTID>55</ogr:OBJECTID>
+    <ogr:ID_SITE>2-11</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>2</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Découverte de la cité maritime</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>11</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Boulevard de Strasbourg</ogr:NOM_SITE>
+    <ogr:Field_6>Boulevard de Strasbourg</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Découverte de la cité maritime</ogr:Field_4>
+    <ogr:Field_5>11</ogr:Field_5>
+    <ogr:Field_2>2-11</ogr:Field_2>
+    <ogr:Field_3>2</ogr:Field_3>
+    <ogr:Field_1>55</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.484969019317496" lon="0.132201684556006">
+  <name>kml_56</name>
+  <extensions>
+    <ogr:OBJECTID>56</ogr:OBJECTID>
+    <ogr:ID_SITE>4-11</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>4</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Au fil des quais</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>11</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Foyer de Travailleurs migrants</ogr:NOM_SITE>
+    <ogr:ID_TO_SIGU>BA00799</ogr:ID_TO_SIGU>
+    <ogr:Field_6>Foyer de Travailleurs migrants</ogr:Field_6>
+    <ogr:Field_7>BA00799</ogr:Field_7>
+    <ogr:Field_4>Au fil des quais</ogr:Field_4>
+    <ogr:Field_5>11</ogr:Field_5>
+    <ogr:Field_2>4-11</ogr:Field_2>
+    <ogr:Field_3>4</ogr:Field_3>
+    <ogr:Field_1>56</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.484577585854097" lon="0.132257622976464">
+  <name>kml_57</name>
+  <extensions>
+    <ogr:OBJECTID>57</ogr:OBJECTID>
+    <ogr:ID_SITE>4-09</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>4</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Au fil des quais</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>09</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Maison du marin</ogr:NOM_SITE>
+    <ogr:ID_TO_SIGU>BA00799</ogr:ID_TO_SIGU>
+    <ogr:Field_6>Maison du marin</ogr:Field_6>
+    <ogr:Field_7>BA00799</ogr:Field_7>
+    <ogr:Field_4>Au fil des quais</ogr:Field_4>
+    <ogr:Field_5>09</ogr:Field_5>
+    <ogr:Field_2>4-09</ogr:Field_2>
+    <ogr:Field_3>4</ogr:Field_3>
+    <ogr:Field_1>57</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.478160008849201" lon="0.131210297475303">
+  <name>kml_58</name>
+  <extensions>
+    <ogr:OBJECTID>58</ogr:OBJECTID>
+    <ogr:ID_SITE>4-15</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>4</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Au fil des quais</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>15</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Avenue Lucien Corbeaux</ogr:NOM_SITE>
+    <ogr:Field_6>Avenue Lucien Corbeaux</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Au fil des quais</ogr:Field_4>
+    <ogr:Field_5>15</ogr:Field_5>
+    <ogr:Field_2>4-15</ogr:Field_2>
+    <ogr:Field_3>4</ogr:Field_3>
+    <ogr:Field_1>58</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.4902305007449" lon="0.127793844792264">
+  <name>kml_59</name>
+  <extensions>
+    <ogr:OBJECTID>59</ogr:OBJECTID>
+    <ogr:ID_SITE>4-04</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>4</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Au fil des quais</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>04</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Docks Vauban</ogr:NOM_SITE>
+    <ogr:ID_TO_SIGU>BA01877</ogr:ID_TO_SIGU>
+    <ogr:Field_6>Docks Vauban</ogr:Field_6>
+    <ogr:Field_7>BA01877</ogr:Field_7>
+    <ogr:Field_4>Au fil des quais</ogr:Field_4>
+    <ogr:Field_5>04</ogr:Field_5>
+    <ogr:Field_2>4-04</ogr:Field_2>
+    <ogr:Field_3>4</ogr:Field_3>
+    <ogr:Field_1>59</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.482932863674598" lon="0.138906215170091">
+  <name>kml_60</name>
+  <extensions>
+    <ogr:OBJECTID>60</ogr:OBJECTID>
+    <ogr:ID_SITE>4-14</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>4</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Au fil des quais</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>14</ogr:NUM_SITE>
+    <ogr:NOM_SITE>BCMO</ogr:NOM_SITE>
+    <ogr:ID_TO_SIGU>BA02064</ogr:ID_TO_SIGU>
+    <ogr:Field_6>BCMO</ogr:Field_6>
+    <ogr:Field_7>BA02064</ogr:Field_7>
+    <ogr:Field_4>Au fil des quais</ogr:Field_4>
+    <ogr:Field_5>14</ogr:Field_5>
+    <ogr:Field_2>4-14</ogr:Field_2>
+    <ogr:Field_3>4</ogr:Field_3>
+    <ogr:Field_1>60</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.482542718178699" lon="0.130493667336801">
+  <name>kml_61</name>
+  <extensions>
+    <ogr:OBJECTID>61</ogr:OBJECTID>
+    <ogr:ID_SITE>4-12</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>4</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Au fil des quais</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>12</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Cloche des dockers</ogr:NOM_SITE>
+    <ogr:Field_6>Cloche des dockers</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Au fil des quais</ogr:Field_4>
+    <ogr:Field_5>12</ogr:Field_5>
+    <ogr:Field_2>4-12</ogr:Field_2>
+    <ogr:Field_3>4</ogr:Field_3>
+    <ogr:Field_1>61</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.500158304178399" lon="0.103731541687043">
+  <name>kml_62</name>
+  <extensions>
+    <ogr:OBJECTID>62</ogr:OBJECTID>
+    <ogr:ID_SITE>5-05</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>5</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade des escaliers, côté ouest</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>05</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Pavillon Latham</ogr:NOM_SITE>
+    <ogr:Field_6>Pavillon Latham</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade des escaliers, côté ouest</ogr:Field_4>
+    <ogr:Field_5>05</ogr:Field_5>
+    <ogr:Field_2>5-05</ogr:Field_2>
+    <ogr:Field_3>5</ogr:Field_3>
+    <ogr:Field_1>62</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.504283485650099" lon="0.130280468664783">
+  <name>kml_63</name>
+  <extensions>
+    <ogr:OBJECTID>63</ogr:OBJECTID>
+    <ogr:ID_SITE>6-08</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>6</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade des escaliers, côté est</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>08</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Cimetière Sainte-Marie</ogr:NOM_SITE>
+    <ogr:ID_TO_SIGU>BA00673</ogr:ID_TO_SIGU>
+    <ogr:Field_6>Cimetière Sainte-Marie</ogr:Field_6>
+    <ogr:Field_7>BA00673</ogr:Field_7>
+    <ogr:Field_4>Balade des escaliers, côté est</ogr:Field_4>
+    <ogr:Field_5>08</ogr:Field_5>
+    <ogr:Field_2>6-08</ogr:Field_2>
+    <ogr:Field_3>6</ogr:Field_3>
+    <ogr:Field_1>63</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.500142616220899" lon="0.101373861075573">
+  <name>kml_64</name>
+  <extensions>
+    <ogr:OBJECTID>64</ogr:OBJECTID>
+    <ogr:ID_SITE>5-03</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>5</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade des escaliers, côté ouest</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>03</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Carmel</ogr:NOM_SITE>
+    <ogr:Field_6>Carmel</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade des escaliers, côté ouest</ogr:Field_4>
+    <ogr:Field_5>03</ogr:Field_5>
+    <ogr:Field_2>5-03</ogr:Field_2>
+    <ogr:Field_3>5</ogr:Field_3>
+    <ogr:Field_1>64</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.494009509413701" lon="0.10786851306549">
+  <name>kml_65</name>
+  <extensions>
+    <ogr:OBJECTID>65</ogr:OBJECTID>
+    <ogr:ID_SITE>1-01</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>1</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Circuit du Patrimoine mondial</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>01</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Hôtel de Ville</ogr:NOM_SITE>
+    <ogr:ID_TO_SIGU>BA00537</ogr:ID_TO_SIGU>
+    <ogr:Field_6>Hôtel de Ville</ogr:Field_6>
+    <ogr:Field_7>BA00537</ogr:Field_7>
+    <ogr:Field_4>Circuit du Patrimoine mondial</ogr:Field_4>
+    <ogr:Field_5>01</ogr:Field_5>
+    <ogr:Field_2>1-01</ogr:Field_2>
+    <ogr:Field_3>1</ogr:Field_3>
+    <ogr:Field_1>65</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.493311187699099" lon="0.112979549549078">
+  <name>kml_66</name>
+  <extensions>
+    <ogr:OBJECTID>66</ogr:OBJECTID>
+    <ogr:ID_SITE>2-13</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>2</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Découverte de la cité maritime</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>13</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Sous-préfecture</ogr:NOM_SITE>
+    <ogr:ID_TO_SIGU>BA00363</ogr:ID_TO_SIGU>
+    <ogr:Field_6>Sous-préfecture</ogr:Field_6>
+    <ogr:Field_7>BA00363</ogr:Field_7>
+    <ogr:Field_4>Découverte de la cité maritime</ogr:Field_4>
+    <ogr:Field_5>13</ogr:Field_5>
+    <ogr:Field_2>2-13</ogr:Field_2>
+    <ogr:Field_3>2</ogr:Field_3>
+    <ogr:Field_1>66</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.491208312054603" lon="0.102607802627482">
+  <name>kml_68</name>
+  <extensions>
+    <ogr:OBJECTID>68</ogr:OBJECTID>
+    <ogr:ID_SITE>1-08</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>1</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Circuit du Patrimoine mondial</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>08</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Collège Raoul Dufy</ogr:NOM_SITE>
+    <ogr:ID_TO_SIGU>BA03073</ogr:ID_TO_SIGU>
+    <ogr:Field_6>Collège Raoul Dufy</ogr:Field_6>
+    <ogr:Field_7>BA03073</ogr:Field_7>
+    <ogr:Field_4>Circuit du Patrimoine mondial</ogr:Field_4>
+    <ogr:Field_5>08</ogr:Field_5>
+    <ogr:Field_2>1-08</ogr:Field_2>
+    <ogr:Field_3>1</ogr:Field_3>
+    <ogr:Field_1>68</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.487723217564401" lon="0.108138986730877">
+  <name>kml_69</name>
+  <extensions>
+    <ogr:OBJECTID>69</ogr:OBJECTID>
+    <ogr:ID_SITE>2-02</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>2</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Découverte de la cité maritime</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>02</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Muséum d'histoire naturelle du Havre</ogr:NOM_SITE>
+    <ogr:ID_TO_SIGU>BA02153</ogr:ID_TO_SIGU>
+    <ogr:Field_6>Muséum d'histoire naturelle du Havre</ogr:Field_6>
+    <ogr:Field_7>BA02153</ogr:Field_7>
+    <ogr:Field_4>Découverte de la cité maritime</ogr:Field_4>
+    <ogr:Field_5>02</ogr:Field_5>
+    <ogr:Field_2>2-02</ogr:Field_2>
+    <ogr:Field_3>2</ogr:Field_3>
+    <ogr:Field_1>69</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.498539748060303" lon="0.112887721085584">
+  <name>kml_70</name>
+  <extensions>
+    <ogr:OBJECTID>70</ogr:OBJECTID>
+    <ogr:ID_SITE>6-02</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>6</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade des escaliers, côté est</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>02</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Hôpital Général</ogr:NOM_SITE>
+    <ogr:ID_TO_SIGU>BA00648</ogr:ID_TO_SIGU>
+    <ogr:Field_6>Hôpital Général</ogr:Field_6>
+    <ogr:Field_7>BA00648</ogr:Field_7>
+    <ogr:Field_4>Balade des escaliers, côté est</ogr:Field_4>
+    <ogr:Field_5>02</ogr:Field_5>
+    <ogr:Field_2>6-02</ogr:Field_2>
+    <ogr:Field_3>6</ogr:Field_3>
+    <ogr:Field_1>70</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.4987516622706" lon="0.090673465563455">
+  <name>kml_71</name>
+  <extensions>
+    <ogr:OBJECTID>71</ogr:OBJECTID>
+    <ogr:ID_SITE>3-11</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>3</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade de front de mer</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>11</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Cabanes de plage et bains de mer au Havre</ogr:NOM_SITE>
+    <ogr:ID_TO_SIGU>BA01079</ogr:ID_TO_SIGU>
+    <ogr:Field_6>Cabanes de plage et bains de mer au Havre</ogr:Field_6>
+    <ogr:Field_7>BA01079</ogr:Field_7>
+    <ogr:Field_4>Balade de front de mer</ogr:Field_4>
+    <ogr:Field_5>11</ogr:Field_5>
+    <ogr:Field_2>3-11</ogr:Field_2>
+    <ogr:Field_3>3</ogr:Field_3>
+    <ogr:Field_1>71</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.497961770529301" lon="0.111581906201389">
+  <name>kml_72</name>
+  <extensions>
+    <ogr:OBJECTID>72</ogr:OBJECTID>
+    <ogr:ID_SITE>5-01</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>5</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade des escaliers, côté ouest</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>01</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Funiculaire</ogr:NOM_SITE>
+    <ogr:ID_TO_SIGU>BA00342</ogr:ID_TO_SIGU>
+    <ogr:Field_6>Funiculaire</ogr:Field_6>
+    <ogr:Field_7>BA00342</ogr:Field_7>
+    <ogr:Field_4>Balade des escaliers, côté ouest</ogr:Field_4>
+    <ogr:Field_5>01</ogr:Field_5>
+    <ogr:Field_2>5-01</ogr:Field_2>
+    <ogr:Field_3>5</ogr:Field_3>
+    <ogr:Field_1>72</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.490901840456601" lon="0.107401226909604">
+  <name>kml_73</name>
+  <extensions>
+    <ogr:OBJECTID>73</ogr:OBJECTID>
+    <ogr:ID_SITE>1-14</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>1</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Circuit du Patrimoine mondial</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>14</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Le Volcan - l'espace Niemeyer</ogr:NOM_SITE>
+    <ogr:ID_TO_SIGU>BA01120</ogr:ID_TO_SIGU>
+    <ogr:Field_6>Le Volcan - l'espace Niemeyer</ogr:Field_6>
+    <ogr:Field_7>BA01120</ogr:Field_7>
+    <ogr:Field_4>Circuit du Patrimoine mondial</ogr:Field_4>
+    <ogr:Field_5>14</ogr:Field_5>
+    <ogr:Field_2>1-14</ogr:Field_2>
+    <ogr:Field_3>1</ogr:Field_3>
+    <ogr:Field_1>73</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.495880698735597" lon="0.126898278572584">
+  <name>kml_74</name>
+  <extensions>
+    <ogr:OBJECTID>74</ogr:OBJECTID>
+    <ogr:ID_SITE>2-21</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>2</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Découverte de la cité maritime</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>21</ogr:NUM_SITE>
+    <ogr:NOM_SITE>L'enseignement supérieur au Havre</ogr:NOM_SITE>
+    <ogr:Field_6>L'enseignement supérieur au Havre</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Découverte de la cité maritime</ogr:Field_4>
+    <ogr:Field_5>21</ogr:Field_5>
+    <ogr:Field_2>2-21</ogr:Field_2>
+    <ogr:Field_3>2</ogr:Field_3>
+    <ogr:Field_1>74</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.493397231760198" lon="0.106064910690637">
+  <name>kml_75</name>
+  <extensions>
+    <ogr:OBJECTID>75</ogr:OBJECTID>
+    <ogr:ID_SITE>1-03</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>1</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Circuit du Patrimoine mondial</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>03</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Avenue Foch</ogr:NOM_SITE>
+    <ogr:Field_6>Avenue Foch</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Circuit du Patrimoine mondial</ogr:Field_4>
+    <ogr:Field_5>03</ogr:Field_5>
+    <ogr:Field_2>1-03</ogr:Field_2>
+    <ogr:Field_3>1</ogr:Field_3>
+    <ogr:Field_1>75</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.493590816007" lon="0.096539502379788">
+  <name>kml_76</name>
+  <extensions>
+    <ogr:OBJECTID>76</ogr:OBJECTID>
+    <ogr:ID_SITE>1-05</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>1</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Circuit du Patrimoine mondial</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>05</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Porte océane</ogr:NOM_SITE>
+    <ogr:Field_6>Porte océane</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Circuit du Patrimoine mondial</ogr:Field_4>
+    <ogr:Field_5>05</ogr:Field_5>
+    <ogr:Field_2>1-05</ogr:Field_2>
+    <ogr:Field_3>1</ogr:Field_3>
+    <ogr:Field_1>76</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.488596402267397" lon="0.099300755421969">
+  <name>kml_77</name>
+  <extensions>
+    <ogr:OBJECTID>77</ogr:OBJECTID>
+    <ogr:ID_SITE>3-03</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>3</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade de front de mer</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>03</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Le Perrey, les chantiers navals A. Normand, la Résidence de France</ogr:NOM_SITE>
+    <ogr:Field_6>Le Perrey, les chantiers navals A. Normand, la Résidence de France</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade de front de mer</ogr:Field_4>
+    <ogr:Field_5>03</ogr:Field_5>
+    <ogr:Field_2>3-03</ogr:Field_2>
+    <ogr:Field_3>3</ogr:Field_3>
+    <ogr:Field_1>77</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.505857213399601" lon="0.075607540935522">
+  <name>kml_78</name>
+  <extensions>
+    <ogr:OBJECTID>78</ogr:OBJECTID>
+    <ogr:ID_SITE>3-14</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>3</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade de front de mer</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>14</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Boulevard Georges Dufayel</ogr:NOM_SITE>
+    <ogr:Field_6>Boulevard Georges Dufayel</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade de front de mer</ogr:Field_4>
+    <ogr:Field_5>14</ogr:Field_5>
+    <ogr:Field_2>3-14</ogr:Field_2>
+    <ogr:Field_3>3</ogr:Field_3>
+    <ogr:Field_1>78</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.484686926630403" lon="0.102264713101346">
+  <name>kml_79</name>
+  <extensions>
+    <ogr:OBJECTID>79</ogr:OBJECTID>
+    <ogr:ID_SITE>3-02</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>3</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade de front de mer</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>02</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Le Musée Malraux</ogr:NOM_SITE>
+    <ogr:Field_6>Le Musée Malraux</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade de front de mer</ogr:Field_4>
+    <ogr:Field_5>02</ogr:Field_5>
+    <ogr:Field_2>3-02</ogr:Field_2>
+    <ogr:Field_3>3</ogr:Field_3>
+    <ogr:Field_1>79</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.499213835591597" lon="0.090590301092695">
+  <name>kml_80</name>
+  <extensions>
+    <ogr:OBJECTID>80</ogr:OBJECTID>
+    <ogr:ID_SITE>3-10</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>3</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade de front de mer</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>10</ogr:NUM_SITE>
+    <ogr:NOM_SITE>La Villa Maritime</ogr:NOM_SITE>
+    <ogr:Field_6>La Villa Maritime</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade de front de mer</ogr:Field_4>
+    <ogr:Field_5>10</ogr:Field_5>
+    <ogr:Field_2>3-10</ogr:Field_2>
+    <ogr:Field_3>3</ogr:Field_3>
+    <ogr:Field_1>80</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.488812558838099" lon="0.102954869712768">
+  <name>kml_81</name>
+  <extensions>
+    <ogr:OBJECTID>81</ogr:OBJECTID>
+    <ogr:ID_SITE>1-10</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>1</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Circuit du Patrimoine mondial</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>10</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Ecole de Management de Normandie</ogr:NOM_SITE>
+    <ogr:Field_6>Ecole de Management de Normandie</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Circuit du Patrimoine mondial</ogr:Field_4>
+    <ogr:Field_5>10</ogr:Field_5>
+    <ogr:Field_2>1-10</ogr:Field_2>
+    <ogr:Field_3>1</ogr:Field_3>
+    <ogr:Field_1>81</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.508843995790798" lon="0.068689465799178">
+  <name>kml_82</name>
+  <extensions>
+    <ogr:OBJECTID>82</ogr:OBJECTID>
+    <ogr:ID_SITE>3-14bis</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>3</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade de front de mer</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>15</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Le cap de la Hève</ogr:NOM_SITE>
+    <ogr:Field_6>Le cap de la Hève</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade de front de mer</ogr:Field_4>
+    <ogr:Field_5>15</ogr:Field_5>
+    <ogr:Field_2>3-14bis</ogr:Field_2>
+    <ogr:Field_3>3</ogr:Field_3>
+    <ogr:Field_1>82</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.486832417833398" lon="0.115539238757326">
+  <name>kml_83</name>
+  <extensions>
+    <ogr:OBJECTID>83</ogr:OBJECTID>
+    <ogr:ID_SITE>4-01</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>4</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Au fil des quais</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>01</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Bureaux du Grand Port Maritime du Havre</ogr:NOM_SITE>
+    <ogr:Field_6>Bureaux du Grand Port Maritime du Havre</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Au fil des quais</ogr:Field_4>
+    <ogr:Field_5>01</ogr:Field_5>
+    <ogr:Field_2>4-01</ogr:Field_2>
+    <ogr:Field_3>4</ogr:Field_3>
+    <ogr:Field_1>83</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.4882491584927" lon="0.129390819683893">
+  <name>kml_84</name>
+  <extensions>
+    <ogr:OBJECTID>84</ogr:OBJECTID>
+    <ogr:ID_SITE>4-05</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>4</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Au fil des quais</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>05</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Carré des docks</ogr:NOM_SITE>
+    <ogr:ID_TO_SIGU>BA01877</ogr:ID_TO_SIGU>
+    <ogr:Field_6>Carré des docks</ogr:Field_6>
+    <ogr:Field_7>BA01877</ogr:Field_7>
+    <ogr:Field_4>Au fil des quais</ogr:Field_4>
+    <ogr:Field_5>05</ogr:Field_5>
+    <ogr:Field_2>4-05</ogr:Field_2>
+    <ogr:Field_3>4</ogr:Field_3>
+    <ogr:Field_1>84</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.485322071345301" lon="0.133182197665044">
+  <name>kml_85</name>
+  <extensions>
+    <ogr:OBJECTID>85</ogr:OBJECTID>
+    <ogr:ID_SITE>4-10</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>4</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Au fil des quais</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>10</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Eglise Saint-Nicolas</ogr:NOM_SITE>
+    <ogr:ID_TO_SIGU>BA00799</ogr:ID_TO_SIGU>
+    <ogr:Field_6>Eglise Saint-Nicolas</ogr:Field_6>
+    <ogr:Field_7>BA00799</ogr:Field_7>
+    <ogr:Field_4>Au fil des quais</ogr:Field_4>
+    <ogr:Field_5>10</ogr:Field_5>
+    <ogr:Field_2>4-10</ogr:Field_2>
+    <ogr:Field_3>4</ogr:Field_3>
+    <ogr:Field_1>85</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.485917459565897" lon="0.129995995604097">
+  <name>kml_86</name>
+  <extensions>
+    <ogr:OBJECTID>86</ogr:OBJECTID>
+    <ogr:ID_SITE>4-08</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>4</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Au fil des quais</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>08</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Foyer belge</ogr:NOM_SITE>
+    <ogr:Field_6>Foyer belge</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Au fil des quais</ogr:Field_4>
+    <ogr:Field_5>08</ogr:Field_5>
+    <ogr:Field_2>4-08</ogr:Field_2>
+    <ogr:Field_3>4</ogr:Field_3>
+    <ogr:Field_1>86</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.490663771760801" lon="0.097285927993909">
+  <name>kml_87</name>
+  <extensions>
+    <ogr:OBJECTID>87</ogr:OBJECTID>
+    <ogr:ID_SITE>3-05</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>3</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade de front de mer</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>05</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Boulevard Clemenceau, Immeuble le &quot;Transatlantique&quot;</ogr:NOM_SITE>
+    <ogr:Field_6>Boulevard Clemenceau, Immeuble le &quot;Transatlantique&quot;</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade de front de mer</ogr:Field_4>
+    <ogr:Field_5>05</ogr:Field_5>
+    <ogr:Field_2>3-05</ogr:Field_2>
+    <ogr:Field_3>3</ogr:Field_3>
+    <ogr:Field_1>87</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.486803614740303" lon="0.112683412105673">
+  <name>kml_88</name>
+  <extensions>
+    <ogr:OBJECTID>88</ogr:OBJECTID>
+    <ogr:ID_SITE>2-04</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>2</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Découverte de la cité maritime</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>04</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Maison de l'Armateur</ogr:NOM_SITE>
+    <ogr:Field_6>Maison de l'Armateur</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Découverte de la cité maritime</ogr:Field_4>
+    <ogr:Field_5>04</ogr:Field_5>
+    <ogr:Field_2>2-04</ogr:Field_2>
+    <ogr:Field_3>2</ogr:Field_3>
+    <ogr:Field_1>88</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.491802170460403" lon="0.11373804184842">
+  <name>kml_90</name>
+  <extensions>
+    <ogr:OBJECTID>90</ogr:OBJECTID>
+    <ogr:ID_SITE>2-10</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>2</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Découverte de la cité maritime</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>10</ogr:NUM_SITE>
+    <ogr:NOM_SITE>&quot;Le Vendôme&quot; Maison des Entreprises et Poste</ogr:NOM_SITE>
+    <ogr:Field_6>&quot;Le Vendôme&quot; Maison des Entreprises et Poste</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Découverte de la cité maritime</ogr:Field_4>
+    <ogr:Field_5>10</ogr:Field_5>
+    <ogr:Field_2>2-10</ogr:Field_2>
+    <ogr:Field_3>2</ogr:Field_3>
+    <ogr:Field_1>90</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.503182322366797" lon="0.084114930457215">
+  <name>kml_91</name>
+  <extensions>
+    <ogr:OBJECTID>91</ogr:OBJECTID>
+    <ogr:ID_SITE>3-12</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>3</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade de front de mer</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>12</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Rue du Roi-Albert</ogr:NOM_SITE>
+    <ogr:Field_6>Rue du Roi-Albert</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade de front de mer</ogr:Field_4>
+    <ogr:Field_5>12</ogr:Field_5>
+    <ogr:Field_2>3-12</ogr:Field_2>
+    <ogr:Field_3>3</ogr:Field_3>
+    <ogr:Field_1>91</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.491408905659299" lon="0.107634942027115">
+  <name>kml_92</name>
+  <extensions>
+    <ogr:OBJECTID>92</ogr:OBJECTID>
+    <ogr:ID_SITE>1-15</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>1</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Circuit du Patrimoine mondial</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>15</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Place Auguste Perret - l'appartement témoin</ogr:NOM_SITE>
+    <ogr:Field_6>Place Auguste Perret - l'appartement témoin</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Circuit du Patrimoine mondial</ogr:Field_4>
+    <ogr:Field_5>15</ogr:Field_5>
+    <ogr:Field_2>1-15</ogr:Field_2>
+    <ogr:Field_3>1</ogr:Field_3>
+    <ogr:Field_1>92</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.499458281779901" lon="0.099243175995257">
+  <name>kml_93</name>
+  <extensions>
+    <ogr:OBJECTID>93</ogr:OBJECTID>
+    <ogr:ID_SITE>5-06</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>5</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade des escaliers, côté ouest</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>06</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Rue Gabriel Monod : poste de commandement et central téléphonique</ogr:NOM_SITE>
+    <ogr:Field_6>Rue Gabriel Monod : poste de commandement et central téléphonique</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade des escaliers, côté ouest</ogr:Field_4>
+    <ogr:Field_5>06</ogr:Field_5>
+    <ogr:Field_2>5-06</ogr:Field_2>
+    <ogr:Field_3>5</ogr:Field_3>
+    <ogr:Field_1>93</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.5014371765958" lon="0.115599860365814">
+  <name>kml_94</name>
+  <extensions>
+    <ogr:OBJECTID>94</ogr:OBJECTID>
+    <ogr:ID_SITE>5-02</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>5</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade des escaliers, côté ouest</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>02</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Site de l'Amiral Mouchez : point de vue panoramique</ogr:NOM_SITE>
+    <ogr:Field_6>Site de l'Amiral Mouchez : point de vue panoramique</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade des escaliers, côté ouest</ogr:Field_4>
+    <ogr:Field_5>02</ogr:Field_5>
+    <ogr:Field_2>5-02</ogr:Field_2>
+    <ogr:Field_3>5</ogr:Field_3>
+    <ogr:Field_1>94</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.491250533249698" lon="0.101246970149237">
+  <name>kml_95</name>
+  <extensions>
+    <ogr:OBJECTID>95</ogr:OBJECTID>
+    <ogr:ID_SITE>1-07</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>1</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Circuit du Patrimoine mondial</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>07</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Eglise Saint-Joseph</ogr:NOM_SITE>
+    <ogr:Field_6>Eglise Saint-Joseph</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Circuit du Patrimoine mondial</ogr:Field_4>
+    <ogr:Field_5>07</ogr:Field_5>
+    <ogr:Field_2>1-07</ogr:Field_2>
+    <ogr:Field_3>1</ogr:Field_3>
+    <ogr:Field_1>95</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.498851190751701" lon="0.107250111769184">
+  <name>kml_96</name>
+  <extensions>
+    <ogr:OBJECTID>96</ogr:OBJECTID>
+    <ogr:ID_SITE>6-01</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>6</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade des escaliers, côté est</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>01</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Chapelle d'Ingouville</ogr:NOM_SITE>
+    <ogr:Field_6>Chapelle d'Ingouville</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade des escaliers, côté est</ogr:Field_4>
+    <ogr:Field_5>01</ogr:Field_5>
+    <ogr:Field_2>6-01</ogr:Field_2>
+    <ogr:Field_3>6</ogr:Field_3>
+    <ogr:Field_1>96</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.500218983923602" lon="0.117416286551046">
+  <name>kml_97</name>
+  <extensions>
+    <ogr:OBJECTID>97</ogr:OBJECTID>
+    <ogr:ID_SITE>6-03</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>6</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade des escaliers, côté est</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>03</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Lotissement des Ormeaux</ogr:NOM_SITE>
+    <ogr:Field_6>Lotissement des Ormeaux</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade des escaliers, côté est</ogr:Field_4>
+    <ogr:Field_5>03</ogr:Field_5>
+    <ogr:Field_2>6-03</ogr:Field_2>
+    <ogr:Field_3>6</ogr:Field_3>
+    <ogr:Field_1>97</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.496627597254303" lon="0.093318221186297">
+  <name>kml_98</name>
+  <extensions>
+    <ogr:OBJECTID>98</ogr:OBJECTID>
+    <ogr:ID_SITE>3-08</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>3</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade de front de mer</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>08</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Boulevard Albert 1er Maison (villa) style paquebot / immeuble paquebot</ogr:NOM_SITE>
+    <ogr:Field_6>Boulevard Albert 1er Maison (villa) style paquebot / immeuble paquebot</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade de front de mer</ogr:Field_4>
+    <ogr:Field_5>08</ogr:Field_5>
+    <ogr:Field_2>3-08</ogr:Field_2>
+    <ogr:Field_3>3</ogr:Field_3>
+    <ogr:Field_1>98</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.493170520955999" lon="0.111233019362014">
+  <name>kml_99</name>
+  <extensions>
+    <ogr:OBJECTID>99</ogr:OBJECTID>
+    <ogr:ID_SITE>2-12</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>2</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Découverte de la cité maritime</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>12</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Ancien siège de la Compagnie Générale Transatlantique</ogr:NOM_SITE>
+    <ogr:Field_6>Ancien siège de la Compagnie Générale Transatlantique</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Découverte de la cité maritime</ogr:Field_4>
+    <ogr:Field_5>12</ogr:Field_5>
+    <ogr:Field_2>2-12</ogr:Field_2>
+    <ogr:Field_3>2</ogr:Field_3>
+    <ogr:Field_1>99</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.494593619646203" lon="0.095413419279005">
+  <name>kml_23</name>
+  <extensions>
+    <ogr:OBJECTID>23</ogr:OBJECTID>
+    <ogr:ID_SITE>3-07</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>3</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade de front de mer</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>07</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Rue Champlain Immeubles art déco / Immeuble Braque</ogr:NOM_SITE>
+    <ogr:Field_6>Rue Champlain Immeubles art déco / Immeuble Braque</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade de front de mer</ogr:Field_4>
+    <ogr:Field_5>07</ogr:Field_5>
+    <ogr:Field_2>3-07</ogr:Field_2>
+    <ogr:Field_3>3</ogr:Field_3>
+    <ogr:Field_1>23</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.503916074404799" lon="0.096846417312615">
+  <name>kml_67</name>
+  <extensions>
+    <ogr:OBJECTID>67</ogr:OBJECTID>
+    <ogr:ID_SITE>5-08</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>5</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade des escaliers, côté ouest</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>08</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Les Jardins suspendus</ogr:NOM_SITE>
+    <ogr:ID_TO_SIGU>VE01225</ogr:ID_TO_SIGU>
+    <ogr:Field_6>Les Jardins suspendus</ogr:Field_6>
+    <ogr:Field_7>VE01225</ogr:Field_7>
+    <ogr:Field_4>Balade des escaliers, côté ouest</ogr:Field_4>
+    <ogr:Field_5>08</ogr:Field_5>
+    <ogr:Field_2>5-08</ogr:Field_2>
+    <ogr:Field_3>5</ogr:Field_3>
+    <ogr:Field_1>67</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.500958064800798" lon="0.090922540723414">
+  <name>kml_89</name>
+  <extensions>
+    <ogr:OBJECTID>89</ogr:OBJECTID>
+    <ogr:ID_SITE>5-10</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>5</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Balade des escaliers, côté ouest</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>10</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Rue Claude Monet</ogr:NOM_SITE>
+    <ogr:Field_6>Rue Claude Monet</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Balade des escaliers, côté ouest</ogr:Field_4>
+    <ogr:Field_5>10</ogr:Field_5>
+    <ogr:Field_2>5-10</ogr:Field_2>
+    <ogr:Field_3>5</ogr:Field_3>
+    <ogr:Field_1>89</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.490517142022497" lon="0.100481275321817">
+  <name>kml_100</name>
+  <extensions>
+    <ogr:OBJECTID>100</ogr:OBJECTID>
+    <ogr:ID_SITE>1-06</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>1</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Circuit du Patrimoine mondial</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>06</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Boulevard François 1er</ogr:NOM_SITE>
+    <ogr:Field_6>Boulevard François 1er</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Circuit du Patrimoine mondial</ogr:Field_4>
+    <ogr:Field_5>06</ogr:Field_5>
+    <ogr:Field_2>1-06</ogr:Field_2>
+    <ogr:Field_3>1</ogr:Field_3>
+    <ogr:Field_1>100</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.483622498551398" lon="0.133223307317093">
+  <name>kml_101</name>
+  <extensions>
+    <ogr:OBJECTID>101</ogr:OBJECTID>
+    <ogr:ID_SITE>4-13</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>4</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Au fil des quais</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>13</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Docks Dombasle : jardin fluvial</ogr:NOM_SITE>
+    <ogr:Field_6>Docks Dombasle : jardin fluvial</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Au fil des quais</ogr:Field_4>
+    <ogr:Field_5>13</ogr:Field_5>
+    <ogr:Field_2>4-13</ogr:Field_2>
+    <ogr:Field_3>4</ogr:Field_3>
+    <ogr:Field_1>101</ogr:Field_1>
+  </extensions>
+</wpt>
+<wpt lat="49.458656645641803" lon="0.181435325368865">
+  <name>kml_102</name>
+  <extensions>
+    <ogr:OBJECTID>102</ogr:OBJECTID>
+    <ogr:ID_SITE>4-19</ogr:ID_SITE>
+    <ogr:NUM_ITINERAIRE>4</ogr:NUM_ITINERAIRE>
+    <ogr:NOM_ITINERAIRE>Au fil des quais</ogr:NOM_ITINERAIRE>
+    <ogr:NUM_SITE>19</ogr:NUM_SITE>
+    <ogr:NOM_SITE>Un peu plus loin - Port 2000</ogr:NOM_SITE>
+    <ogr:Field_6>Un peu plus loin - Port 2000</ogr:Field_6>
+    <ogr:Field_7></ogr:Field_7>
+    <ogr:Field_4>Au fil des quais</ogr:Field_4>
+    <ogr:Field_5>19</ogr:Field_5>
+    <ogr:Field_2>4-19</ogr:Field_2>
+    <ogr:Field_3>4</ogr:Field_3>
+    <ogr:Field_1>102</ogr:Field_1>
+  </extensions>
+</wpt>
+</gpx>
