@@ -85,10 +85,6 @@
     <edit-config file="*-Info.plist" mode="merge" target="NSLocationWhenInUseUsageDescription">
         <string>Nous avons besoin de votre localisation pour vous faire profiter pleinement de notre application.</string>
     </edit-config>
-    <config-file parent="NSCameraUsageDescription" platform="ios" target="*-Info.plist">
-        <string>Nous avons besoin d'acceder à la camera.</string>
-    </config-file>
-    <plugin name="cordova-plugin-qrscanner" spec="2.6.0" />
     <engine name="ios" spec="4.5.5" />
     <engine name="android" spec="7.1.4" />
 </widget>
