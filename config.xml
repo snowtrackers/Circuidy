@@ -85,6 +85,6 @@
     <edit-config file="*-Info.plist" mode="merge" target="NSLocationWhenInUseUsageDescription">
         <string>Nous avons besoin de votre localisation pour vous faire profiter pleinement de notre application.</string>
     </edit-config>
-    <engine name="ios" spec="4.5.5" />
-    <engine name="android" spec="7.1.4" />
+    <engine name="ios" spec="^4.5.5" />
+    <engine name="android" spec="^7.1.4" />
 </widget>

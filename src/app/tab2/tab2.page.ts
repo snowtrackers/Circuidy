@@ -3,10 +3,9 @@ import { Component, OnInit } from '@angular/core';
 import { Geolocation } from '@ionic-native/geolocation/ngx';
 
 import * as L from 'leaflet';
-import { ToastController } from '@ionic/angular';
 
-import { ActionSheetController } from "@ionic/angular";
-import { HttpClient } from "@angular/common/http";
+import { ActionSheetController } from '@ionic/angular';
+import { HttpClient } from '@angular/common/http';
 
 @Component({
   selector: 'app-tab2',
@@ -17,11 +16,10 @@ import { HttpClient } from "@angular/common/http";
 export class Tab2Page implements OnInit {
   map: L.Map;
 
-  watch:any;
+  watch: any;
 
   constructor(
       private geo: Geolocation,
-      private toast: ToastController,
       private actionSheetController: ActionSheetController,
       private http: HttpClient
     ) { }
@@ -30,7 +28,7 @@ export class Tab2Page implements OnInit {
     this.map = L.map('map');
 
     L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-      attribution: 'Map'
+      attribution: ''
     }).addTo(this.map);
 
     this.locate();
@@ -40,8 +38,7 @@ export class Tab2Page implements OnInit {
       // data can be a set of coordinates, or an error (if an error occurred).
       // data.coords.latitude
       // data.coords.longitude
-      this.http.post("http://servuc.fr:3000/positions?lat=" + data.coords.latitude + "&lon=" + data.coords.longitude, {}).subscribe();
-
+      this.http.post('http://servuc.fr:3000/positions?lat=' + data.coords.latitude + '&lon=' + data.coords.longitude, {}).subscribe();
     });
   }
 
@@ -49,11 +46,57 @@ export class Tab2Page implements OnInit {
     this.geo.getCurrentPosition().then(
       (response) => {
         this.map.setView([response.coords.latitude, response.coords.longitude], 12);
+
+        this.setLeHavreCircles();
+
+        this.setParcours();
       },
       (reason) => {
         console.error(reason);
       }
     );
+  }
+
+  private setParcours() {
+    this.http.get('/assets/GPSCoordinate/parcours.gpx', { responseType: 'text' })
+      .subscribe(xmlData => {
+        const parser = new DOMParser();
+        const xml = parser.parseFromString(xmlData, 'text/xml');
+
+        let points = new Array<L.LatLng>();
+
+        for (const elt of Array.from(xml.querySelectorAll('trkseg'))) {
+          for (const point of Array.from(elt.querySelectorAll('trkpt'))) {
+            points.push(new L.LatLng(point.attributes.getNamedItem('lat').value, point.attributes.getNamedItem('lon').value));
+          }
+
+          L.polyline(points, {
+            color: 'magenta',
+            weight: 3,
+            opacity: 0.5,
+            smoothFactor: 1
+          }).addTo(this.map);
+
+          points = [];
+        }
+      });
+  }
+
+  private setLeHavreCircles() {
+    this.http.get('/assets/GPSCoordinate/siteRandonne.gpx', { responseType: 'text' })
+      .subscribe(xmlData => {
+        const parser = new DOMParser();
+        const xml = parser.parseFromString(xmlData, 'text/xml');
+
+        for (const elt of Array.from(xml.querySelectorAll('wpt'))) {
+          L.circle([elt.attributes.getNamedItem('lat').value, elt.attributes.getNamedItem('lon').value], {
+            color: 'red',
+            fillColor: '#f03',
+            fillOpacity: 0.2,
+            radius: 10
+          }).addTo(this.map);
+        }
+      });
   }
 
   async presentActionSheet() {
@@ -77,12 +120,12 @@ export class Tab2Page implements OnInit {
       }, {
         text: '★ ★ ★ ★',
         handler: () => {
-          this.sendOpinion("SMILE");
+          this.sendOpinion('SMILE');
         }
       }, {
         text: '★ ★ ★ ★ ★',
         handler: () => {
-          this.sendOpinion("SMILE");
+          this.sendOpinion('SMILE');
         }
       }, {
         text: 'Ne pas noter',
@@ -100,27 +143,27 @@ export class Tab2Page implements OnInit {
       buttons: [{
         text: 'Texte effacé',
         handler: () => {
-          this.sendOpinion("BAD_TEXT");
+          this.sendOpinion('BAD_TEXT');
         }
       }, {
         text: 'Dispositif abimé',
         handler: () => {
-          this.sendOpinion("BROKEN_SIGN");
+          this.sendOpinion('BROKEN_SIGN');
         }
       }, {
         text: 'Présence de déchets',
         handler: () => {
-          this.sendOpinion("APPLE");
+          this.sendOpinion('APPLE');
         }
       }, {
         text: 'Chemin impraticable',
         handler: () => {
-          this.sendOpinion("BAD_ROAD");
+          this.sendOpinion('BAD_ROAD');
         }
       }, {
         text: 'Poubelle pleine/non présente',
         handler: () => {
-          this.sendOpinion("DUSTBIN");
+          this.sendOpinion('DUSTBIN');
         }
       }, {
         text: 'Cancel',
@@ -136,8 +179,7 @@ export class Tab2Page implements OnInit {
 
   sendOpinion( type: String ) {
     this.geo.getCurrentPosition().then((resp) => {
-      this.http.post("http://servuc.fr:3000/notifications?lat=" + resp.coords.latitude + "&lon=" + resp.coords.longitude + "&message=&type=" + type, {}).subscribe();
-    }).catch((error) => {
-    });
+      this.http.post('http://servuc.fr:3000/notifications?lat=' + resp.coords.latitude + '&lon=' + resp.coords.longitude + '&message=&type=' + type, {}).subscribe();
+    }).catch((error) => {});
   }
 }
